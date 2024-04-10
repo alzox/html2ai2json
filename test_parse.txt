@@ -10,14 +10,6 @@
 				<div class="events-item__title">
 					<a href="/events/workshop-2024-04-17-leather-bookcover">Make a leather book cover</a>
 				</div>
-				<!-- remove trailing seconds zeros on time -->
-				
-				
-				<!-- check for leading zero -->
-				
-				
-				<!-- remove if present -->
-				
 				
 				<div class="events-item__logistics">
 					<div class="events-logistics__time"><span>When: </span>Wednesday, April 17, 2024, 1:00PM-3:00PM</div>
