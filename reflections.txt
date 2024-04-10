@@ -1,4 +1,15 @@
 Scraping Problems:
 Time and Date formats are not consistent
 Token lengths are not full
-There are missing events in different classes
+There are missing events in different jsons
+Identify problems for the correct json
+
+Potential Solutions:
+Use a library to convert the time and date formats to a consistent format
+Extend token length for the API
+Understand why events are missing whether in HTML or processed-JSON
+Produce metrics when reading in json
+
+To-do:
+REFACTOR AND WRITE TESTS PLEASE FOR THE LOVE OF GOD
+Work on Potential Solutions
