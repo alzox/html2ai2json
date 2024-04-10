@@ -1,0 +1,88 @@
+<div class="events-gallery">
+            <h2>Upcoming Events</h2>
+			
+            
+			<!-- event layout: -->
+			<section class="events-gallery__item">
+				<div class="events-item__date">
+					<div>Apr<br>17</div>
+				</div>
+				<div class="events-item__title">
+					<a href="/events/workshop-2024-04-17-leather-bookcover">Make a leather book cover</a>
+				</div>
+				<!-- remove trailing seconds zeros on time -->
+				
+				
+				<!-- check for leading zero -->
+				
+				
+				<!-- remove if present -->
+				
+				
+				<div class="events-item__logistics">
+					<div class="events-logistics__time"><span>When: </span>Wednesday, April 17, 2024, 1:00PM-3:00PM</div>
+					<div class="events-logistics__place"><span>Where: </span>Scholars' Lab Makerspace - Alderman 308i</div>
+				</div>
+				<div class="events-item__cta">
+					<a href="/events/workshop-2024-04-17-leather-bookcover">Details ›</a>
+				</div>
+			</section>
+            
+			
+                        
+            
+			<section class="events-gallery__item">
+				<div class="events-item__date">
+					<div>May<br>3</div>
+				</div>
+				<div class="events-item__title">
+					<a href="/events/workshop-2024-spring-event-may-the-fourth">May the 4th</a>
+				</div>
+				<!-- remove trailing seconds zeros on time -->
+				
+				
+				<!-- check for leading zero -->
+				
+				
+				<!-- remove if present -->
+				
+				
+				<div class="events-item__logistics">
+					<div class="events-logistics__time"><span>When: </span>Friday, May 3, 2024, -</div>
+					<div class="events-logistics__place"><span>Where: </span>Scholars' Lab Makerspace - Alderman 308i</div>
+				</div>
+				<div class="events-item__cta">
+					<a href="/events/workshop-2024-spring-event-may-the-fourth">Details ›</a>
+				</div>
+			</section>
+            
+			
+                        
+            
+			<section class="events-gallery__item">
+				<div class="events-item__date">
+					<div>May<br>6</div>
+				</div>
+				<div class="events-item__title">
+					<a href="/events/workshop-2024-spring-event-mothers-day">Mother's Day</a>
+				</div>
+				<!-- remove trailing seconds zeros on time -->
+				
+				
+				<!-- check for leading zero -->
+				
+				
+				<!-- remove if present -->
+				
+				
+				<div class="events-item__logistics">
+					<div class="events-logistics__time"><span>When: </span>Monday, May 6, 2024, -</div>
+					<div class="events-logistics__place">Scholars' Lab Makerspace - Alderman 308i<span>Where: </span></div>
+				</div>
+				<div class="events-item__cta">
+					<a href="/events/workshop-2024-spring-event-mothers-day">Details ›</a>
+				</div>
+			</section>
+            
+			 <!-- end event -->
+		</div>
