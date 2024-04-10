@@ -1,0 +1,4 @@
+Scraping Problems:
+Time and Date formats are not consistent
+Token lengths are not full
+There are missing events in different classes
