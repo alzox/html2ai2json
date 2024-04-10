@@ -1,0 +1,36 @@
+```JSON
+[
+  {
+    "Title": "Honoring Julieanna L. Richardson",
+    "Start Time": "3:30 PM",
+    "End Time": "6:00 PM",
+    "Date": "April 12, 2024",
+    "Location": "Colonnade Club",
+    "Guest Speaker": "Julieanna L. Richardson"
+  },
+  {
+    "Title": "Batten Hour: With Daniel Reifsnyder",
+    "Start Time": "12:30 PM",
+    "End Time": "1:30 PM",
+    "Date": "April 15, 2024",
+    "Location": "Not specified",
+    "Guest Speaker": "Daniel Reifsnyder"
+  },
+  {
+    "Title": "Putting Equity-Minded Policy Into Practice",
+    "Start Time": "12:00 PM",
+    "End Time": "1:00 PM",
+    "Date": "April 18, 2024",
+    "Location": "Not specified",
+    "Guest Speaker": "Darlene Flynn"
+  },
+  {
+    "Title": "Batten Hour with Elizabeth Andrews: The State of Climate Policy in Virginia",
+    "Start Time": "12:30 PM",
+    "End Time": "1:30 PM",
+    "Date": "April 22, 2024",
+    "Location": "Not specified",
+    "Guest Speaker": "Elizabeth Andrews"
+  }
+]
+```
