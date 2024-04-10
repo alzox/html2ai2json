@@ -1,4 +1,3 @@
-``` JSON
 [
 {
 "Title": "Graduate Writing Caf",
@@ -46,7 +45,7 @@
 "End Time": null,
 "Date": null,
 "Location": "Other",
-"Guest Speaker": null
+"Guest Speaker": "The Dale Avenue Band"
 },
 {
 "Title": "Open Publication Workshop",
@@ -73,4 +72,3 @@
 "Guest Speaker": null
 }
 ]
-```
