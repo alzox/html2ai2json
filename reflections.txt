@@ -7,13 +7,27 @@ What works:
 
 
 Problems pt.2:
+Modular metadata tagging to sites for have full scraping for all events
+(Load More Buttons, JS Next, Pagination, etc.)
 Incorrect html scraping
-Different calendars load different time frames
+(Span, Card, etc.)
 Need to track event department
 
 Site Problems Analysis:
 Med - scraping news in with events
 Arch - incorrect html scraping
-Career - incorrect scraping
+Career - incorrect html scraping
 
 Site Timeframes Analysis:
+https://scholarslab.lib.virginia.edu/events/ - All Planned
+https://www.virginia.edu/calendar - Week 
+https://education.virginia.edu/events - 10 of upcoming
+https://global.virginia.edu/events - 5 of upcoming
+https://cal.lib.virginia.edu/calendar/events?cid=4299&t=m&d=0000-00-00&cal=4299&ct=69160,33395,66337,31015,30813,51597,58853,58854,58855,58856,70846,45972,31362,27888,30045,27381,57994,54907,26930,29624,56703,66253,66255,66338,46136,70848,33496,70427,27725,29618,63738,28898,33396,38996,50481,70849,51598,29985&inc=0
+https://engineering.virginia.edu/news-events/events - 10 of upcoming
+https://commcal.mcintire.virginia.edu/ - 9 of upcoming
+https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12 - 12 of upcoming
+https://news.med.virginia.edu/ - 6 of upcoming
+https://events.batten.virginia.edu/ - 4 of upcoming
+https://economics.virginia.edu/calendar/month?date=2024-04 - Month
+https://career.virginia.edu/Employers - 4 of upcoming
