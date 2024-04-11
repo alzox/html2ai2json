@@ -1,6 +1,5 @@
 Problems pt.2:
-Split long files into smaller files
-Getting Data for Start time < 20% and Date < 10%
+Split long html files into smaller files
 Different calendars load different time frames
 
 Site Problems Analysis:
@@ -8,7 +7,6 @@ scholarslab - just doesn't have start times for those event's
 Med - scraping news in with events
 Arch - potentially scraping wrong classes
 Career - potentially scraping wrong classes
-
 
 Site Timeframes:
 
