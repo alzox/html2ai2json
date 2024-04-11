@@ -9,7 +9,6 @@ What works:
 Problems pt.2:
 Modular metadata tagging to sites for have full scraping for all events
 (Load More Buttons, JS Next, Pagination, etc.)
-Need to track event department
 
 Site Timeframes Analysis:
 https://scholarslab.lib.virginia.edu/events/ - All Planned
