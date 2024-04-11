@@ -1,14 +1,10 @@
 Problems pt.2:
-Split long html files into smaller files
+Incorrect html scraping
 Different calendars load different time frames
 
 Site Problems Analysis:
-scholarslab - just doesn't have start times for those event's
 Med - scraping news in with events
-Arch - potentially scraping wrong classes
-Career - potentially scraping wrong classes
+Arch - incorrect html scraping
+Career - incorrect scraping
 
-Site Timeframes:
-
-To-do:
-Work on Potential Solutions
+Site Timeframes Analysis:
