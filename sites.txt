@@ -5,7 +5,7 @@ https://global.virginia.edu/events
 https://cal.lib.virginia.edu/calendar/events?cid=4299&t=m&d=0000-00-00&cal=4299&ct=69160,33395,66337,31015,30813,51597,58853,58854,58855,58856,70846,45972,31362,27888,30045,27381,57994,54907,26930,29624,56703,66253,66255,66338,46136,70848,33496,70427,27725,29618,63738,28898,33396,38996,50481,70849,51598,29985&inc=0
 https://engineering.virginia.edu/news-events/events
 https://commcal.mcintire.virginia.edu/
-https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12
+https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=20
 https://news.med.virginia.edu/
 https://events.batten.virginia.edu/
 https://economics.virginia.edu/calendar/month?date=2024-04
