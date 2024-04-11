@@ -9,14 +9,6 @@ What works:
 Problems pt.2:
 Modular metadata tagging to sites for have full scraping for all events
 (Load More Buttons, JS Next, Pagination, etc.)
-Incorrect html scraping
-(Span, Card, etc.)
-Need to track event department
-
-Site Problems Analysis:
-Med - scraping news in with events
-Arch - incorrect html scraping
-Career - incorrect html scraping
 
 Site Timeframes Analysis:
 https://scholarslab.lib.virginia.edu/events/ - All Planned

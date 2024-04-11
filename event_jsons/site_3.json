@@ -1,20 +1,6 @@
 
 [
   {
-    "Title": "Photojournalists on the Front Line: The Emotional Toll",
-    "Start Time": "1:00pm",
-    "End Time": null,
-    "Date": "April 9",
-    "Location": "University of Virginia Rotunda Dome Room"
-  },
-  {
-    "Title": "English Conversation Group",
-    "Start Time": "5:30pm",
-    "End Time": "6:30pm",
-    "Date": "April 9",
-    "Location": "Lorna Sundberg International Center"
-  },
-  {
     "Title": "Miraculous Objects: Relics and Buddha Images in Xuanzangs Datang Xiyu ji",
     "Start Time": "12:00pm",
     "End Time": null,
@@ -22,7 +8,7 @@
     "Location": "New Cabell Hall"
   },
   {
-    "Title": "National defense strategy: Asking what you can do for your country",
+    "Title": " National defense strategy: Asking what you can do for your country",
     "Start Time": "2:00pm",
     "End Time": null,
     "Date": "April 11",
@@ -34,6 +20,20 @@
     "End Time": null,
     "Date": "April 12",
     "Location": "Bond House"
+  },
+  {
+    "Title": "Holding our presidents accountable",
+    "Start Time": "2:00pm",
+    "End Time": null,
+    "Date": "April 15",
+    "Location": "The Miller Center"
+  },
+  {
+    "Title": "English Conversation Group",
+    "Start Time": "5:30pm",
+    "End Time": null,
+    "Date": "April 16",
+    "Location": "Lorna Sundberg International Center"
   }
 ]
  
