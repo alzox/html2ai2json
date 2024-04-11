@@ -1,186 +1,179 @@
+
 [
   {
     "Title": "IO/Theory Economics Workshop: Peter Newberry",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 1, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Peter Newberry"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 1",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Global Development Workshop: Fred Finan",
-    "Start Time": "12:15",
-    "End Time": "1:30",
-    "Date": "April 2, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Fred Finan"
+    "Start Time": "12:15pm",
+    "End Time": "1:30pm",
+    "Date": "April 2",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Macro Economics Workshop: Toshihiko Mukoyama",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 3, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Toshihiko Mukoyama"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 3",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Theory/Experimental Economics Workshop: Olivier Armantier",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 8, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Olivier Armantier"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 8",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Graduate Workshop - Morning Lecture",
-    "Start Time": "930",
-    "End Time": "1030",
-    "Date": "April 9, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": null
+    "Start Time": "9:30am",
+    "End Time": "10:30am",
+    "Date": "April 9",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Graduate Workshop- Reception",
-    "Start Time": "3:00",
-    "End Time": "3:30",
-    "Date": "April 9, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": null
+    "Start Time": "3:00pm",
+    "End Time": "3:30pm",
+    "Date": "April 9",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Graduate Workshop- Afternoon Lecture",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 9, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": null
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 9",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "International/Trade Workshop: Lydia Cox",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 10, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Lydia Cox"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 10",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Ben Chenault ---Dissertation Defense",
-    "Start Time": "1:00",
-    "End Time": "2:00",
-    "Date": "April 10, 2024",
-    "Location": "Monroe Hall - 235",
-    "Guest Speaker": "Ben Chenault"
+    "Start Time": "1:00pm",
+    "End Time": "2:00pm",
+    "Date": "April 10",
+    "Location": "Monroe Hall - 235"
   },
   {
     "Title": "Applied Micro Workshop: Marcus Casey",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 11, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Marcus Casey"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 11",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "IO/Theory Workshop: Ozlem Bedrie Defolie",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 15, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Ozlem Bedrie Defolie"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 15",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Macro Workshop: Simon Smith",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 15, 2024",
-    "Location": "Monroe Hall, Room 235",
-    "Guest Speaker": "Simon Smith"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 15",
+    "Location": "Monroe Hall, Room 235"
   },
   {
     "Title": "Dissertation Defense: Mrithyunjayan (MJ)  Nilayamgode",
-    "Start Time": "10:45",
-    "End Time": "12:15",
-    "Date": "April 16, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Mrithyunjayan (MJ)  Nilayamgode"
+    "Start Time": "10:45am",
+    "End Time": "12:15pm",
+    "Date": "April 16",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Macro Workshop: Can Tian",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 17, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Can Tian"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 17",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Dissertation Defense: Yutong Chen",
-    "Start Time": "9:30",
-    "End Time": "10:45",
-    "Date": "April 17, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Yutong Chen"
+    "Start Time": "9:30am",
+    "End Time": "10:45am",
+    "Date": "April 17",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Dissertation Defense: Tyler Wake",
-    "Start Time": "1:00",
-    "End Time": "2:30",
-    "Date": "April 18, 2024",
-    "Location": "Monroe Hall, room 235",
-    "Guest Speaker": "Tyler Wake"
+    "Start Time": "1:00pm",
+    "End Time": "2:30pm",
+    "Date": "April 18",
+    "Location": "Monroe Hall, room 235"
   },
   {
     "Title": "Faculty Meeting",
-    "Start Time": "12:00",
-    "End Time": "2:00",
-    "Date": "April 19, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": null
+    "Start Time": "12:00pm",
+    "End Time": "2:00pm",
+    "Date": "April 19",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Experimental Theory Workshop: Charles Noussair",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 22, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Charles Noussair"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 22",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Joint IO/Theory/Econometrics Workshop: Ginger Jin",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 23, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Ginger Jin"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 23",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "International/Trade Workshop: Luca David Opromolla",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 24, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Luca David Opromolla"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 24",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Public Economics Workshop: Corina Mommaerts",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 25, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Corina Mommaerts"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 25",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "IO/Theory Economics Workshop: Regis Renault",
-    "Start Time": "3:30",
-    "End Time": "5:00",
-    "Date": "April 29, 2024",
-    "Location": "Monroe Hall, Room 120",
-    "Guest Speaker": "Regis Renault"
+    "Start Time": "3:30pm",
+    "End Time": "5:00pm",
+    "Date": "April 29",
+    "Location": "Monroe Hall, Room 120"
   },
   {
     "Title": "Dissertation Defense: Siqi Yang",
-    "Start Time": "10:00",
-    "End Time": "11:30",
-    "Date": "April 29, 2024",
-    "Location": "Monroe Hall, Room 235",
-    "Guest Speaker": "Siqi Yang"
+    "Start Time": "10:00am",
+    "End Time": "11:30am",
+    "Date": "April 29",
+    "Location": "Monroe Hall, Room 235"
+  },
+  {
+    "Title": "Global Development Seminar: Laurent Bouton",
+    "Start Time": "12:15pm",
+    "End Time": "1:30pm",
+    "Date": "April 30",
+    "Location": "Monroe Hall, Room 120"
+  },
+  {
+    "Title": "Dissertation Defense- Donghyun Suh",
+    "Start Time": "10:00am",
+    "End Time": "11:30am",
+    "Date": "April 30",
+    "Location": "Monroe Hall, Room 235"
   }
 ]
+ 

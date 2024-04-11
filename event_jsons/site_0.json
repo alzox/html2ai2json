@@ -1,1 +1,39 @@
-[{"Title":"Make a leather book cover","Start Time":"13:00","End Time":"15:00","Date":"April 17, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null},{"Title":"May the 4th","Start Time":null,"End Time":null,"Date":"May 3, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null},{"Title":"Mother's Day","Start Time":null,"End Time":null,"Date":"May 6, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null},{"Title":"Make a Website","Start Time":null,"End Time":null,"Date":"April 3, 2024","Location":null,"Guest Speaker":null},{"Title":"April Fools' Make-a-Prank","Start Time":null,"End Time":null,"Date":"April 1, 2024","Location":null,"Guest Speaker":null},{"Title":"Make a leather book cover","Start Time":"13:00","End Time":"15:00","Date":"April 17, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null},{"Title":"May the 4th","Start Time":null,"End Time":null,"Date":"May 3, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null},{"Title":"Mother's Day","Start Time":null,"End Time":null,"Date":"May 6, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null},{"Title":"Make a leather book cover","Start Time":"13:00","End Time":"15:00","Date":"April 17, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null},{"Title":"May the 4th","Start Time":null,"End Time":null,"Date":"May 3, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null},{"Title":"Mother's Day","Start Time":null,"End Time":null,"Date":"May 6, 2024","Location":"Scholars' Lab Makerspace - Alderman 308i","Guest Speaker":null}]
+
+[
+  {
+    "Title": "Make a leather book cover",
+    "Start Time": "1:00PM",
+    "End Time": "3:00PM",
+    "Date": "April 17",
+    "Location": "Scholars' Lab Makerspace - Alderman 308i"
+  },
+  {
+    "Title": "May the 4th",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "May 3",
+    "Location": "Scholars' Lab Makerspace - Alderman 308i"
+  },
+  {
+    "Title": "Mother's Day",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "May 6",
+    "Location": "Scholars' Lab Makerspace - Alderman 308i"
+  },
+  {
+    "Title": "Make a Website",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 3",
+    "Location": null
+  },
+  {
+    "Title": "April Fools' Make-a-Prank",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 1",
+    "Location": null
+  }
+]
+ 

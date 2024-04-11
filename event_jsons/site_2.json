@@ -1,3 +1,4 @@
+
 [
   {
     "Title": "Graduate Writing Cafe",
@@ -5,7 +6,8 @@
     "End Time": "3:00 PM",
     "Date": "April 9",
     "Location": "Holloway Hall, Bavaro",
-    "Guest Speaker": null
+    "Event Topics": "Teaching & Learning",
+    "Event Sponsors": "Academic Programs & Student Affairs"
   },
   {
     "Title": "Introduction to Graduate Study at the UVA School of Education and Human Development",
@@ -13,7 +15,8 @@
     "End Time": "5:00 PM",
     "Date": "April 11",
     "Location": "Virtual",
-    "Guest Speaker": null
+    "Event Topics": "Admission",
+    "Event Sponsors": "Admission & Enrollment"
   },
   {
     "Title": "UVA Communication Science and Disorders Accreditation Public Meeting",
@@ -21,7 +24,8 @@
     "End Time": "6:00 PM",
     "Date": "April 17",
     "Location": "Room 318A, Bavaro Hall",
-    "Guest Speaker": null
+    "Event Topics": "Health & Wellness\nTeaching & Learning",
+    "Event Sponsors": "Human Services"
   },
   {
     "Title": "Wheelchair Takeover: Paralympic Pick-up",
@@ -29,15 +33,17 @@
     "End Time": "6:00 PM",
     "Date": "April 19",
     "Location": "Memorial Gym Outdoor Courts",
-    "Guest Speaker": null
+    "Event Topics": "Inclusion, Diversity, Equity & Accessibility\nHealth & Wellness",
+    "Event Sponsors": "Kinesiology"
   },
   {
-    "Title": "EHD Black Alumni Weekend Events: Honoring the Past, Advancing in the Future",
+    "Title": "EHD Black Alumni Weekend Events: Honoring the Past, Advancing in the Future\nA lecture on the life and legacy of Dr. Walter Ridley, followed by a reception honoring Dr. Louise Hunter",
     "Start Time": "3:30 PM",
     "End Time": "5:30 PM",
     "Date": "April 19",
     "Location": "Holloway Hall, Bavaro",
-    "Guest Speaker": null
+    "Event Topics": "Inclusion, Diversity, Equity & Accessibility",
+    "Event Sponsors": "Office of Diversity, Equity and Inclusion"
   },
   {
     "Title": "M.Ed. in Administration & Supervision Information Session",
@@ -45,7 +51,8 @@
     "End Time": "5:00 PM",
     "Date": "April 22",
     "Location": "Virtual",
-    "Guest Speaker": null
+    "Event Topics": "Admission",
+    "Event Sponsors": "Admission & Enrollment"
   },
   {
     "Title": "M.Ed. in Administration & Supervision Information Session",
@@ -53,7 +60,8 @@
     "End Time": "7:00 PM",
     "Date": "April 23",
     "Location": "Virtual",
-    "Guest Speaker": null
+    "Event Topics": "Admission",
+    "Event Sponsors": "Admission & Enrollment"
   },
   {
     "Title": "How to Become a Teacher Information Session April 2024",
@@ -61,7 +69,8 @@
     "End Time": "8:00 PM",
     "Date": "April 23",
     "Location": "Virtual",
-    "Guest Speaker": null
+    "Event Topics": "Admission\nTeaching & Learning",
+    "Event Sponsors": "Admission & Enrollment\nCurriculum, Instruction & Special Education"
   },
   {
     "Title": "EHD Yoga",
@@ -69,7 +78,8 @@
     "End Time": "10:00 AM",
     "Date": "April 29",
     "Location": "Holloway/Bavaro atrium",
-    "Guest Speaker": null
+    "Event Topics": "Health & Wellness",
+    "Event Sponsors": "Academic Programs & Student Affairs"
   },
   {
     "Title": "Ice Cream Social",
@@ -77,6 +87,6 @@
     "End Time": "2:00 PM",
     "Date": "April 30",
     "Location": "Bavaro Atrium/Courtyard",
-    "Guest Speaker": null
+    "Event Sponsors": "Academic Programs & Student Affairs"
   }
 ]

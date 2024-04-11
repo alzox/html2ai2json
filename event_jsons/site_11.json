@@ -1,42 +1,39 @@
+
 [
   {
-    "Title": "Bain & Company UVA THRIVE Conference",
+    "Title": "@UVA: Bain & Company UVA THRIVE Conference",
     "Start Time": "10:00 AM",
     "End Time": null,
-    "Date": "April 12, 2024",
-    "Location": null,
-    "Guest Speaker": null
+    "Date": "April 12",
+    "Location": "UVA"
   },
   {
-    "Title": "SWE: Yoga in the Gardens",
+    "Title": "@UVA: SWE: Yoga in the Gardens",
     "Start Time": "4:00 PM",
     "End Time": null,
-    "Date": "April 16, 2024",
-    "Location": null,
-    "Guest Speaker": null
+    "Date": "April 16",
+    "Location": "UVA"
   },
   {
-    "Title": "NSBE: Personal Branding",
+    "Title": "@UVA: NSBE: Personal Branding",
     "Start Time": "6:00 PM",
     "End Time": null,
-    "Date": "April 22, 2024",
-    "Location": null,
-    "Guest Speaker": null
+    "Date": "April 22",
+    "Location": "UVA"
   },
   {
-    "Title": "McKinsey Recruiter Office Hours for UVA Students",
+    "Title": "@UVA: McKinsey Recruiter Office Hours for UVA Students",
     "Start Time": "3:30 PM",
     "End Time": "4:30 PM",
-    "Date": "April 25, 2024",
-    "Location": "Newcomb Hall 376",
-    "Guest Speaker": "Yessica"
+    "Date": "April 25",
+    "Location": "Newcomb Hall 376"
   },
   {
-    "Title": "A Day in the Life of a McKinsey Business Analyst",
+    "Title": "@UVA: A Day in the Life of a McKinsey Business Analyst",
     "Start Time": "6:00 PM",
     "End Time": null,
-    "Date": "April 25, 2024",
-    "Location": null,
-    "Guest Speaker": null
+    "Date": "April 25",
+    "Location": "UVA"
   }
 ]
+ 
