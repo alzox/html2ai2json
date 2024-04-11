@@ -1,6 +1,15 @@
+What works:
+- Scraping events (besides identified sites): Selenium, BeautifulSoup
+- Calling API to transfer data to JSON: Gemini AI API
+- Postprocessing to fill in date and time: Pandas, DateTime, and Helper Functions
+* Store in a database: MongoDB or SQL
+* ETL: Luigi or Airflow
+
+
 Problems pt.2:
 Incorrect html scraping
 Different calendars load different time frames
+Need to track event department
 
 Site Problems Analysis:
 Med - scraping news in with events
