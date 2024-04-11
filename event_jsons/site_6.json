@@ -1,98 +1,88 @@
+
 [
   {
     "Title": "Alumni Networking Reception in NYC",
     "Start Time": null,
     "End Time": null,
     "Date": "April 11",
-    "Location": "Savoy Club in the GM Building in New York City",
-    "Guest Speaker": "White Ruffin Byron Center for Real Estate"
+    "Location": "Savoy Club in the GM Building in New York City"
   },
   {
     "Title": "University of Virginia Venture Capital Conference",
     "Start Time": null,
     "End Time": null,
     "Date": "April 12",
-    "Location": null,
-    "Guest Speaker": "The Richard A. Mayo Center for Asset Management at the UVA Darden School of Business"
+    "Location": "Richard A. Mayo Center for Asset Management at the UVA Darden School of Business"
   },
   {
     "Title": "The SEC Enforcement and Quantitative Analytics",
     "Start Time": null,
     "End Time": null,
     "Date": "April 16",
-    "Location": "Rouss & Robertson Halls",
-    "Guest Speaker": null
+    "Location": "Rouss & Robertson Halls"
   },
   {
-    "Title": "Lets Network: Real Estate",
+    "Title": "Let's Network: Real Estate",
     "Start Time": null,
     "End Time": null,
     "Date": "April 17",
-    "Location": null,
-    "Guest Speaker": "UVA Alumni Association"
+    "Location": null
   },
   {
     "Title": "Black Alumni Weekend: \"OnBoard\" Screening, Panel & Reception",
     "Start Time": null,
     "End Time": null,
     "Date": "April 19",
-    "Location": null,
-    "Guest Speaker": "The McIntire School of Commerce"
+    "Location": "McIntire School of Commerce"
   },
   {
     "Title": "M.S. in Commerce Information Session",
     "Start Time": null,
     "End Time": null,
     "Date": "April 23",
-    "Location": null,
-    "Guest Speaker": null
+    "Location": null
   },
   {
-    "Title": "Alternative Investing in a Rapidly Changing Environment McIntire Alumni Panel",
+    "Title": "Alternative Investing in a Rapidly Changing Environment  McIntire Alumni Panel",
     "Start Time": null,
     "End Time": null,
     "Date": "April 25",
-    "Location": null,
-    "Guest Speaker": null
+    "Location": null
   },
   {
     "Title": "Connaughton Speaker Series: A Founders Conversation",
     "Start Time": null,
     "End Time": null,
     "Date": "April 26",
-    "Location": null,
-    "Guest Speaker": null
+    "Location": null
   },
   {
     "Title": "NYC Alumni & Friends Reception",
     "Start Time": null,
     "End Time": null,
     "Date": "May 07",
-    "Location": null,
-    "Guest Speaker": null
+    "Location": null
   },
   {
     "Title": "M.S. in Commerce Information Session",
     "Start Time": null,
     "End Time": null,
     "Date": "May 09",
-    "Location": null,
-    "Guest Speaker": null
+    "Location": null
   },
   {
     "Title": "Knowledge Continuum",
     "Start Time": null,
     "End Time": null,
     "Date": "May 10",
-    "Location": null,
-    "Guest Speaker": "The Center for the Management of IT's (CMIT)"
+    "Location": "Center for the Management of IT"
   },
   {
     "Title": "M.S. in Accounting Information Session",
     "Start Time": null,
     "End Time": null,
     "Date": "May 14",
-    "Location": null,
-    "Guest Speaker": null
+    "Location": null
   }
 ]
+ 

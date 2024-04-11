@@ -1,18 +1,19 @@
-Scraping Problems:
-Time and Date formats are not consistent
+What works:
+- Scraping events (besides identified sites): Selenium, BeautifulSoup
+- Calling API to transfer data to JSON: Gemini AI API
+- Postprocessing to fill in date and time: Pandas, DateTime, and Helper Functions
+* Store in a database: MongoDB or SQL
+* ETL: Luigi or Airflow
 
-Potential Solutions:
-Use a library to convert the time and date formats to a consistent format
 
 Problems pt.2:
-Split long files into smaller files
-Getting Data for Start time < 20% and Date < 10%
+Incorrect html scraping
+Different calendars load different time frames
+Need to track event department
 
 Site Problems Analysis:
-scholarslab - just doesn't have start times for those event's
 Med - scraping news in with events
-Arch - potentially scraping wrong classes
-Career - potentially scraping wrong classes
+Arch - incorrect html scraping
+Career - incorrect scraping
 
-To-do:
-Work on Potential Solutions
+Site Timeframes Analysis:

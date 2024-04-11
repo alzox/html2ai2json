@@ -1,34 +1,46 @@
+
 [
   {
     "Title": "Honoring Julieanna L. Richardson",
-    "Start Time": "3:30PM",
-    "End Time": "6:00PM",
-    "Date": "April 12, 2024",
-    "Location": "Colonnade Club",
-    "Guest Speaker": "Julieanna L. Richardson"
+    "Start Time": "3:30 PM",
+    "End Time": "6:00 PM",
+    "Date": "April 12",
+    "Location": "Colonnade Club"
+  },
+  {
+    "Title": "Conversation with Dean John Unsworth, University Librarian and Dean of Libraries at UVA",
+    "Start Time": "3:30 PM",
+    "End Time": "4:30 PM",
+    "Date": "April 12",
+    "Location": "Colonnade Club"
+  },
+  {
+    "Title": "Reception",
+    "Start Time": "4:30 PM",
+    "End Time": "6:00 PM",
+    "Date": "April 12",
+    "Location": "Colonnade Club"
   },
   {
     "Title": "Batten Hour: With Daniel Reifsnyder",
-    "Start Time": "12:30PM",
-    "End Time": "1:30PM",
-    "Date": "April 15, 2024",
-    "Location": "NA",
-    "Guest Speaker": "Daniel Reifsnyder"
+    "Start Time": "12:30 PM",
+    "End Time": "1:30 PM",
+    "Date": "April 15",
+    "Location": "Batten School"
   },
   {
     "Title": "Putting Equity-Minded Policy Into Practice",
-    "Start Time": "12:00PM",
-    "End Time": "1:00PM",
-    "Date": "April 18, 2024",
-    "Location": "NA",
-    "Guest Speaker": "Darlene Flynn"
+    "Start Time": "12:00 PM",
+    "End Time": "1:00 PM",
+    "Date": "April 18",
+    "Location": "N/A"
   },
   {
     "Title": "Batten Hour with Elizabeth Andrews: The State of Climate Policy in Virginia",
-    "Start Time": "12:30PM",
-    "End Time": "1:30PM",
-    "Date": "April 22, 2024",
-    "Location": "NA",
-    "Guest Speaker": "Elizabeth Andrews"
+    "Start Time": "12:30 PM",
+    "End Time": "1:30 PM",
+    "Date": "April 22",
+    "Location": "N/A"
   }
 ]
+ 

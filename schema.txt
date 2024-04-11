@@ -1,12 +1,7 @@
 Event:
-- ID: Unique identifier for the event (Integer)
 - Title: The name of the event (String)
 - Description: Detailed information about the event (String)
 - Start Time: The date and time when the event starts (DateTime)
 - End Time: The date and time when the event ends (DateTime)
 - Location: Where the event takes place (String)
-- Organizer: The person or organization responsible for the event (String)
-- Guest Speaker: The person or organization responsible for the event (String)
-
-# Useful Fields for College Students
-- Food: Boolean if there is food provided (Boolean)
+- Department: The department responsible for the event (String)
