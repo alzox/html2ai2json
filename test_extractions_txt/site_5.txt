@@ -1,239 +1,1637 @@
-Events
-Menu
-Ed Paul Lecture: Ann Lee, CTO of Prime Editing
-Corrosion and Electrochemical Sciences and Engineering
-2
-Secondary
-Systems Biology andBiomedical Data Sciences
-Millimeter-Wave and Terahertz Electronics
-Energy, Transportation and the Environment
-Non-Discrimination Policy
-Intelligent Transportation Systems
-Fibrosis
-Battery/Fuel Cell Technologies/Energy Harvesting
-Cell and Molecular Biomechanics
-Black Excellence in Engineering Symposium
-Cell Instructive Materials
-Low Power Design
-Genetics and Genomics
-Offices
-Engineering For Health
-The University of Virginia School of Engineering and Applied Science sponsors many events of interest to alumni, friends, faculty, students and the community.
-To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
-Give
-Accessibility
-2024 University of Virginia School of Engineering and Applied Science
-Audience
-Breadcrumb
-x
-Human Technology Interaction
-Undergraduate Study
-Clinical and Translational Science
-In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
-Intelligent Processing of Materials
-Catalysis
-                        Filter Events By
-Main navigation
-Mechanical and Aerospace Engineering
-Regenerative Medicine
-MR5 1041
-of 2
-Optoelectronic Devices
-Site Menu
-Search
+Skip Main Navigation
+Skip to site alert
 Menu Secondary
-First Year Engineering
-Utility
-News & Events
-Submit
-Bio-inspired systems
-Apply
-Jobs@UVA
-Environmental Engineering
-11:00 AM - 12:00 PM
-Systems Integration
-Targeted Diagnostic Imaging
-Civil and Environmental Engineering Distinguished Speaker Series
-Biomedical Data Sciences
-2:00 PM - 5:30 PM
-Machine Learning
-Current Grads
-Cryptography
-Morphing structures/biomimetics
-1
-Departments
-Wireless Health
-Privacy Policy
-News
-22904
-- Any -
-Imaging System Engineering
-Chemistry Building, Room 402
-Autonomous Systems
-Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
 Nanoelectronics and 2-D Materials
 Optimization Models and Methods
-Cardiovascular Disease
-Cyber-Social (Learning) Systems
-Data Science, AI/ML and Simulation
-Cyber-Physical and Autonomous Systems
-Location:
-LinkedIn
-Mechanotransduction
-Software Engineering
-Electrical, Magnetic and Optical Materials
-Combustion
-Image Reconstructionand Processing
-Injury Biomechanics
-Department
-Optics, Photonics and Sensing
-VLSI Design
-Our Faculty
-Rotating Machinery
-Page
-Engineering Science
-Graduate
 Predictive Modeling for Health
-Charlottesville,
-ECE Seminar: Speaker: Dr. Charles E. Boyer
-Cancer
-virginia.edu
-Skip to site alert
-Advanced and Secure Computing
-Research
-The Rotunda 
-Social
-11:00 AM - 12:20 PM
-Undergraduate
-UVA Link Lab | Olsson Hall 2nd Floor Arena
-Footer
-Phone:(434) 924-3072
-Faculty and Staff
-Info For
-Grid/Cloud/High-performance Computing
-Wind Energy
-Infectious Disease
-Structures and Mechanics (Sustainable Infrastructure Systems)
-                      Filter Events By
-Biomedical Engineering
-Cellular and Molecular Engineering
-ZOOM
-Next Generation Transportation
-Computational Statistics and Simulation/Statistical Modeling
-Stochastic Modeling
-Machine Learning and Data Science
-Home
-VA
-Laser-materials interactions
-Materials Characterization
-Systems Biology
-UVA Link Lab 2024 Spring Distinguished Research Award
-Infrastructure Engineering/Transportation Studies
-Systems and Information Engineering
-Solar Power
-Skip Main Navigation
-Upcoming Events
-Programming Languages & Compilers
-Neural Engineering and Brain Disorders
-Materials and Nanotechnology
-Graduate Study
-Menu Audience
-Faculty & Staff
-Hypersonics and Supersonics
-Close
-Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
-Risk Management
-
-Menu Main
-Engineering for the Cyber Future
-Quick
-Parents and Families
-Engineering for a Sustainable Future
-351 McCormick Road,
-Materials Science and Engineering
-About Our School
-Wireless and Optical Communication Systems
-Embedded Systems
-Diversity
-Targeted Drug and Gene Delivery
-Internet of Things
-facebook
-Biotechnology and Bioengineering
-Immune System Engineering
-Apr 12
-Environmental and Energy Applications
-Computer Engineering
-Search Events
-Biomedical and Molecular Imaging
-Biomaterials, Soft Materials and Tissue Engineering
-Surface and Interface Science and Engineering
-Nanomaterials and nanomanufacturing
-Time:
-Visit
-Media
-Cybersecurity
-Engineering and Society
-Built Environment
-Computation Materials Science
-The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
-Microscale Heat Transfer
- UVA Physics Hoxton Lecture: John Preskill
-Civil and Environmental Engineering
-Category
-Alumni
-Risk and Decision Analysis
-Current Grad Students
-Instagram
-ECE Seminar - Speaker: Stephanie Damas, Clemson University
-Chemical Engineering
-Bioinformaticsand Computational Biology
-Previous Page
-Computer Architecture
-12:30 PM - 1:30 PM
-Go
-Water Resources
-Smart Buildings/cities
-Office Directory
-Computer Graphics and Vision
-High Temperature Materials Science and Oxides
-UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
-Apr 18
-Biomolecular Systems
-BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
-6:30 PM - 7:30 PM
-Electrical and Computer Engineering
 Machine Learning, Text Mining, Information Retrieval
-Advanced Biomanufacturing
-Computer Science
 Musculoskeletal Diseases
-Apr 25
-2:00 PM - 3:20 PM
-Apr 19
-Mechatronics
-Menu Quick
-Algorithms
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Parents and Families
+Submit
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
 Sustainable Systems
-THORNTON HALL ROOM E316
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
 Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
-Next Page
-Menu Utility
-Engineered Soft Biomaterials
-Fluid Mechanics
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
 BME Seminar: Joel Collier, PhD, Duke University
 Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
-Thornton Hall,
-Metallurgy
-Applied Mathematics
-Current Undergrads
-Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
-Biomechanics and Mechanobiology
-Computer Networks
-/
+Apr 19
+Time:
 2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
+x
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+Utility
+Accessibility
+Privacy Policy
+
+2024 University of Virginia School of Engineering and Applied Science
+Site Menu
+Search
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Parents and Families
+Submit
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
 The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
-YouTube
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
+x
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+Utility
+Accessibility
+Privacy Policy
+
+2024 University of Virginia School of Engineering and Applied Science
+Menu Secondary
 Departments & Programs
-Artificial Intelligencein Image Analysis
-Synthetic Biology
-Site
-Research Area
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Parents and Families
+Submit
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+Main navigation
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Parents and Families
+Submit
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+Main navigation
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Parents and Families
+Submit
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+Main navigation
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Parents and Families
+Submit
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+Breadcrumb
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Machine Learning, Text Mining, Information Retrieval
+Musculoskeletal Diseases
+Nanoelectronics and 2-D Materials
+Optimization Models and Methods
+Predictive Modeling for Health
+Parents and Families
+Submit
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+Apr 12
+Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Sustainable Systems
+Apr 12
+Time:
+11:00 AM - 12:20 PM
+Time:
+11:00 AM - 12:20 PM
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Apr 12
+BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Time:
+2:00 PM - 3:00 PM
+Location:
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 12
+Apr 12
+ECE Seminar - Speaker: Stephanie Damas, Clemson University
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
+Apr 12
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Time:
+2:00 PM - 3:00 PM
+Location:
+ZOOM
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Apr 18
+Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Apr 18
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Time:
+11:00 AM - 12:00 PM
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+Apr 18
+Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
+Apr 18
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Time:
+2:00 PM - 5:30 PM
+Location:
+The Rotunda 
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 18
+Apr 18
+ UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
+Apr 18
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Time:
+6:30 PM - 7:30 PM
+Location:
+Chemistry Building, Room 402
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+Apr 19
+UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Please join us on Friday, April 19th for the DistinguishedResearchAward.
+Apr 19
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Time:
+12:30 PM - 1:30 PM
+Location:
+UVA Link Lab | Olsson Hall 2nd Floor Arena
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+Apr 19
+BME Seminar: Joel Collier, PhD, Duke University
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Time:
+2:00 PM - 3:00 PM
+Location:
+MR5 1041
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 19
+Apr 19
+ECE Seminar: Speaker: Dr. Charles E. Boyer
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
+Apr 19
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Time:
+2:00 PM - 3:00 PM
+Location:
+THORNTON HALL ROOM E316
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Apr 25
+Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Built Environment
+Apr 25
+Time:
+2:00 PM - 3:20 PM
+Time:
+2:00 PM - 3:20 PM
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+Previous Page
+Next Page
+Page
+1
+2
+of 2
+Go
+Page
+1
+2
+of 2
+Go
+1
+2
+UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
+Social
+x
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
+Social
+x
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
+Social
+x
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
+Social
+x
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
+Social
+x
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+Quick
+Apply
+Social
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+Thornton Hall,
+351 McCormick Road,
+Charlottesville,
+VA
+22904
+Phone:(434) 924-3072
+Utility
+Accessibility
+Privacy Policy
+
+2024 University of Virginia School of Engineering and Applied Science
+Utility
+Accessibility
+Privacy Policy
+
+2024 University of Virginia School of Engineering and Applied Science
+Utility
+Accessibility
+Privacy Policy
+
+2024 University of Virginia School of Engineering and Applied Science
+Utility
+Accessibility
+Privacy Policy
+
+2024 University of Virginia School of Engineering and Applied Science
+Utility
+Accessibility
+Privacy Policy
+
+2024 University of Virginia School of Engineering and Applied Science
+Site Menu
+Search
+Close
+Close
+Close

@@ -1,60 +1,101 @@
 
 [
-    {
-        "Title": "Lecture / Symposium",
-        "Start Time": null,
-        "End Time": null,
-        "Date": null,
-        "Location": null 
-    },
-    {
-        "Title": "Exhibition",
-        "Start Time": null,
-        "End Time": null,
-        "Date": null,
-        "Location": null
-    },
-    {
-        "Title": "Book Launch",
-        "Start Time": null,
-        "End Time": null,
-        "Date": null,
-        "Location": null
-    },
-    {
-        "Title": "Workshop",
-        "Start Time": null,
-        "End Time": null,
-        "Date": null,
-        "Location": null
-    },
-    {
-        "Title": "Career Development Event",
-        "Start Time": null,
-        "End Time": null,
-        "Date": null,
-        "Location": null 
-    },
-    {
-        "Title": "Admissions Event",
-        "Start Time": null,
-        "End Time": null,
-        "Date": null,
-        "Location": null
-    },
-    {
-        "Title": "Alumni Event",
-        "Start Time": null,
-        "End Time": null,
-        "Date": null,
-        "Location": null
-    },
-    {
-        "Title": "Other",
-        "Start Time": null, 
-        "End Time": null,
-        "Date": null,
-        "Location": null
-    }
-] 
- 
+  {
+    "Title": "Undergraduate Information Sessions + Campbell Hall Tours  Spring 2024",
+    "Start Time": "11:30AM",
+    "End Time": "1PM (ET)",
+    "Date": "02.16 - 04.19",
+    "Location": "Campbell Hall"
+  },
+  {
+    "Title": "Undergraduate Student Conversations  Spring 2024",
+    "Start Time": "6PM",
+    "End Time": "7PM (ET)",
+    "Date": "02.21 - 04.17",
+    "Location": "Virtual"
+  },
+  {
+    "Title": "Kate Orff",
+    "Start Time": "3:30PM",
+    "End Time": "5PM",
+    "Date": "04.12",
+    "Location": "Old Cabell Auditorium"
+  },
+  {
+    "Title": "A Dialogue with (Rain) Water: Hong Kong",
+    "Start Time": "5PM",
+    "End Time": null,
+    "Date": "04.15",
+    "Location": "Campbell Corner Gallery"
+  },
+  {
+    "Title": "Canal Connectivity",
+    "Start Time": "5PM",
+    "End Time": null,
+    "Date": "04.15",
+    "Location": "Campbell East Wing Gallery"
+  },
+  {
+    "Title": "GEOLOGIC METANOIA: MATERIAL DOMESTICATION FROM THE AWESOME TO THE MUNDANE",
+    "Start Time": "5PM",
+    "End Time": null,
+    "Date": "04.15",
+    "Location": "Campbell Salon Walls"
+  },
+  {
+    "Title": "I Templi del Tempo: The Development and Adaptation of Italian Catholic Architecture Through Time",
+    "Start Time": "5PM",
+    "End Time": null,
+    "Date": "04.15",
+    "Location": "Campbell Dean's Gallery"
+  },
+  {
+    "Title": "Inaugural Virginia Architecture Fellows Showcase",
+    "Start Time": "6PM",
+    "End Time": null,
+    "Date": "04.15",
+    "Location": "Campbell Elmaleh Gallery & Mezzanine"
+  },
+  {
+    "Title": "You Can Move Mountains",
+    "Start Time": "5PM",
+    "End Time": null,
+    "Date": "04.15",
+    "Location": "Campbell East Wing Gallery"
+  },
+  {
+    "Title": "Particulate Matters",
+    "Start Time": "5PM",
+    "End Time": null,
+    "Date": "04.18",
+    "Location": "Campbell 153"
+  },
+  {
+    "Title": "Stan Winston & Steve Warner Festival of the Moving Creature",
+    "Start Time": "7PM",
+    "End Time": "9PM",
+    "Date": "04.26",
+    "Location": "Betsy and John Casteen Arts Grounds"
+  },
+  {
+    "Title": "100 Days of Making",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "04.27 - 04.30",
+    "Location": "Campbell East Wing Gallery"
+  },
+  {
+    "Title": "Painting & Public Art",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "04.27 - 04.30",
+    "Location": "Campbell Corner Gallery + Salon Walls"
+  },
+  {
+    "Title": "UVA School of Architecture  Final Exercises 2024",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "05.17 - 05.19",
+    "Location": "Campbell Hall, Lawn, and John Paul Jones Arena"
+  }
+]

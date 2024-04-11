@@ -1,39 +1,59 @@
 
 [
   {
-    "Title": "Miraculous Objects: Relics and Buddha Images in Xuanzangs Datang Xiyu ji",
-    "Start Time": "12:00pm",
+    "Title": "Global Futures Symposium",
+    "Start Time": null,
     "End Time": null,
-    "Date": "April 11",
-    "Location": "New Cabell Hall"
-  },
-  {
-    "Title": " National defense strategy: Asking what you can do for your country",
-    "Start Time": "2:00pm",
-    "End Time": null,
-    "Date": "April 11",
-    "Location": "The Miller Center"
+    "Date": "April 25, 2024",
+    "Location": null
   },
   {
     "Title": "The Future of Democracy in India",
     "Start Time": "12:00pm",
     "End Time": null,
-    "Date": "April 12",
+    "Date": "April 12, 2024",
     "Location": "Bond House"
+  },
+  {
+    "Title": "2024 People Power Academy",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 26, 2024",
+    "Location": null
+  },
+  {
+    "Title": "Global Partnership Essentials: Sugar Pack  Pack for Wellness",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 17, 2024",
+    "Location": null
+  },
+  {
+    "Title": "Miraculous Objects: Relics and Buddha Images in Xuanzangs Datang Xiyu ji",
+    "Start Time": "12:00pm",
+    "End Time": null,
+    "Date": "April 11, 2024",
+    "Location": "New Cabell Hall"
+  },
+  {
+    "Title": "National defense strategy: Asking what you can do for your country",
+    "Start Time": "2:00pm",
+    "End Time": null,
+    "Date": "April 11, 2024",
+    "Location": "The Miller Center"
   },
   {
     "Title": "Holding our presidents accountable",
     "Start Time": "2:00pm",
     "End Time": null,
-    "Date": "April 15",
+    "Date": "April 15, 2024",
     "Location": "The Miller Center"
   },
   {
     "Title": "English Conversation Group",
     "Start Time": "5:30pm",
-    "End Time": null,
-    "Date": "April 16",
+    "End Time": "6:30pm",
+    "Date": "April 16, 2024",
     "Location": "Lorna Sundberg International Center"
   }
 ]
- 

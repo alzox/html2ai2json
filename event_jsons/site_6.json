@@ -1,39 +1,67 @@
 
 [
   {
-    "Title": "Alumni Networking Reception in NYC",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 11",
-    "Location": "Savoy Club in the GM Building in New York City"
+    "Title": "University of Virginia Venture Capital Conference",
+    "Start Time": "9:00 am",
+    "End Time": "7:00 pm",
+    "Date": "April 12",
+    "Location": "Darden Sands Family Grounds, 1100 Wilson Blvd, 30th Floor, Arlington, VA 22209"
   },
   {
-    "Title": "University of Virginia Venture Capital Conference",
-    "Start Time": null,
-    "End Time": null,
+    "Title": "M.S. in Commerce Overview & Lunch",
+    "Start Time": "11:30 am",
+    "End Time": "1:00 pm",
     "Date": "April 12",
-    "Location": "Richard A. Mayo Center for Asset Management at the UVA Darden School of Business"
+    "Location": "Rouss & Robertson Halls"
+  },
+  {
+    "Title": "CIFM MII Seminar Series: Anthony DeFusco, Northwestern University",
+    "Start Time": "2:00 pm",
+    "End Time": "4:00 pm",
+    "Date": "April 12",
+    "Location": "Rouss & Robertson Halls"
+  },
+  {
+    "Title": "M.S. in Business Analytics Sands Family Grounds Visit",
+    "Start Time": "9:30 am",
+    "End Time": "1:00 pm",
+    "Date": "April 13",
+    "Location": "UVA Darden DC Metro at Sands Family Grounds, 1100 Wilson Blvd, 30th Floor, Arlington, VA 22209"
+  },
+  {
+    "Title": "U.Va. Community Escape Room Tournament",
+    "Start Time": "11:30 am",
+    "End Time": "4:00 pm",
+    "Date": "April 13",
+    "Location": "Rouss & Robertson Halls"
+  },
+  {
+    "Title": "SWS: Probie Training Session SPR Semester",
+    "Start Time": "7:00 pm",
+    "End Time": "8:00 pm",
+    "Date": "April 15",
+    "Location": "Rouss & Robertson Halls"
   },
   {
     "Title": "The SEC Enforcement and Quantitative Analytics",
-    "Start Time": null,
-    "End Time": null,
+    "Start Time": "5:00 pm",
+    "End Time": "7:30 pm",
     "Date": "April 16",
     "Location": "Rouss & Robertson Halls"
   },
   {
-    "Title": "Let's Network: Real Estate",
-    "Start Time": null,
-    "End Time": null,
+    "Title": "Lets Network: Real Estate",
+    "Start Time": "3:00 pm",
+    "End Time": "4:00 pm",
     "Date": "April 17",
-    "Location": null
+    "Location": "Virtual"
   },
   {
     "Title": "Black Alumni Weekend: \"OnBoard\" Screening, Panel & Reception",
     "Start Time": null,
     "End Time": null,
     "Date": "April 19",
-    "Location": "McIntire School of Commerce"
+    "Location": null
   },
   {
     "Title": "M.S. in Commerce Information Session",
@@ -75,7 +103,7 @@
     "Start Time": null,
     "End Time": null,
     "Date": "May 10",
-    "Location": "Center for the Management of IT"
+    "Location": null
   },
   {
     "Title": "M.S. in Accounting Information Session",
@@ -83,6 +111,12 @@
     "End Time": null,
     "Date": "May 14",
     "Location": null
+  },
+  {
+    "Title": "London Pub Night with Carl Zeithaml",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "May 30",
+    "Location": null
   }
 ]
- 
