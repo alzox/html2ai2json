@@ -1,74 +1,74 @@
 
 [
   {
-    "Title": "Facilities Management Apprenticeship & Community Job Fair",
-    "Start Time": "9am",
-    "End Time": "11am",
-    "Date": "April, 10",
-    "Location": "UVA's Alumni Hall"
-  },
-  {
-    "Title": "In The Frame: Indigenous Vernacular Photography Across Two Continents",
-    "Start Time": "2pm",
-    "End Time": "4pm",
-    "Date": "April, 10",
-    "Location": "Lemon Lounge, 946 Grady Ave, suite 100"
-  },
-  {
-    "Title": "M.S. in Commerce Information Session",
-    "Start Time": "3:30pm",
-    "End Time": "4:30pm",
-    "Date": "April, 10",
-    "Location": null
-  },
-  {
     "Title": "Morven Student Days",
-    "Start Time": "10am",
-    "End Time": "4pm",
-    "Date": "April, 11",
+    "Start Time": "10:00 AM",
+    "End Time": "4:00 PM",
+    "Date": "April 11",
     "Location": "Morven"
   },
   {
     "Title": "CANCELLED - North Grounds E-Bike Demo Day",
-    "Start Time": "11am",
-    "End Time": "2pm",
-    "Date": "April, 11",
-    "Location": null
+    "Start Time": "11:00 AM",
+    "End Time": "2:00 PM",
+    "Date": "April 11",
+    "Location": "The Park"
   },
   {
     "Title": "Miraculous Objects: Relics and Buddha Images in Xuanzangs Datang Xiyu ji",
-    "Start Time": "12pm",
-    "End Time": "1:15pm",
-    "Date": "April, 11",
-    "Location": null
+    "Start Time": "12:00 PM",
+    "End Time": "1:15 PM",
+    "Date": "April 11",
+    "Location": "New Cabell Hall"
   },
   {
     "Title": "National defense strategy: Asking what you can do for your country",
-    "Start Time": "2pm",
-    "End Time": "3pm",
-    "Date": "April, 11",
-    "Location": "ONLINE and IN PERSON"
+    "Start Time": "2:00 PM",
+    "End Time": "3:00 PM",
+    "Date": "April 11",
+    "Location": "Miller Center"
   },
   {
     "Title": "Social Entrepreneurs and Ventures in Food Justice",
-    "Start Time": "4pm",
-    "End Time": "6pm",
-    "Date": "April, 11",
+    "Start Time": "4:00 PM",
+    "End Time": "6:00 PM",
+    "Date": "April 11",
     "Location": "Darden - North Grounds, CLA 140"
   },
   {
     "Title": "Matthew Olzmann Poetry Reading",
-    "Start Time": "5pm",
-    "End Time": "6pm",
-    "Date": "April, 11",
-    "Location": null
+    "Start Time": "5:00 PM",
+    "End Time": "6:00 PM",
+    "Date": "April 11",
+    "Location": "Newcomb Hall (Student Center)"
   },
   {
     "Title": "Virtual Info Session - UVA in Valencia Intermediate Spanish and Liberal Arts (Fall 2024)",
-    "Start Time": "5pm",
-    "End Time": "6pm",
-    "Date": "April, 11",
-    "Location": null
+    "Start Time": "5:00 PM",
+    "End Time": "6:00 PM",
+    "Date": "April 11",
+    "Location": "Virtual"
+  },
+  {
+    "Title": "CANCELLED - Thursday Night Thrills Presents The Phantom of the Opera (1925/29)",
+    "Start Time": "7:00 PM",
+    "End Time": "9:00 PM",
+    "Date": "April 11",
+    "Location": "Clark 107"
+  },
+  {
+    "Title": "University of Virginia Venture Capital Conference",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 12",
+    "Location": "Darden Business School's Sands Family Grounds location in Rosslyn, VA"
+  },
+  {
+    "Title": "Diversifying Scholarship Research Conference",
+    "Start Time": "8:50 AM",
+    "End Time": "1:00 PM",
+    "Date": "April 12",
+    "Location": "Virtual"
   }
 ]
  
