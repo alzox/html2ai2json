@@ -1,15 +1,18 @@
 Scraping Problems:
 Time and Date formats are not consistent
-Token lengths are not full
-There are missing events in different jsons
-Identify problems for the correct json
 
 Potential Solutions:
 Use a library to convert the time and date formats to a consistent format
-Extend token length for the API
-Understand why events are missing whether in HTML or processed-JSON
-Produce metrics when reading in json
+
+Problems pt.2:
+Split long files into smaller files
+Getting Data for Start time < 20% and Date < 10%
+
+Site Problems Analysis:
+scholarslab - just doesn't have start times for those event's
+Med - scraping news in with events
+Arch - potentially scraping wrong classes
+Career - potentially scraping wrong classes
 
 To-do:
-REFACTOR AND WRITE TESTS PLEASE FOR THE LOVE OF GOD
 Work on Potential Solutions
