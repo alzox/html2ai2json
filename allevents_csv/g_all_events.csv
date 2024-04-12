@@ -1,38 +1,62 @@
-Subject,Start Date,Start Time,End Time
-Make a leather book cover,2024-04-17,01:00 PM,03:00 PM
-Diversifying Scholarship Research Conference,2024-04-12,08:50 AM,01:00 PM
-Celebrate Every Body Week Clothing Swap,2024-04-12,11:00 AM,03:00 PM
-M.S. in Business Analytics Sands Family Grounds Visit,2024-04-13,09:30 AM,01:00 PM
-Foraging Awe,2024-04-14,11:00 AM,12:00 PM
-IO/Theory Workshop: Ozlem Bedrie Defolie,2024-04-15,03:30 PM,05:00 PM
-Macro Workshop: Simon Smith,2024-04-15,03:30 PM,05:00 PM
-Dissertation Defense: Mrithyunjayan (MJ)  Nilayamgode,2024-04-16,10:45 AM,12:15 PM
-Macro Workshop: Can Tian,2024-04-17,03:30 PM,05:00 PM
-Dissertation Defense: Yutong Chen,2024-04-17,09:30 AM,10:45 AM
-Dissertation Defense: Tyler Wake,2024-04-18,01:00 PM,02:30 PM
-Faculty Meeting,2024-04-19,12:00 PM,02:00 PM
-Experimental Theory Workshop: Charles Noussair,2024-04-22,03:30 PM,05:00 PM
-Joint IO/Theory/Econometrics Workshop: Ginger Jin,2024-04-23,03:30 PM,05:00 PM
-International/Trade Workshop: Luca David Opromolla,2024-04-24,03:30 PM,05:00 PM
-Public Economics Workshop: Corina Mommaerts,2024-04-25,03:30 PM,05:00 PM
-IO/Theory Economics Workshop: Regis Renault,2024-04-29,03:30 PM,05:00 PM
-Dissertation Defense: Siqi Yang,2024-04-29,10:00 AM,11:30 AM
-Global Development Seminar: Laurent Bouton,2024-04-30,12:15 PM,01:30 PM
-Dissertation Defense- Donghyun Suh,2024-04-30,10:00 AM,11:30 AM
-McKinsey Recruiter Office Hours for UVA Students,2024-04-25,03:30 PM,04:30 PM
-English Conversation Group,2024-04-16,05:30 PM,06:30 PM
-Civil and Environmental Engineering Distinguished Speaker Series: Sustainable Systems,2024-04-12,11:00 AM,12:20 PM
-"BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania",2024-04-12,02:00 PM,03:00 PM
-"Ed Paul Lecture: Ann Lee, CTO of Prime Editing",2024-04-18,11:00 AM,12:00 PM
-Black Excellence in Engineering Symposium,2024-04-18,02:00 PM,05:30 PM
-UVA Physics Hoxton Lecture: John Preskill,2024-04-18,06:30 PM,07:30 PM
-UVA Link Lab 2024 Spring Distinguished Research Award,2024-04-19,12:30 PM,01:30 PM
-Built Environment,2024-04-25,02:00 PM,03:20 PM
-UVA Updates in Hematology & Hematologic Malignancies Conference,2024-04-12,07:30 AM,04:15 PM
-"Cancer Center Seminar & Avalon Cole Grand Rounds Lecture with Julie K. Silver, MD",2024-04-12,12:30 PM,01:30 PM
-Housestaff Council for Diversity and Inclusion 6th Annual Trainee Diversity and Inclusion Conference,2024-04-13,08:00 AM,03:00 PM
-UVA School of Medicine 5k Benefitting Camp Holiday Trails,2024-04-18,09:00 AM,11:00 AM
-Honoring Julieanna L. Richardson,2024-04-12,03:30 PM,06:00 PM
-Batten Hour: With Daniel Reifsnyder,2024-04-15,12:30 PM,01:30 PM
-Putting Equity-Minded Policy Into Practice,2024-04-18,12:00 PM,01:00 PM
-Batten Hour with Elizabeth Andrews: The State of Climate Policy in Virginia,2024-04-22,12:30 PM,01:30 PM
+Subject,Start Date,Start Time,End Time,Location,Description
+Make a leather book cover,2024-04-17,01:00 PM,03:00 PM,Scholars' Lab Makerspace - Alderman 308i,Scholars' Lab
+Diversifying Scholarship Research Conference,2024-04-12,08:50 AM,01:00 PM,,University of Virginia
+Celebrate Every Body Week Clothing Swap,2024-04-12,11:00 AM,03:00 PM,,University of Virginia
+Long distance relationships: Ethical considerations of remote sensing research,2024-04-12,12:30 PM,02:00 PM,virginia.zoom.us,University of Virginia
+UVA Employee Service Event at Morven Kitchen Garden,2024-04-12,02:00 PM,05:00 PM,Morven Kitchen Garden,University of Virginia
+Kate Orff: 2024 Thomas Jefferson Foundation Medalist in Architecture,2024-04-12,03:30 PM,05:00 PM,Old Cabell Hall,University of Virginia
+Honoring Julieanna L. RichardsonSign Up,2024-04-12,03:30 PM,06:00 PM,Colonnade Club,University of Virginia
+VA Farm Workers Discussion,2024-04-12,06:30 PM,08:30 PM,Clark Hall (Rm. 108),University of Virginia
+UVA Baroque Orchestra Spring 2024 Concert,2024-04-12,08:00 PM,09:00 PM,Old Cabell Hall,University of Virginia
+M.S. in Business Analytics Sands Family Grounds Visit,2024-04-13,09:30 AM,01:00 PM,,University of Virginia
+Relay for Life at UVA,2024-04-13,01:00 PM,09:00 PM,Carr's Hill Field,University of Virginia
+Sam Hunt,2024-04-13,07:30 PM,10:00 PM,John Paul Jones Arena,University of Virginia
+University Singers Choral Residency and Concert with Composer riks Eenvalds,2024-04-13,08:00 PM,09:30 PM,Old Cabell Hall,University of Virginia
+Foraging Awe,2024-04-14,11:00 AM,12:00 PM,The Fralin Museum of Art (Bayly Building),University of Virginia
+UVA Communication Science and Disorders Accreditation Public Meeting,2024-04-17,04:30 PM,06:00 PM,"Room 318A, Bavaro Hall",School of Education and Human Development
+Wheelchair Takeover: Paralympic Pick-up,2024-04-19,03:00 PM,06:00 PM,,School of Education and Human Development
+"EHD Black Alumni Weekend Events: Honoring the Past, Advancing in the Future",2024-04-19,03:30 PM,05:30 PM,,School of Education and Human Development
+M.Ed. in Administration & Supervision Information Session,2024-04-22,04:00 PM,05:00 PM,,School of Education and Human Development
+How to Become a Teacher Information Session April 2024,2024-04-23,06:00 PM,07:00 PM,,School of Education and Human Development
+EHD Yoga,2024-04-29,09:00 AM,10:00 AM,,School of Education and Human Development
+Ice Cream Social,2024-04-30,12:00 PM,02:00 PM,,School of Education and Human Development
+English Conversation Group,2024-04-16,05:30 PM,06:30 PM,Lorna Sundberg International Center,UVA Global
+"Civil and Environmental Engineering Distinguished Speaker Series
+Sustainable Systems",2024-04-12,11:00 AM,12:20 PM,,School of Engineering and Applied Science
+"BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
+Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.",2024-04-12,02:00 PM,03:00 PM,,School of Engineering and Applied Science
+"Ed Paul Lecture: Ann Lee, CTO of Prime Editing
+Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.",2024-04-18,11:00 AM,12:00 PM,"Albert and Shirley Small Special Collections Library, Harrison Small Auditorium",School of Engineering and Applied Science
+"Black Excellence in Engineering Symposium
+To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.",2024-04-18,02:00 PM,05:30 PM,The Rotunda,School of Engineering and Applied Science
+"UVA Physics Hoxton Lecture: John Preskill
+The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.",2024-04-18,06:30 PM,07:30 PM,"Chemistry Building, Room 402",School of Engineering and Applied Science
+"UVA Link Lab 2024 Spring Distinguished Research Award
+Please join us on Friday, April 19th for the DistinguishedResearchAward.",2024-04-19,12:30 PM,01:30 PM,UVA Link Lab | Olsson Hall 2nd Floor Arena,School of Engineering and Applied Science
+Built Environment,2024-04-25,02:00 PM,03:20 PM,,School of Engineering and Applied Science
+University of Virginia Venture Capital Conference,2024-04-12,09:00 AM,07:00 PM,"Darden Sands Family Grounds, 1100 Wilson Blvd, 30th Floor, Arlington, VA 22209",McIntire School of Commerce
+The SEC Enforcement and Quantitative Analytics,2024-04-16,05:00 PM,07:30 PM,Rouss & Robertson Halls,McIntire School of Commerce
+Lets Network: Real Estate,2024-04-17,03:00 PM,04:00 PM,Virtual,McIntire School of Commerce
+"Kate Orff
+Thomas Jefferson Foundation Medalist Public Talk",2024-04-12,03:30 PM,05:00 PM,Old Cabell Auditorium,School of Architecture
+"Stan Winston & Steve Warner Festival of the Moving Creature
+Parade & Dance Party",2024-04-26,07:00 PM,09:00 PM,Betsy and John Casteen Arts Grounds ,School of Architecture
+Honoring Julieanna L. Richardson,2024-04-12,03:30 PM,06:00 PM,Colonnade Club,Frank Batten School of Leadership and Public Policy
+Batten Hour: With Daniel Reifsnyder,2024-04-15,12:30 PM,01:30 PM,,Frank Batten School of Leadership and Public Policy
+Putting Equity-Minded Policy Into Practice,2024-04-18,12:00 PM,01:00 PM,,Frank Batten School of Leadership and Public Policy
+Batten Hour with Elizabeth Andrews: The State of Climate Policy in Virginia,2024-04-22,12:30 PM,01:30 PM,,Frank Batten School of Leadership and Public Policy
+IO/Theory Workshop: Ozlem Bedrie Defolie,2024-04-15,03:30 PM,05:00 PM,"Monroe Hall, Room 120",Department of Economics
+Macro Workshop: Simon Smith,2024-04-15,03:30 PM,05:00 PM,"Monroe Hall, Room 235",Department of Economics
+Dissertation Defense: Mrithyunjayan (MJ)  Nilayamgode,2024-04-16,10:45 AM,12:15 PM,"Monroe Hall, Room 120",Department of Economics
+Macro Workshop: Can Tian,2024-04-17,03:30 PM,05:00 PM,"Monroe Hall, Room 120",Department of Economics
+Dissertation Defense: Yutong Chen,2024-04-17,09:30 AM,10:45 AM,"Monroe Hall, Room 120",Department of Economics
+Dissertation Defense: Tyler Wake,2024-04-18,01:00 PM,02:30 PM,"Monroe Hall, room 235",Department of Economics
+Faculty Meeting,2024-04-19,12:00 PM,02:00 PM,"Monroe Hall, Room 120",Department of Economics
+Experimental Theory Workshop: Charles Noussair,2024-04-22,03:30 PM,05:00 PM,"Monroe Hall, Room 120",Department of Economics
+Joint IO/Theory/Econometrics Workshop: Ginger Jin,2024-04-23,03:30 PM,05:00 PM,"Monroe Hall, Room 120",Department of Economics
+International/Trade Workshop: Luca David Opromolla,2024-04-24,03:30 PM,05:00 PM,"Monroe Hall, Room 120",Department of Economics
+Public Economics Workshop: Corina Mommaerts,2024-04-25,03:30 PM,05:00 PM,"Monroe Hall, Room 120",Department of Economics
+IO/Theory Economics Workshop: Regis Renault,2024-04-29,03:30 PM,05:00 PM,"Monroe Hall, Room 120",Department of Economics
+Dissertation Defense: Siqi Yang,2024-04-29,10:00 AM,11:30 AM,"Monroe Hall, Room 235",Department of Economics
+Global Development Seminar: Laurent Bouton,2024-04-30,12:15 PM,01:30 PM,"Monroe Hall, Room 120",Department of Economics
+Dissertation Defense- Donghyun Suh,2024-04-30,10:00 AM,11:30 AM,"Monroe Hall, Room 235",Department of Economics

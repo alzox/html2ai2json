@@ -1,38 +1,39 @@
-  
-[  
-   {  
-      "Title": "Bain & Company UVA THRIVE Conference",
-      "Start Time": "10:00 AM",
-      "End Time": null,
-      "Date": "April 12, 2024",
-      "Location": "@UVA"
-   },
-   {  
-      "Title": "SWE: Yoga in the Gardens",
-      "Start Time": "4:00 PM",
-      "End Time": null,
-      "Date": "April 16, 2024",
-      "Location": "@UVA"
-   },
-   {  
-      "Title": "NSBE: Personal Branding",
-      "Start Time": "6:00 PM",
-      "End Time": null,
-      "Date": "April 22, 2024",
-      "Location": "@UVA"
-   },
-   {  
-      "Title": "McKinsey Recruiter Office Hours for UVA Students",
-      "Start Time": "3:30 PM",
-      "End Time": "4:30 PM",
-      "Date": "April 25, 2024",
-      "Location": "@UVA"
-   },
-   {  
-      "Title": "A Day in the Life of a McKinsey Business Analyst",
-      "Start Time": "6:00 PM",
-      "End Time": null,
-      "Date": "April 25, 2024",
-      "Location": "@UVA"
-   }
-]  
+
+[
+  {
+    "Title": "@UVA: Bain & Company UVA THRIVE Conference",
+    "Start Time": "10:00 AM",
+    "End Time": null,
+    "Date": "April 12, 2024",
+    "Location": "@UVA"
+  },
+  {
+    "Title": "@UVA: SWE: Yoga in the Gardens",
+    "Start Time": "4:00 PM",
+    "End Time": null,
+    "Date": "April 16, 2024",
+    "Location": "@UVA"
+  },
+  {
+    "Title": "@UVA: NSBE: Personal Branding",
+    "Start Time": "6:00 PM",
+    "End Time": null,
+    "Date": "April 22, 2024",
+    "Location": "@UVA"
+  },
+  {
+    "Title": "@UVA: McKinsey Recruiter Office Hours for UVA Students",
+    "Start Time": "3:30 PM",
+    "End Time": null,
+    "Date": "April 25, 2024",
+    "Location": "@UVA"
+  },
+  {
+    "Title": "@UVA: A Day in the Life of a McKinsey Business Analyst",
+    "Start Time": "6:00 PM",
+    "End Time": null,
+    "Date": "April 25, 2024",
+    "Location": "@UVA"
+  }
+]
+ 

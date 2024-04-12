@@ -2,58 +2,59 @@
 [
   {
     "Title": "Graduate Writing Caf",
-    "Start Time": "12:00pm",
+    "Start Time": null,
     "End Time": null,
-    "Date": "Apr 9",
+    "Date": "April 13",
     "Location": "Holloway Hall (Bavaro 116)"
   },
   {
     "Title": "Second Tuesday Forum: Jeremy Boggs",
     "Start Time": "2:00pm",
     "End Time": null,
-    "Date": "Apr 9",
+    "Date": "April 13",
     "Location": "Common Room (Rm 308)"
   },
   {
     "Title": "DH Portfolio Design Workshop",
     "Start Time": "3:30pm",
     "End Time": null,
-    "Date": "Apr 9",
+    "Date": "April 13",
     "Location": null
   },
   {
     "Title": "EHD Faculty Shannon Library Tour",
     "Start Time": "11:00am",
     "End Time": null,
-    "Date": "Apr 16",
-    "Location": null
+    "Date": "April 14",
+    "Location": "Other"
   },
   {
     "Title": "A Librarian Like No Other: Belle da Costa Greene and Self-Invention",
     "Start Time": null,
     "End Time": null,
-    "Date": "Apr 16",
+    "Date": "April 16",
     "Location": "Shannon Seminar Room 330"
   },
   {
     "Title": "Making Noise in the Library: The Dale Avenue Band",
     "Start Time": "1:00pm",
     "End Time": null,
-    "Date": "Apr 16",
+    "Date": "April 16",
     "Location": null
   },
   {
     "Title": "Open Publication Workshop",
     "Start Time": "9:00am",
     "End Time": null,
-    "Date": "Apr 23",
+    "Date": "April 22",
     "Location": "Shannon Conference Room 323"
   },
   {
     "Title": "Final FridayTheir World As Big As They Made It",
     "Start Time": "5:30pm",
     "End Time": null,
-    "Date": "Apr 26",
+    "Date": "April 22",
     "Location": null
   }
 ]
+ 
