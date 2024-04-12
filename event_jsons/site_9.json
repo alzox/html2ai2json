@@ -1,31 +1,31 @@
-
+ 
 [
-  {
-    "Title": "Honoring Julieanna L. Richardson",
-    "Start Time": "3:30pm",
-    "End Time": "6pm",
-    "Date": "April 12, 2024",
-    "Location": "Colonnade Club"
-  },
-  {
-    "Title": "Batten Hour: With Daniel Reifsnyder",
-    "Start Time": "12:30pm",
-    "End Time": "1:30pm",
-    "Date": "April 15, 2024",
-    "Location": "Not Provided"
-  },
-  {
-    "Title": "Putting Equity-Minded Policy Into Practice",
-    "Start Time": "12pm",
-    "End Time": "1pm",
-    "Date": "April 18, 2024",
-    "Location": "Not Provided"
-  },
-  {
-    "Title": "Batten Hour with Elizabeth Andrews: The State of Climate Policy in Virginia",
-    "Start Time": "12:30pm",
-    "End Time": "1:30pm",
-    "Date": "April 22, 2024",
-    "Location": "Not Provided"
-  }
+    {
+        "Title": "Honoring Julieanna L. Richardson",
+        "Start Time": "3:30 PM",
+        "End Time": "6:00 PM",
+        "Date": "April 12, 2024",
+        "Location": "Colonnade Club"
+    },
+    {
+        "Title": "Batten Hour: With Daniel Reifsnyder",
+        "Start Time": "12:30 PM",
+        "End Time": "1:30 PM",
+        "Date": "April 15, 2024",
+        "Location": "Batten School"
+    },
+    {
+        "Title": "Putting Equity-Minded Policy Into Practice",
+        "Start Time": "12:00 PM",
+        "End Time": "1:00 PM",
+        "Date": "April 18, 2024",
+        "Location": "Batten School"
+    },
+    {
+        "Title": "Batten Hour with Elizabeth Andrews: The State of Climate Policy in Virginia",
+        "Start Time": "12:30 PM",
+        "End Time": "1:30 PM",
+        "Date": "April 22, 2024",
+        "Location": "Batten School"
+    }
 ]

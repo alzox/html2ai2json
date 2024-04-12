@@ -1,86 +1,66 @@
-
+ 
 [
-  {
-    "Title": "UVA Communication Science and Disorders Accreditation Public Meeting",
-    "Start Time": "4:30 PM",
-    "End Time": "6:00 PM",
-    "Date": "April 17th",
-    "Location": "Room 318A, Bavaro Hall",
-    "Tags": [
-      "Health & Wellness",
-      "Human Services"
-    ]
-  },
-  {
-    "Title": "Wheelchair Takeover: Paralympic Pick-up",
-    "Start Time": "3:00 PM",
-    "End Time": "6:00 PM",
-    "Date": "April 19th",
-    "Location": "Kinesiology",
-    "Tags": []
-  },
-  {
-    "Title": "EHD Black Alumni Weekend Events: Honoring the Past, Advancing in the Future",
-    "Start Time": "3:30 PM",
-    "End Time": "5:30 PM",
-    "Date": "April 19th",
-    "Location": "Office of Diversity, Equity and Inclusion",
-    "Tags": []
-  },
-  {
-    "Title": "M.Ed. in Administration & Supervision Information Session",
-    "Start Time": "4:00 PM",
-    "End Time": "5:00 PM",
-    "Date": "April 22nd",
-    "Location": "Admission & Enrollment",
-    "Tags": []
-  },
-  {
-    "Title": "M.Ed. in Administration & Supervision Information Session",
-    "Start Time": "6:00 PM",
-    "End Time": "7:00 PM",
-    "Date": "April 23rd",
-    "Location": "Admission & Enrollment",
-    "Tags": []
-  },
-  {
-    "Title": "How to Become a Teacher Information Session April 2024",
-    "Start Time": "7:00 PM",
-    "End Time": "8:00 PM",
-    "Date": "April 23rd",
-    "Location": "Curriculum, Instruction & Special Education",
-    "Tags": []
-  },
-  {
-    "Title": "EHD Yoga",
-    "Start Time": "9:00 AM",
-    "End Time": "10:00 AM",
-    "Date": "April 29th",
-    "Location": "Academic Programs & Student Affairs",
-    "Tags": []
-  },
-  {
-    "Title": "Ice Cream Social",
-    "Start Time": "12:00 PM",
-    "End Time": "2:00 PM",
-    "Date": "April 30th",
-    "Location": "Academic Programs & Student Affairs",
-    "Tags": []
-  },
-  {
-    "Title": "EHD Undergraduate Graduation Celebration",
-    "Start Time": "4:00 PM",
-    "End Time": "6:00 PM",
-    "Date": "May 1st",
-    "Location": "Academic Programs & Student Affairs",
-    "Tags": []
-  },
-  {
-    "Title": "UVA Club of Washington DC: UVA Graduate School Fair",
-    "Start Time": "6:00 PM",
-    "End Time": "8:00 PM",
-    "Date": "May 8th",
-    "Location": "Admission & Enrollment",
-    "Tags": []
-  }
+    {
+        "Title": "UVA Communication Science and Disorders Accreditation Public Meeting",
+        "Start Time": "4:30 PM",
+        "End Time": "6:00 PM",
+        "Date": "(April, 17)",
+        "Location": "Room 318A, Bavaro Hall"
+    },
+    {
+        "Title": "Wheelchair Takeover: Paralympi Pick-up",
+        "Start Time": "3:00 PM",
+        "End Time": null,
+        "Date": "(April, 19)",
+        "Location": null
+    },
+    {
+        "Title": "EHD Black Alumni Weekend Events: Honoring the Past, Advancing in the Future",
+        "Start Time": "3:30 PM",
+        "End Time": "5:30 PM",
+        "Date": "(April, 19)",
+        "Location": "Office of Diversity, Equity and Inclusion"
+    },
+    {
+        "Title": "M.Ed. in Administration & Supervision Information Session",
+        "Start Time": "4:00 PM",
+        "End Time": "5:00 PM",
+        "Date": "(April, 22)",
+        "Location": null
+    },
+    {
+        "Title": "How to Become a Teacher Information Session April 2024",
+        "Start Time": "6:00 PM",
+        "End Time": "7:00 PM",
+        "Date": "(April, 23)",
+        "Location": null
+    },
+    {
+        "Title": "EHD Yoga",
+        "Start Time": "9:00 AM",
+        "End Time": "10:00 AM",
+        "Date": "(April, 29)",
+        "Location": null
+    },
+    {
+        "Title": "Ice Cream Social",
+        "Start Time": "12:00 PM",
+        "End Time": "2:00 PM",
+        "Date": "(April, 30)",
+        "Location": null
+    },
+    {
+        "Title": "EHD Undergraduate Graduation Celebration",
+        "Start Time": null,
+        "End Time": null,
+        "Date": "(May, 1)",
+        "Location": null
+    },
+    {
+        "Title": "UVA Club of Washington DC: UVA Graduate School Fair",
+        "Start Time": null,
+        "End Time": null,
+        "Date": "(May, 8)",
+        "Location": null
+    }
 ]
