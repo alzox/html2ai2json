@@ -2,30 +2,30 @@
 [
   {
     "Title": "Undergraduate Information Sessions + Campbell Hall Tours  Spring 2024",
-    "Start Time": "11:30AM",
-    "End Time": "1:00PM",
-    "Date": "February 16 - April 19",
+    "Start Time": "11:30AM (ET)",
+    "End Time": "1PM (ET)",
+    "Date": "02.16 - 04.19",
     "Location": null
   },
   {
     "Title": "Undergraduate Student Conversations  Spring 2024",
-    "Start Time": "6:00PM",
-    "End Time": "7:00PM",
-    "Date": "February 21 - April 17",
+    "Start Time": "6PM (ET)",
+    "End Time": "7PM (ET)",
+    "Date": "02.21 - 04.17",
     "Location": "Virtual"
   },
   {
     "Title": "Kate Orff\nThomas Jefferson Foundation Medalist Public Talk",
     "Start Time": "3:30PM",
-    "End Time": "5:00PM",
-    "Date": "April 12",
+    "End Time": "5PM",
+    "Date": "04.12",
     "Location": "Old Cabell Auditorium"
   },
   {
     "Title": "A Dialogue with (Rain) Water: Hong Kong  \nHowland Travel Fellowship Exhibition + Gallery Talk",
-    "Start Time": "5:00PM",
+    "Start Time": "5PM",
     "End Time": null,
-    "Date": "April 15",
+    "Date": "04.15",
     "Location": "Campbell Corner Gallery"
   },
   {
@@ -36,7 +36,7 @@
     "Location": "Campbell East Wing Gallery"
   },
   {
-    "Title": "GEOLOGIC METANOIA: MATERIAL DOMESTICATION FROM THE AWESOME TO THE MUNDANE ",
+    "Title": "GEOLOGIC METANOIA: MATERIAL DOMESTICATION FROM THE AWESOME TO THE MUNDANE",
     "Start Time": null,
     "End Time": null,
     "Date": null,
@@ -58,30 +58,30 @@
   },
   {
     "Title": "You Can Move Mountains\nFanzone Travel Fellowship Exhibition + Gallery Talk",
-    "Start Time": "6:00PM",
+    "Start Time": "6PM",
     "End Time": null,
     "Date": null,
     "Location": null
   },
   {
-    "Title": "Particulate Matters\nBenjamin C. Howland Memorial Symposium ",
+    "Title": "Particulate Matters\nBenjamin C. Howland Memorial Symposium",
     "Start Time": null,
     "End Time": null,
-    "Date": "April 18",
+    "Date": "04.18",
     "Location": "Campbell 153"
   },
   {
     "Title": "Stan Winston & Steve Warner Festival of the Moving Creature\nParade & Dance Party",
-    "Start Time": "7:00PM",
-    "End Time": "9:00PM",
-    "Date": "April 26",
-    "Location": "Betsy and John Casteen Arts Grounds "
+    "Start Time": "7-9PM",
+    "End Time": null,
+    "Date": "04.26",
+    "Location": "Betsy and John Casteen Arts Grounds"
   },
   {
     "Title": "100 Days of Making",
-    "Start Time": null,
+    "Start Time": "All Day",
     "End Time": null,
-    "Date": "April 27 - April 30",
+    "Date": "04.27 - 04.30",
     "Location": null
   },
   {
@@ -93,9 +93,9 @@
   },
   {
     "Title": "UVA School of Architecture  Final Exercises 2024",
-    "Start Time": null,
+    "Start Time": "Various Times",
     "End Time": null,
-    "Date": "May 17 - May 19",
+    "Date": "05.17 - 05.19",
     "Location": "Campbell Hall, Lawn, and John Paul Jones Arena"
   }
 ]

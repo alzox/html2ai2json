@@ -5,7 +5,7 @@
     "Start Time": "12:00 AM",
     "End Time": "2:00 AM",
     "Date": "April 8",
-    "Location": "Charlottesville, Va."
+    "Location": "(Charlottesville, Va.)"
   },
   {
     "Title": "Solar Eclipse Watch Party with President Ryan",
@@ -19,70 +19,70 @@
     "Start Time": "2:00 PM",
     "End Time": "3:00 PM",
     "Date": "April 8",
-    "Location": "Virtual Event"
+    "Location": "Virtual Event with Live Captioning"
   },
   {
     "Title": "A Conversation With Brenda Mallory: New Horizons in Environmental Policy",
     "Start Time": "4:00 PM",
     "End Time": "5:30 PM",
     "Date": "April 8",
-    "Location": "Caplin Pavilion"
+    "Location": "(Caplin Pavilion)"
   },
   {
     "Title": "CANCELLED - Exploring the Warped Side of Our Universe",
     "Start Time": "6:30 PM",
     "End Time": "8:00 PM",
     "Date": "April 8",
-    "Location": "Chemistry Building"
+    "Location": "(Chemistry Building)"
   },
   {
     "Title": "Food as Medicine - A Conversation with Dr. Kofi Essel",
     "Start Time": "7:00 PM",
     "End Time": "9:00 PM",
     "Date": "April 8",
-    "Location": "LOCATION TBD"
+    "Location": "LOCATION TBD (Will be updated on the weblink)"
   },
   {
     "Title": "Session 2: Hands-on Techniques for Fixing Digital Accessibility Issues",
     "Start Time": "10:00 AM",
     "End Time": "11:30 AM",
     "Date": "April 9",
-    "Location": "Zoom"
+    "Location": "(Zoom)"
   },
   {
     "Title": "CANCELLED - Active Attacker Training",
     "Start Time": "12:00 PM",
     "End Time": "1:00 PM",
     "Date": "April 9",
-    "Location": "Newcomb Hall (Student Center)"
+    "Location": "(Newcomb Hall (Student Center))"
   },
   {
     "Title": "M.S. in the Management of IT Information Session",
     "Start Time": "7:00 PM",
     "End Time": "8:00 PM",
     "Date": "April 9",
-    "Location": "mcintire.zoom.us"
+    "Location": "(mcintire.zoom.us)"
   },
   {
     "Title": "Facilities Management Apprenticeship & Community Job Fair",
     "Start Time": "9:00 AM",
     "End Time": "11:00 AM",
     "Date": "April 10",
-    "Location": "Alumni Hall"
+    "Location": "(Alumni Hall)"
   },
   {
     "Title": "In The Frame: Indigenous Vernacular Photography Across Two Continents",
     "Start Time": "2:00 PM",
     "End Time": "4:00 PM",
     "Date": "April 10",
-    "Location": "Virginia Humanities"
+    "Location": "(Virginia Humanities)"
   },
   {
     "Title": "M.S. in Commerce Information Session",
     "Start Time": "3:30 PM",
     "End Time": "4:30 PM",
     "Date": "April 10",
-    "Location": null 
+    "Location": null
   },
   {
     "Title": "Morven Student Days",
@@ -96,145 +96,145 @@
     "Start Time": "11:00 AM",
     "End Time": "2:00 PM",
     "Date": "April 11",
-    "Location": "The Park"
+    "Location": "(The Park)"
   },
   {
     "Title": "Miraculous Objects: Relics and Buddha Images in Xuanzangs Datang Xiyu ji",
     "Start Time": "12:00 PM",
     "End Time": "1:15 PM",
     "Date": "April 11",
-    "Location": "New Cabell Hall / www.bit.ly"
+    "Location": "(New Cabell Hall / www.bit.ly)"
   },
   {
     "Title": "National defense strategy: Asking what you can do for your country",
-    "Start Time": null, 
+    "Start Time": null,
     "End Time": null,
     "Date": "April 11",
-    "Location": "Miller Center / millercenter.org" 
+    "Location": "(Miller Center / millercenter.org)"
   },
   {
     "Title": "Social Entrepreneurs and Ventures in Food Justice",
     "Start Time": "4:00 PM",
     "End Time": "6:00 PM",
     "Date": "April 11",
-    "Location": "Darden School"
+    "Location": "(Darden School)"
   },
   {
     "Title": "Matthew Olzmann Poetry Reading",
     "Start Time": "5:00 PM",
     "End Time": "6:00 PM",
     "Date": "April 11",
-    "Location": "Newcomb Hall (Student Center)"
+    "Location": "(Newcomb Hall (Student Center))"
   },
   {
     "Title": "Virtual Info Session - UVA in Valencia Intermediate Spanish and Liberal Arts (Fall 2024)",
     "Start Time": null,
     "End Time": null,
     "Date": "April 11",
-    "Location": null 
+    "Location": null
   },
   {
     "Title": "CANCELLED - Thursday Night Thrills Presents The Phantom of the Opera (1925/29)",
     "Start Time": null,
-    "End Time": null, 
+    "End Time": null,
     "Date": "April 11",
-    "Location": "Clark Hall"
+    "Location": "(Clark Hall)"
   },
   {
     "Title": "University of Virginia Venture Capital Conference",
     "Start Time": null,
     "End Time": null,
     "Date": "April 12",
-    "Location": "Darden Business School's Sands Family Grounds location in Rosslyn, VA"
+    "Location": null
   },
   {
     "Title": "Diversifying Scholarship Research Conference",
     "Start Time": "8:50 AM",
     "End Time": "1:00 PM",
     "Date": "April 12",
-    "Location": null 
+    "Location": null
   },
   {
     "Title": "Celebrate Every Body Week Clothing Swap",
     "Start Time": "11:00 AM",
     "End Time": "3:00 PM",
     "Date": "April 12",
-    "Location": null 
+    "Location": null
   },
   {
     "Title": "Long distance relationships: Ethical considerations of remote sensing research",
     "Start Time": "12:30 PM",
     "End Time": "2:00 PM",
     "Date": "April 12",
-    "Location": "virginia.zoom.us"
+    "Location": "(virginia.zoom.us)"
   },
   {
     "Title": "Art Reception with Amy Chan",
-    "Start Time": null, 
-    "End Time": null, 
+    "Start Time": null,
+    "End Time": null,
     "Date": "April 12",
-    "Location": "Edgar Shannon Library" 
+    "Location": "(Edgar Shannon Library)"
   },
   {
     "Title": "UVA Employee Service Event at Morven Kitchen Garden",
     "Start Time": "2:00 PM",
     "End Time": "5:00 PM",
     "Date": "April 12",
-    "Location": "Morven Kitchen Garden"
+    "Location": null
   },
   {
     "Title": "Imagination and Creativity in the Music by riks Eenvalds",
     "Start Time": null,
-    "End Time": null, 
+    "End Time": null,
     "Date": "April 12",
-    "Location": "Old Cabell Hall room 107" 
+    "Location": null
   },
   {
     "Title": "Kate Orff: 2024 Thomas Jefferson Foundation Medalist in Architecture",
     "Start Time": "3:30 PM",
     "End Time": "5:00 PM",
     "Date": "April 12",
-    "Location": "Old Cabell Hall"
+    "Location": "(Old Cabell Hall)"
   },
   {
     "Title": "Honoring Julieanna L. RichardsonSign Up",
-    "Start Time": "3:30 PM", 
+    "Start Time": "3:30 PM",
     "End Time": "6:00 PM",
     "Date": "April 12",
-    "Location": "Colonnade Club"
+    "Location": "(See Event Description)"
   },
   {
     "Title": "VA Farm Workers Discussion",
     "Start Time": "6:30 PM",
     "End Time": "8:30 PM",
     "Date": "April 12",
-    "Location": "Clark Hall (Rm. 108)" 
+    "Location": "(Clark Hall (Rm. 108))"
   },
   {
     "Title": "UVA Baroque Orchestra Spring 2024 Concert",
     "Start Time": "8:00 PM",
     "End Time": "9:00 PM",
     "Date": "April 12",
-    "Location": "Old Cabell Hall"
+    "Location": "(Old Cabell Hall)"
   },
   {
     "Title": "Chamber Music Ensembles Recital - Spring 2024",
-    "Start Time": null, 
-    "End Time": null, 
+    "Start Time": null,
+    "End Time": null,
     "Date": "April 13",
-    "Location": "Old Cabell Hall" 
+    "Location": "(Old Cabell Hall)"
   },
   {
     "Title": "M.S. in Business Analytics Sands Family Grounds Visit",
-    "Start Time": "9:30 AM", 
+    "Start Time": "9:30 AM",
     "End Time": "1:00 PM",
     "Date": "April 13",
-    "Location": null 
+    "Location": "(See Event Description)"
   },
   {
     "Title": "2024 Protecting Health in a Changing Climate:  Rising Heat and Health in Virginia",
     "Start Time": null,
-    "End Time": null, 
+    "End Time": null,
     "Date": "April 13",
     "Location": null
   },
@@ -250,28 +250,28 @@
     "Start Time": "7:30 PM",
     "End Time": "10:00 PM",
     "Date": "April 13",
-    "Location": "John Paul Jones Arena"
+    "Location": "(John Paul Jones Arena)"
   },
   {
     "Title": "University Singers Choral Residency and Concert with Composer riks Eenvalds",
     "Start Time": "8:00 PM",
     "End Time": "9:30 PM",
     "Date": "April 13",
-    "Location": "Old Cabell Hall"
+    "Location": "(Old Cabell Hall)"
   },
   {
     "Title": "Foraging Awe",
-    "Start Time": "11:00 AM", 
+    "Start Time": "11:00 AM",
     "End Time": "12:00 PM",
     "Date": "April 14",
-    "Location": "The Fralin Museum of Art (Bayly Building)"
+    "Location": "(The Fralin Museum of Art (Bayly Building))"
   },
   {
     "Title": "UVA Flute Ensemble Spring 2024 Recital",
     "Start Time": "12:00 PM",
-    "End Time": null, 
+    "End Time": null,
     "Date": "April 14",
-    "Location": "Rotunda (Dome Room)"
+    "Location": "(Rotunda (Dome Room))"
   }
-] 
+]
  

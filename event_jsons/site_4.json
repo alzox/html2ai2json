@@ -2,7 +2,7 @@
 [
   {
     "Title": "Graduate Writing Caf",
-    "Start Time": null,
+    "Start Time": "12:00pm",
     "End Time": null,
     "Date": "April 13",
     "Location": "Holloway Hall (Bavaro 116)"
@@ -53,7 +53,7 @@
     "Title": "Final FridayTheir World As Big As They Made It",
     "Start Time": "5:30pm",
     "End Time": null,
-    "Date": "April 22",
+    "Date": "April 26",
     "Location": null
   }
 ]
