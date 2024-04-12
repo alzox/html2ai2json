@@ -1,74 +1,73 @@
 
 [
   {
-    "Title": "Civil and Environmental Engineering Distinguished Speaker Series",
+    "Title": "Civil and Environmental Engineering Distinguished Speaker Series: Sustainable Systems",
     "Start Time": "11:00 AM",
     "End Time": "12:20 PM",
-    "Date": "April 12",
+    "Date": "Apr 12",
     "Location": null
   },
   {
     "Title": "BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania",
     "Start Time": "2:00 PM",
     "End Time": "3:00 PM",
-    "Date": "April 12",
-    "Location": "Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D."
+    "Date": "Apr 12",
+    "Location": "ECE Seminar - Speaker: Stephanie Damas, Clemson University"
   },
   {
     "Title": "ECE Seminar - Speaker: Stephanie Damas, Clemson University",
-    "Start Time": "2:00 PM",
-    "End Time": "3:00 PM",
-    "Date": "April 12",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "Apr 12",
     "Location": "ZOOM"
   },
   {
     "Title": "Ed Paul Lecture: Ann Lee, CTO of Prime Editing",
     "Start Time": "11:00 AM",
     "End Time": "12:00 PM",
-    "Date": "April 18",
+    "Date": "Apr 18",
     "Location": "Albert and Shirley Small Special Collections Library, Harrison Small Auditorium"
   },
   {
     "Title": "Black Excellence in Engineering Symposium",
     "Start Time": "2:00 PM",
     "End Time": "5:30 PM",
-    "Date": "April 18",
+    "Date": "Apr 18",
     "Location": "The Rotunda"
   },
   {
     "Title": "UVA Physics Hoxton Lecture: John Preskill",
     "Start Time": "6:30 PM",
     "End Time": "7:30 PM",
-    "Date": "April 18",
+    "Date": "Apr 18",
     "Location": "Chemistry Building, Room 402"
   },
   {
     "Title": "UVA Link Lab 2024 Spring Distinguished Research Award",
     "Start Time": "12:30 PM",
     "End Time": "1:30 PM",
-    "Date": "April 19",
+    "Date": "Apr 19",
     "Location": "UVA Link Lab | Olsson Hall 2nd Floor Arena"
   },
   {
     "Title": "BME Seminar: Joel Collier, PhD, Duke University",
-    "Start Time": "2:00 PM",
-    "End Time": "3:00 PM",
-    "Date": "April 19",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "Apr 19",
     "Location": "MR5 1041"
   },
   {
     "Title": "ECE Seminar: Speaker: Dr. Charles E. Boyer",
-    "Start Time": "2:00 PM",
-    "End Time": "3:00 PM",
-    "Date": "April 19",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "Apr 19",
     "Location": "THORNTON HALL ROOM E316"
   },
   {
-    "Title": "Civil and Environmental Engineering Distinguished Speaker Series",
+    "Title": "Built Environment",
     "Start Time": "2:00 PM",
     "End Time": "3:20 PM",
-    "Date": "April 25",
+    "Date": "Apr 25",
     "Location": null
   }
 ]
- 
