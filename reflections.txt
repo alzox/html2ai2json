@@ -5,11 +5,6 @@ What works:
 * Store in a database: MongoDB or SQL
 * ETL: Luigi or Airflow
 
-
-Problems pt.2:
-Modular metadata tagging to sites for have full scraping for all events
-(Load More Buttons, JS Next, Pagination, etc.)
-
 Site Timeframes Analysis:
 https://scholarslab.lib.virginia.edu/events/ - All Planned
 https://www.virginia.edu/calendar - Week 
