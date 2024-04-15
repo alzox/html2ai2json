@@ -1,73 +1,74 @@
 
 [
   {
-    "Title": "Civil and Environmental Engineering Distinguished Speaker Series\nSustainable Systems",
-    "Start Time": "11:00 AM",
-    "End Time": "12:20 PM",
-    "Date": "April 12",
-    "Location": null
-  },
-  {
-    "Title": "BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania\nArjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.",
-    "Start Time": "2:00 PM",
-    "End Time": "3:00 PM",
-    "Date": "April 12",
-    "Location": null
-  },
-  {
-    "Title": "ECE Seminar - Speaker: Stephanie Damas, Clemson University\nIn this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 12",
-    "Location": "ZOOM"
-  },
-  {
-    "Title": "Ed Paul Lecture: Ann Lee, CTO of Prime Editing\nStrategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.",
+    "Title": "Ed Paul Lecture: Ann Lee, CTO of Prime Editing",
     "Start Time": "11:00 AM",
     "End Time": "12:00 PM",
     "Date": "April 18",
     "Location": "Albert and Shirley Small Special Collections Library, Harrison Small Auditorium"
   },
   {
-    "Title": "Black Excellence in Engineering Symposium\nTo kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.",
+    "Title": "Black Excellence in Engineering Symposium",
     "Start Time": "2:00 PM",
     "End Time": "5:30 PM",
     "Date": "April 18",
     "Location": "The Rotunda"
   },
   {
-    "Title": "UVA Physics Hoxton Lecture: John Preskill\nThe quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.",
+    "Title": "UVA Physics Hoxton Lecture: John Preskill",
     "Start Time": "6:30 PM",
     "End Time": "7:30 PM",
     "Date": "April 18",
     "Location": "Chemistry Building, Room 402"
   },
   {
-    "Title": "UVA Link Lab 2024 Spring Distinguished Research Award\nPlease join us on Friday, April 19th for the DistinguishedResearchAward.",
+    "Title": "UVA Link Lab 2024 Spring Distinguished Research Award",
     "Start Time": "12:30 PM",
     "End Time": "1:30 PM",
     "Date": "April 19",
     "Location": "UVA Link Lab | Olsson Hall 2nd Floor Arena"
   },
   {
-    "Title": "BME Seminar: Joel Collier, PhD, Duke University\nJoel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.",
-    "Start Time": null,
-    "End Time": null,
+    "Title": "BME Seminar: Joel Collier, PhD, Duke University",
+    "Start Time": "2:00 PM",
+    "End Time": "3:00 PM",
     "Date": "April 19",
     "Location": "MR5 1041"
   },
   {
-    "Title": "ECE Seminar: Speaker: Dr. Charles E. Boyer\nThe talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and",
+    "Title": "ECE Seminar: Speaker: Dr. Charles E. Boyer",
     "Start Time": null,
     "End Time": null,
     "Date": "April 19",
-    "Location": "THORNTON HALL ROOM E316"
+    "Location": "THORNTON HALL ROOM C311"
   },
   {
-    "Title": "Built Environment",
+    "Title": "Civil and Environmental Engineering Distinguished Speaker Series",
     "Start Time": "2:00 PM",
     "End Time": "3:20 PM",
     "Date": "April 25",
+    "Location": "Built Environment"
+  },
+  {
+    "Title": "BME Seminar: John Platig, Ph.D., University of Virginia",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 26",
     "Location": null
+  },
+  {
+    "Title": "ECE Seminar: Speaker: Dr. Rounak Meyur",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 26",
+    "Location": "THORNTON HALL ROOM E316"
+  },
+  {
+    "Title": "BME Diploma Ceremony: Final Exercises 2024",
+    "Start Time": "11:30 AM",
+    "End Time": "12:30 PM",
+    "Date": "May 19",
+    "Location": "Old Cabell Hall"
   }
 ]
+ 

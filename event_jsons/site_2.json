@@ -5,56 +5,85 @@
     "Start Time": "4:30 PM",
     "End Time": "6:00 PM",
     "Date": "April 17",
-    "Location": "Room 318A, Bavaro Hall"
+    "Location": "Room 318A, Bavaro Hall",
+    "Event Topics": [
+      "Health & Wellness",
+      "Human Services"
+    ]
   },
   {
     "Title": "Wheelchair Takeover: Paralympic Pick-up",
     "Start Time": "3:00 PM",
     "End Time": "6:00 PM",
     "Date": "April 19",
-    "Location": null
+    "Location": null,
+    "Event Topics": [
+      "Inclusion, Diversity, Equity & Accessibility",
+      "Kinesiology"
+    ]
   },
   {
     "Title": "EHD Black Alumni Weekend Events: Honoring the Past, Advancing in the Future",
     "Start Time": "3:30 PM",
     "End Time": "5:30 PM",
     "Date": "April 19",
-    "Location": null
+    "Location": null,
+    "Event Sponsors": [
+      "Office of Diversity, Equity and Inclusion"
+    ]
   },
   {
     "Title": "M.Ed. in Administration & Supervision Information Session",
     "Start Time": "4:00 PM",
     "End Time": "5:00 PM",
     "Date": "April 22",
-    "Location": null
+    "Location": null,
+    "Event Topics": [
+      "Admission & Enrollment"
+    ]
   },
   {
     "Title": "How to Become a Teacher Information Session April 2024",
-    "Start Time": "6:00 PM",
-    "End Time": "7:00 PM",
+    "Start Time": "7:00 PM",
+    "End Time": "8:00 PM",
     "Date": "April 23",
-    "Location": null
+    "Location": null,
+    "Event Topics": [
+      "Teaching & Learning"
+    ],
+    "Event Sponsors": [
+      "Curriculum, Instruction & Special Education"
+    ]
   },
   {
     "Title": "EHD Yoga",
     "Start Time": "9:00 AM",
     "End Time": "10:00 AM",
     "Date": "April 29",
-    "Location": null
+    "Location": null,
+    "Event Sponsors": [
+      "Academic Programs & Student Affairs"
+    ]
   },
   {
     "Title": "Ice Cream Social",
     "Start Time": "12:00 PM",
     "End Time": "2:00 PM",
     "Date": "April 30",
-    "Location": null
+    "Location": null,
+    "Event Sponsors": [
+      "Student Affairs"
+    ]
   },
   {
     "Title": "EHD Undergraduate Graduation Celebration",
     "Start Time": null,
     "End Time": null,
     "Date": "May 1",
-    "Location": null
+    "Location": null,
+    "Event Sponsors": [
+      "Student Affairs"
+    ]
   },
   {
     "Title": "UVA Club of Washington DC: UVA Graduate School Fair",
@@ -64,4 +93,3 @@
     "Location": null
   }
 ]
- 

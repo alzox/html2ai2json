@@ -1,277 +1,249 @@
 
 [
   {
-    "Title": "Virginia Men's Golf vs. Lewis Chitengwa Memorial",
-    "Start Time": "12:00 AM",
-    "End Time": "2:00 AM",
-    "Date": "April 8",
-    "Location": "(Charlottesville, Va.)"
+    "Title": "UVA Department of Art Thesis Exhibitions",
+    "Start Time": "9:00 AM",
+    "End Time": "5:00 PM",
+    "Date": "April 15",
+    "Location": "Ruffin Gallery"
   },
   {
-    "Title": "Solar Eclipse Watch Party with President Ryan",
-    "Start Time": "1:30 PM",
-    "End Time": "4:30 PM",
-    "Date": "April 8",
-    "Location": "South Lawn"
+    "Title": "Sister Revolutions",
+    "Start Time": "12:00 PM",
+    "End Time": "2:00 PM",
+    "Date": "April 15",
+    "Location": "Jefferson Hall (Hotel C)"
   },
   {
-    "Title": "Marriage: How to Maximize Happiness in Life and Love (virtual)",
+    "Title": "Batten Hour: With Daniel Reifsnyder",
+    "Start Time": "12:30 PM",
+    "End Time": "1:30 PM",
+    "Date": "April 15",
+    "Location": "Garrett Hall"
+  },
+  {
+    "Title": "Hands-on Techniques for Fixing Digital Accessibility Issues",
     "Start Time": "2:00 PM",
     "End Time": "3:00 PM",
-    "Date": "April 8",
-    "Location": "Virtual Event with Live Captioning"
+    "Date": "April 15",
+    "Location": "Zoom"
   },
   {
-    "Title": "A Conversation With Brenda Mallory: New Horizons in Environmental Policy",
-    "Start Time": "4:00 PM",
-    "End Time": "5:30 PM",
-    "Date": "April 8",
-    "Location": "(Caplin Pavilion)"
+    "Title": "Holding our presidents accountable",
+    "Start Time": "2:00 PM",
+    "End Time": "3:00 PM",
+    "Date": "April 15",
+    "Location": "Miller Center / millercenter.org"
   },
   {
-    "Title": "CANCELLED - Exploring the Warped Side of Our Universe",
-    "Start Time": "6:30 PM",
-    "End Time": "8:00 PM",
-    "Date": "April 8",
-    "Location": "(Chemistry Building)"
+    "Title": "Doctoral Diversity Dinner",
+    "Start Time": "5:30 PM",
+    "End Time": "8:30 PM",
+    "Date": "April 15",
+    "Location": null
   },
   {
-    "Title": "Food as Medicine - A Conversation with Dr. Kofi Essel",
-    "Start Time": "7:00 PM",
-    "End Time": "9:00 PM",
-    "Date": "April 8",
-    "Location": "LOCATION TBD (Will be updated on the weblink)"
+    "Title": "Inaugural Virginia Architecture Fellows Showcase",
+    "Start Time": "6:00 PM",
+    "End Time": "7:00 PM",
+    "Date": "April 15",
+    "Location": null
   },
   {
-    "Title": "Session 2: Hands-on Techniques for Fixing Digital Accessibility Issues",
-    "Start Time": "10:00 AM",
-    "End Time": "11:30 AM",
-    "Date": "April 9",
-    "Location": "(Zoom)"
-  },
-  {
-    "Title": "CANCELLED - Active Attacker Training",
+    "Title": "\"Unearthing Black Midwifery Stories in Virginia\"",
     "Start Time": "12:00 PM",
     "End Time": "1:00 PM",
-    "Date": "April 9",
-    "Location": "(Newcomb Hall (Student Center))"
+    "Date": "April 16",
+    "Location": "McLeod Hall (Rm. 5060) / virginia.zoom.us"
   },
   {
-    "Title": "M.S. in the Management of IT Information Session",
-    "Start Time": "7:00 PM",
-    "End Time": "8:00 PM",
-    "Date": "April 9",
-    "Location": "(mcintire.zoom.us)"
-  },
-  {
-    "Title": "Facilities Management Apprenticeship & Community Job Fair",
-    "Start Time": "9:00 AM",
-    "End Time": "11:00 AM",
-    "Date": "April 10",
-    "Location": "(Alumni Hall)"
-  },
-  {
-    "Title": "In The Frame: Indigenous Vernacular Photography Across Two Continents",
-    "Start Time": "2:00 PM",
-    "End Time": "4:00 PM",
-    "Date": "April 10",
-    "Location": "(Virginia Humanities)"
-  },
-  {
-    "Title": "M.S. in Commerce Information Session",
-    "Start Time": "3:30 PM",
-    "End Time": "4:30 PM",
-    "Date": "April 10",
-    "Location": null
-  },
-  {
-    "Title": "Morven Student Days",
-    "Start Time": "10:00 AM",
-    "End Time": "4:00 PM",
-    "Date": "April 11",
-    "Location": null
-  },
-  {
-    "Title": "CANCELLED - North Grounds E-Bike Demo Day",
-    "Start Time": "11:00 AM",
-    "End Time": "2:00 PM",
-    "Date": "April 11",
-    "Location": "(The Park)"
-  },
-  {
-    "Title": "Miraculous Objects: Relics and Buddha Images in Xuanzangs Datang Xiyu ji",
-    "Start Time": "12:00 PM",
-    "End Time": "1:15 PM",
-    "Date": "April 11",
-    "Location": "(New Cabell Hall / www.bit.ly)"
-  },
-  {
-    "Title": "National defense strategy: Asking what you can do for your country",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 11",
-    "Location": "(Miller Center / millercenter.org)"
-  },
-  {
-    "Title": "Social Entrepreneurs and Ventures in Food Justice",
+    "Title": "2024 Grad Thesis SLAM",
     "Start Time": "4:00 PM",
     "End Time": "6:00 PM",
-    "Date": "April 11",
-    "Location": "(Darden School)"
+    "Date": "April 16",
+    "Location": "Alumni Hall"
   },
   {
-    "Title": "Matthew Olzmann Poetry Reading",
+    "Title": "AI and You: Navigating the Future Together at UVA",
+    "Start Time": "5:30 PM",
+    "End Time": "7:00 PM",
+    "Date": "April 16",
+    "Location": "Newcomb Hall (Student Center)"
+  },
+  {
+    "Title": "M.S. in Business Analytics Women in Analytics Panel",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 16",
+    "Location": null
+  },
+  {
+    "Title": "Indigenous Australian Art Takes the Runway",
+    "Start Time": "7:00 PM",
+    "End Time": "8:00 PM",
+    "Date": "April 16",
+    "Location": null
+  },
+  {
+    "Title": "A Night of Percussion featuring guest artist, Brady Spitz, with the UVA Percussion Ensemble",
+    "Start Time": "8:00 PM",
+    "End Time": "9:00 PM",
+    "Date": "April 16",
+    "Location": "Old Cabell Hall"
+  },
+  {
+    "Title": "A Librarian Like No Other: Belle da Costa Greene and Self-invention",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 17",
+    "Location": "cal.lib.virginia.edu"
+  },
+  {
+    "Title": "2024 Undergraduate Research Symposium",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 18",
+    "Location": "Newcomb Hall (Student Center)"
+  },
+  {
+    "Title": "Putting Equity-Minded Policy Into Practice",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 18",
+    "Location": "Garrett Hall"
+  },
+  {
+    "Title": "Accessibility Open Lab",
+    "Start Time": "2:00 PM",
+    "End Time": "3:30 PM",
+    "Date": "April 18",
+    "Location": "Zoom"
+  },
+  {
+    "Title": "Howland Symposium: Particulate Matters",
+    "Start Time": "5:00 PM",
+    "End Time": "7:00 PM",
+    "Date": "April 18",
+    "Location": "Campbell Hall (School of Architecture)"
+  },
+  {
+    "Title": "M.S. in Business Analytics Application Strategy Session",
     "Start Time": "5:00 PM",
     "End Time": "6:00 PM",
-    "Date": "April 11",
-    "Location": "(Newcomb Hall (Student Center))"
+    "Date": "April 18",
+    "Location": "Zoom"
   },
   {
-    "Title": "Virtual Info Session - UVA in Valencia Intermediate Spanish and Liberal Arts (Fall 2024)",
+    "Title": "M.S. in the Management of IT Application Strategy Session",
     "Start Time": null,
     "End Time": null,
-    "Date": "April 11",
-    "Location": null
+    "Date": "April 18",
+    "Location": "mcintire.zoom.us"
   },
   {
-    "Title": "CANCELLED - Thursday Night Thrills Presents The Phantom of the Opera (1925/29)",
+    "Title": "Fashion As Art Keynote Speaker",
     "Start Time": null,
     "End Time": null,
-    "Date": "April 11",
-    "Location": "(Clark Hall)"
+    "Date": "April 18",
+    "Location": "Hunter Smith Band Building\n180 Culbreth Road"
   },
   {
-    "Title": "University of Virginia Venture Capital Conference",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 12",
-    "Location": null
-  },
-  {
-    "Title": "Diversifying Scholarship Research Conference",
-    "Start Time": "8:50 AM",
-    "End Time": "1:00 PM",
-    "Date": "April 12",
-    "Location": null
-  },
-  {
-    "Title": "Celebrate Every Body Week Clothing Swap",
-    "Start Time": "11:00 AM",
-    "End Time": "3:00 PM",
-    "Date": "April 12",
-    "Location": null
-  },
-  {
-    "Title": "Long distance relationships: Ethical considerations of remote sensing research",
-    "Start Time": "12:30 PM",
-    "End Time": "2:00 PM",
-    "Date": "April 12",
-    "Location": "(virginia.zoom.us)"
-  },
-  {
-    "Title": "Art Reception with Amy Chan",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 12",
-    "Location": "(Edgar Shannon Library)"
-  },
-  {
-    "Title": "UVA Employee Service Event at Morven Kitchen Garden",
-    "Start Time": "2:00 PM",
-    "End Time": "5:00 PM",
-    "Date": "April 12",
-    "Location": null
-  },
-  {
-    "Title": "Imagination and Creativity in the Music by riks Eenvalds",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 12",
-    "Location": null
-  },
-  {
-    "Title": "Kate Orff: 2024 Thomas Jefferson Foundation Medalist in Architecture",
-    "Start Time": "3:30 PM",
-    "End Time": "5:00 PM",
-    "Date": "April 12",
-    "Location": "(Old Cabell Hall)"
-  },
-  {
-    "Title": "Honoring Julieanna L. RichardsonSign Up",
-    "Start Time": "3:30 PM",
-    "End Time": "6:00 PM",
-    "Date": "April 12",
-    "Location": "(See Event Description)"
-  },
-  {
-    "Title": "VA Farm Workers Discussion",
+    "Title": "Quantum Computing and the Entanglement Frontier",
     "Start Time": "6:30 PM",
-    "End Time": "8:30 PM",
-    "Date": "April 12",
-    "Location": "(Clark Hall (Rm. 108))"
+    "End Time": "8:00 PM",
+    "Date": "April 18",
+    "Location": "Chemistry Building"
   },
   {
-    "Title": "UVA Baroque Orchestra Spring 2024 Concert",
-    "Start Time": "8:00 PM",
+    "Title": "Thursday Night Thrills Presents The Man Who Laughs (1928)",
+    "Start Time": "7:00 PM",
     "End Time": "9:00 PM",
-    "Date": "April 12",
-    "Location": "(Old Cabell Hall)"
+    "Date": "April 18",
+    "Location": "Clark Hall"
   },
   {
-    "Title": "Chamber Music Ensembles Recital - Spring 2024",
+    "Title": "M.S. in Accounting Information Session",
     "Start Time": null,
     "End Time": null,
-    "Date": "April 13",
-    "Location": "(Old Cabell Hall)"
-  },
-  {
-    "Title": "M.S. in Business Analytics Sands Family Grounds Visit",
-    "Start Time": "9:30 AM",
-    "End Time": "1:00 PM",
-    "Date": "April 13",
-    "Location": "(See Event Description)"
-  },
-  {
-    "Title": "2024 Protecting Health in a Changing Climate:  Rising Heat and Health in Virginia",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 13",
+    "Date": "April 18",
     "Location": null
   },
   {
-    "Title": "Relay for Life at UVA",
-    "Start Time": "1:00 PM",
-    "End Time": "9:00 PM",
-    "Date": "April 13",
-    "Location": "Carr's Hill Field"
-  },
-  {
-    "Title": "Sam Hunt",
+    "Title": "Environmental Justice Documentary Screening",
     "Start Time": "7:30 PM",
-    "End Time": "10:00 PM",
-    "Date": "April 13",
-    "Location": "(John Paul Jones Arena)"
-  },
-  {
-    "Title": "University Singers Choral Residency and Concert with Composer riks Eenvalds",
-    "Start Time": "8:00 PM",
     "End Time": "9:30 PM",
-    "Date": "April 13",
-    "Location": "(Old Cabell Hall)"
+    "Date": "April 18",
+    "Location": "Newcomb Hall (Student Center)"
   },
   {
-    "Title": "Foraging Awe",
+    "Title": "4/19 Free Meal Prep Class!",
+    "Start Time": "12:00 PM",
+    "End Time": "1:30 PM",
+    "Date": "April 19",
+    "Location": "Student Health & Wellness's Teaching Kitchen"
+  },
+  {
+    "Title": "Making Noise in the Library: The Dale Avenue Band",
+    "Start Time": "12:30 PM",
+    "End Time": null,
+    "Date": "April 19",
+    "Location": "Old Cabell Hall"
+  },
+  {
+    "Title": "Japan's Imperial Borderlands: Case Studies from Taiwan and Korea",
+    "Start Time": "3:15 PM",
+    "End Time": "4:30 PM",
+    "Date": "April 19",
+    "Location": "Monroe Hall"
+  },
+  {
+    "Title": null,
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April 19",
+    "Location": "Newcomb Hall (Student Center)"
+  },
+  {
+    "Title": "Tom Tom Festival: Psychedelics & Meditation and Science of Psychedelics",
+    "Start Time": "2:30 PM",
+    "End Time": "3:30 PM",
+    "Date": "April 20",
+    "Location": "See Event Description"
+  },
+  {
+    "Title": "Indian Classical Night",
+    "Start Time": "6:00 PM",
+    "End Time": "9:00 PM",
+    "Date": "April 20",
+    "Location": "McLeod Hall #1020 (Fenwick Auditorium)"
+  },
+  {
+    "Title": "Corner Cleanup",
     "Start Time": "11:00 AM",
     "End Time": "12:00 PM",
-    "Date": "April 14",
-    "Location": "(The Fralin Museum of Art (Bayly Building))"
+    "Date": "April 21",
+    "Location": "Madison Hall (President's Office)"
   },
   {
-    "Title": "UVA Flute Ensemble Spring 2024 Recital",
-    "Start Time": "12:00 PM",
-    "End Time": null,
-    "Date": "April 14",
-    "Location": "(Rotunda (Dome Room))"
+    "Title": "UVA Cello Ensemble Spring 2024 Recital",
+    "Start Time": "12:30 PM",
+    "End Time": "2:00 PM",
+    "Date": "April 21",
+    "Location": "Rotunda (Dome Room)"
+  },
+  {
+    "Title": "2024 SCOPER LECTURE WILL FEATURE DAVID BROOKS IN CONVERSATION WITH MELODY BARNES",
+    "Start Time": "3:00 PM",
+    "End Time": "4:00 PM",
+    "Date": "April 21",
+    "Location": null
+  },
+  {
+    "Title": null,
+    "Start Time": "3:30 PM",
+    "End Time": "5:30 PM",
+    "Date": "April 21",
+    "Location": null
   }
 ]
  

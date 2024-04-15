@@ -150,24 +150,13 @@ Home
 Upcoming Events
 The University of Virginia School of Engineering and Applied Science sponsors many events of interest to alumni, friends, faculty, students and the community.
                       Filter Events By
-Apr 12
-Civil and Environmental Engineering Distinguished Speaker Series
-Sustainable Systems
-Time:
-11:00 AM - 12:20 PM
-BME Seminar: Arjun Raj, Ph.D., University of Pennsylvania
-Arjun Raj, Ph.D., University of Pennsylvania - Hosted by Mohammad Fallahi-Sichani, Ph.D.
-2:00 PM - 3:00 PM
-Location:
-ECE Seminar - Speaker: Stephanie Damas, Clemson University
-In this talk, Damas will explore the early findings of her dissertation study to emphasize further the impact of minority engineering programs on student experiences. She will leverage her findings...
-ZOOM
-
 Apr 18
 Ed Paul Lecture: Ann Lee, CTO of Prime Editing
 Strategies and insights on using Prime Editing, asearch-and-replace gene editing technology platform, to potentially correct diverse disease-causing genetic mutations in the human genome.
+Time:
 11:00 AM - 12:00 PM
-Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
+Location:
+Albert and Shirley Small Special Collections Library, Harrison Small Auditorium
 Black Excellence in Engineering Symposium
 To kick off Black Alumni Weekend, UVA Engineering will spotlight Black Excellence in the engineering community through this event featuring alumni and faculty perspectives. Pre-registration required.
 2:00 PM - 5:30 PM
@@ -183,14 +172,24 @@ Please join us on Friday, April 19th for the DistinguishedResearchAward.
 UVA Link Lab | Olsson Hall 2nd Floor Arena
 BME Seminar: Joel Collier, PhD, Duke University
 Joel Collier, Ph.D., Duke University - Hosted by Tom Barker, Ph.D.
+2:00 PM - 3:00 PM
 MR5 1041
 ECE Seminar: Speaker: Dr. Charles E. Boyer
 The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
-THORNTON HALL ROOM E316
+THORNTON HALL ROOM C311
 Apr 25
+Civil and Environmental Engineering Distinguished Speaker Series
 Built Environment
 2:00 PM - 3:20 PM
-Previous Page
+Apr 26
+ BME Seminar: John Platig, Ph.D., University of Virginia
+John Platig, Ph.D., University of Virginia - Hosted by Mete Civelek, Ph.D. & Mohammad Fallahi-Sichani, Ph.D.
+ECE Seminar: Speaker: Dr. Rounak Meyur
+THORNTON HALL ROOM E316
+May 19
+BME Diploma Ceremony: Final Exercises 2024
+11:30 AM - 12:30 PM
+Old Cabell Hall
 Next Page
 Page
 1
@@ -223,6 +222,7 @@ Phone:(434) 924-3072
 Utility
 Accessibility
 Privacy Policy
+
 2024 University of Virginia School of Engineering and Applied Science
 Site Menu
 Departments
@@ -233,5 +233,6 @@ Menu Quick
 Audience
 Menu Audience
 Close
+Previous Page
 Non-Discrimination Policy
 Media

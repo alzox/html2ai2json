@@ -1,7 +1,7 @@
 
 [
   {
-    "Title": "National Medical Laboratory Professionals Week",
+    "Title": "National Medical Laboratory Professionals Week is April 14-20",
     "Start Time": null,
     "End Time": null,
     "Date": "April 14-20",
@@ -12,6 +12,13 @@
     "Start Time": null,
     "End Time": null,
     "Date": "April 1-30",
+    "Location": null
+  },
+  {
+    "Title": "W. Jeffrey Elias, MD, Named to Modern Healthcares 2024 Innovators List",
+    "Start Time": null,
+    "End Time": null,
+    "Date": null,
     "Location": null
   },
   {
@@ -43,38 +50,38 @@
     "Location": null
   },
   {
-    "Title": "2024 Protecting Health in a Changing Climate: Rising Heat and Health in Virginia",
-    "Start Time": "8:00 am",
-    "End Time": "3:00 pm",
-    "Date": "Apr 13, 2024",
-    "Location": null
-  },
-  {
-    "Title": "2024 Trainee Diversity & Inclusion Conference",
-    "Start Time": "7:45 am",
-    "End Time": null,
-    "Date": null,
-    "Location": null
-  },
-  {
-    "Title": "UVA School of Medicine 5k Benefitting Camp Holiday Trails",
-    "Start Time": "9:00 am",
-    "End Time": "11:00 am",
-    "Date": null,
-    "Location": null
-  },
-  {
-    "Title": "Housestaff Council for Diversity and Inclusion 6th Annual Trainee Diversity and Inclusion Conference Planned for April 13",
-    "Start Time": null,
-    "End Time": null,
-    "Date": null,
-    "Location": null
+    "Title": "UVA Neurology Alumni and Friends Gathering",
+    "Start Time": "7:00 pm",
+    "End Time": "9:00 pm",
+    "Date": "Apr 16, 2024",
+    "Location": "Denver"
   },
   {
     "Title": "Paddling Both Canoes: The Journey to Value",
     "Start Time": "1:00 pm",
     "End Time": "2:00 pm",
-    "Date": "Apr 16, 2024",
+    "Date": null,
+    "Location": null
+  },
+  {
+    "Title": "2024 Grad Thesis SLAM",
+    "Start Time": "4:00 pm",
+    "End Time": "6:00 pm",
+    "Date": null,
+    "Location": null
+  },
+  {
+    "Title": "Virginia IMPACT: Primary Care Perspective, Hep C and HIV",
+    "Start Time": "12:30 pm",
+    "End Time": "1:30 pm",
+    "Date": "Apr 17, 2024",
+    "Location": null
+  },
+  {
+    "Title": "CVRC Seminar Speaker, Dr. Chastity Bradford",
+    "Start Time": "11:00 am",
+    "End Time": "12:00 pm",
+    "Date": "Apr 18, 2024",
     "Location": null
   }
 ]
