@@ -1,4 +1,4 @@
-# UVA-Event-Oracle
+# UVA-Event-Oracle (https://www.yougao.dev/UVA-Event-Oracle/)
 all uva events across different schools and within different departments.
 
 # Status: In-Development
