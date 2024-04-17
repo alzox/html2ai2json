@@ -6,7 +6,7 @@ What works:
 * ETL: Luigi or Airflow
 
 What doesn't work:
-* Processing rules for all dates like A-School (M.D)
+* Processing rules for all dates like A-School (M.D) (Will Show up as NAT in nan_df)
 
 Site Timeframes Analysis:
 https://scholarslab.lib.virginia.edu/events/ - All Planned
