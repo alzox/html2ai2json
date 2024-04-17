@@ -5,6 +5,9 @@ What works:
 * Store in a database: MongoDB or SQL
 * ETL: Luigi or Airflow
 
+What doesn't work:
+* Processing rules for all dates like A-School (M.D)
+
 Site Timeframes Analysis:
 https://scholarslab.lib.virginia.edu/events/ - All Planned
 https://www.virginia.edu/calendar - Week 
