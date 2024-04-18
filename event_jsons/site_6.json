@@ -1,33 +1,11 @@
 
-
 [
   {
-    "Title": "Visit McIntire",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 16",
-    "Location": null
-  },
-  {
-    "Title": "The SEC Enforcement and Quantitative Analytics",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 16",
-    "Location": "Rouss & Robertson Halls"
-  },
-  {
-    "Title": "Lets Network: Real Estate",
-    "Start Time": null,
-    "End Time": null,
-    "Date": "April 17",
-    "Location": null
-  },
-  {
     "Title": "Black Alumni Weekend: \"OnBoard\" Screening, Panel & Reception",
-    "Start Time": null,
-    "End Time": null,
+    "Start Time": "2:30 pm",
+    "End Time": "5:30 pm",
     "Date": "April 19",
-    "Location": null
+    "Location": "Rouse & Robertson Halls"
   },
   {
     "Title": "M.S. in Commerce Information Session",
@@ -83,7 +61,7 @@
     "Start Time": null,
     "End Time": null,
     "Date": "May 30",
-    "Location": "London"
+    "Location": null
   },
   {
     "Title": "Reunions Weekend Lunch: Classes of '94, '89, '84, '79, '74, TJ Society",
@@ -93,25 +71,18 @@
     "Location": null
   },
   {
-    "Title": "Student Org  SWS: Probie Training Session SPR Semester",
-    "Start Time": "7:00 pm",
-    "End Time": "8:00 pm",
-    "Date": "April 15",
-    "Location": "Rouss & Robertson Halls"
+    "Title": "Reunions Weekend Lunch: Classes of '19, '14, '09, '04, '99",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "June 08",
+    "Location": null
   },
   {
-    "Title": "Conference / Seminar The SEC Enforcement and Quantitative Analytics",
-    "Start Time": "5:00 pm",
-    "End Time": "7:30 pm",
-    "Date": "April 16",
-    "Location": "Rouss & Robertson Halls"
-  },
-  {
-    "Title": "Alumni and Friends Lets Network: Real Estate",
-    "Start Time": "3:00 pm",
-    "End Time": "4:00 pm",
-    "Date": "April 17",
-    "Location": "Virtual"
+    "Title": "A Conversation on Capitalism & Democracy",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "June 19",
+    "Location": null
   },
   {
     "Title": "Information Session M.S. in the Management of IT Application Strategy Session",
@@ -128,11 +99,11 @@
     "Location": "Virtual"
   },
   {
-    "Title": "Student Org  180 Degrees: Bain & Co. Women's Case Competition",
+    "Title": "180 Degrees: Bain & Co. Women's Case Competition",
     "Start Time": "5:00 pm",
     "End Time": "9:00 pm",
     "Date": "April 18",
-    "Location": "Rouss & Robertson Halls"
+    "Location": "Rouse & Robertson Halls"
   },
   {
     "Title": "Information Session M.S. in Accounting Information Session",
@@ -142,11 +113,31 @@
     "Location": "Virtual"
   },
   {
-    "Title": "Student Org  180 Degrees: Bain & Co. Women's Case Competition",
+    "Title": "180 Degrees: Bain & Co. Women's Case Competition",
     "Start Time": "8:00 am",
     "End Time": "1:00 pm",
     "Date": "April 19",
-    "Location": "Rouss & Robertson Halls"
+    "Location": "Rouse & Robertson Halls"
+  },
+  {
+    "Title": "Commerce Council Weekly Meeting",
+    "Start Time": "12:00 pm",
+    "End Time": "3:00 pm",
+    "Date": "April 19",
+    "Location": "Rouse & Robertson Halls"
+  },
+  {
+    "Title": "M.S. in the Management of IT Student Panel",
+    "Start Time": "6:00 pm",
+    "End Time": "7:00 pm",
+    "Date": "April 23",
+    "Location": "Virtual"
+  },
+  {
+    "Title": "Blockchain at UVA x EasyA",
+    "Start Time": "6:00 pm",
+    "End Time": "7:00 pm",
+    "Date": "April 23",
+    "Location": "Rouse & Robertson Halls"
   }
 ]
- 

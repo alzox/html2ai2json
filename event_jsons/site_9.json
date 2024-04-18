@@ -1,25 +1,25 @@
 
 [
   {
-    "Title": "Batten Hour: With Daniel Reifsnyder",
-    "Start Time": "12:30pm",
-    "End Time": "1:30pm",
-    "Date": "April 15",
-    "Location": null
-  },
-  {
     "Title": "Putting Equity-Minded Policy Into Practice",
-    "Start Time": "12:00pm",
-    "End Time": "1:00pm",
+    "Start Time": "12:00 PM",
+    "End Time": "1:00 PM",
     "Date": "April 18",
-    "Location": null
+    "Location": "Garrett Hall, Great Hall (100)"
   },
   {
     "Title": "Batten Hour with Elizabeth Andrews: The State of Climate Policy in Virginia",
-    "Start Time": "12:30pm",
-    "End Time": "1:30pm",
+    "Start Time": "12:30 PM",
+    "End Time": "1:30 PM",
     "Date": "April 22",
-    "Location": null
+    "Location": "Garrett Hall, Great Hall (100)"
+  },
+  {
+    "Title": "Immigration and Elections: Global Implications for 2024",
+    "Start Time": "12:00 PM",
+    "End Time": "1:15 PM",
+    "Date": "April 24",
+    "Location": "Garrett Hall, Great Hall (100)"
   }
 ]
  

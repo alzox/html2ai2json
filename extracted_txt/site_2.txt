@@ -59,27 +59,20 @@ All Event TypesConferenceOrientationGraduationPartnerGuest SpeakerInformation Se
 Filter by Event Topic
 Filter by Event Sponsor
 All Event SponsorsAcademic Programs & Student AffairsDean's OfficeVirginia Education Science Training (VEST) Fellowship ProgramAdministrative OfficesAdmission & EnrollmentCenter for Advanced Study of Teaching and LearningCenter for Race and Public Education in the SouthCurriculum, Instruction & Special EducationEdPolicyWorksEducation Leadership, Foundations & Public PolicyHuman ServicesKinesiologyOffice of Diversity, Equity and InclusionSheila C. Johnson Center for Clinical ServicesSupporting Transformative Autism ResearchYouth-Nex
-Showing 10 of 26 upcoming events
-Wed
-17
-April
-EHD Community
-UVA Communication Science and Disorders Accreditation Public Meeting
-  Speech-language pathology (SLP) graduate training programs in the United States are accredited by the Council for Academic Accreditation in Audiology and Speech-Language Pathology (CAA) of the...
-4:30
- - 6:00 PM
-                          EDT
-            
-Room 318A, Bavaro Hall
-Event Topics
-Health & Wellness
-Human Services
+Showing 10 of 25 upcoming events
 Fri
 19
+April
+EHD Community
 Wheelchair Takeover: Paralympic Pick-up
   Join us on the courts! Trade in your typical routine for pick-up games of wheelchair basketball, rugby, and pickleball. No experience needed  and all equipment is provided. Just come ready to...
 3:00
+ - 6:00 PM
+                          EDT
+            
+Event Topics
 Inclusion, Diversity, Equity & Accessibility
+Health & Wellness
 Kinesiology
 Guest Speaker
 EHD Black Alumni Weekend Events: Honoring the Past, Advancing in the Future
@@ -117,6 +110,7 @@ Ice Cream Social
   Join EHD Student Affairs and Ed Council at our annual ice cream social. All are welcome to indulge in a last day of class treat!
 12:00
  - 2:00 PM
+Wed
 1
 May
 EHD Undergraduate Graduation Celebration
@@ -125,6 +119,12 @@ Student Affairs
 8
 UVA Club of Washington DC: UVA Graduate School Fair
   All alumni, friends, and families are invited to join the UVA Club of Washington, DC for the first-ever University of Virginia (UVA) Graduate School Fair hosted by the UVA Club of Washington, DC...
+15
+Workshop
+VEST Workshop with Molly Faulkner-Bond
+Everyone is an English Learner Researcher: Appreciating the Promise and Complexity of an Overlooked, Understudied Student Population
+9:00 AM
+ - 4:00 PM
 Pagination
                 Current page
               1
@@ -162,6 +162,7 @@ Copyright  2024 By the Rector and Visitors of the University of Virginia
 Job Opportunities
 Privacy Policy
 All Event TopicsAdmissionAlumniCareer DevelopmentChild & Adolescent DevelopmentEarly Childhood EducationEducation Policy & LeadershipHealth & WellnessInclusion, Diversity, Equity & AccessibilityResearch MethodsSpecial Education & DisabilityStudent AffairsTeaching & Learning
+Virginia Education Science Training (VEST) Fellowship Program
 Student Life
 UVA Community
 Support UVA EHD

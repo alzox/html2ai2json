@@ -4,85 +4,36 @@
     "Title": "Undergraduate Information Sessions + Campbell Hall Tours  Spring 2024",
     "Start Time": "11:30AM",
     "End Time": "1PM",
-    "Date": "02.16 - 04.19",
+    "Date": "February 16 - April 19",
     "Location": null
-  },
-  {
-    "Title": "Undergraduate Student Conversations  Spring 2024",
-    "Start Time": "6PM",
-    "End Time": "7PM",
-    "Date": "02.21 - 04.17",
-    "Location": "Virtual"
-  },
-  {
-    "Title": "Kate Orff",
-    "Start Time": "3:30PM",
-    "End Time": "5PM",
-    "Date": "04.12",
-    "Location": "Old Cabell Auditorium"
-  },
-  {
-    "Title": "A Dialogue with (Rain) Water: Hong Kong  ",
-    "Start Time": "5PM",
-    "End Time": null,
-    "Date": "04.15",
-    "Location": "Campbell Corner Gallery"
-  },
-  {
-    "Title": "Canal Connectivity",
-    "Start Time": null,
-    "End Time": null,
-    "Date": null,
-    "Location": "Campbell East Wing Gallery"
-  },
-  {
-    "Title": "GEOLOGIC METANOIA: MATERIAL DOMESTICATION FROM THE AWESOME TO THE MUNDANE ",
-    "Start Time": null,
-    "End Time": null,
-    "Date": null,
-    "Location": "Campbell Salon Walls"
-  },
-  {
-    "Title": "I Templi del Tempo: The Development and Adaptation of Italian Catholic Architecture Through Time",
-    "Start Time": null,
-    "End Time": null,
-    "Date": null,
-    "Location": "Campbell Dean's Gallery"
   },
   {
     "Title": "Inaugural Virginia Architecture Fellows Showcase",
-    "Start Time": null,
+    "Start Time": "6PM",
     "End Time": null,
-    "Date": null,
+    "Date": "April 15 - April 26",
     "Location": "Campbell Elmaleh Gallery & Mezzanine"
   },
   {
-    "Title": "You Can Move Mountains",
-    "Start Time": "6PM",
-    "End Time": null,
-    "Date": null,
-    "Location": null
-  },
-  {
     "Title": "Particulate Matters",
-    "Start Time": null,
+    "Start Time": "5PM",
     "End Time": null,
-    "Date": "04.18",
+    "Date": "April 18",
     "Location": "Campbell 153"
   },
   {
     "Title": "Stan Winston & Steve Warner Festival of the Moving Creature",
-    "Start Time": "7-9PM",
-    "End Time": null,
-    "Date": "04.26",
+    "Start Time": "7PM",
+    "End Time": "9PM",
+    "Date": "April 26",
     "Location": "Betsy and John Casteen Arts Grounds"
   },
   {
     "Title": "100 Days of Making",
     "Start Time": null,
     "End Time": null,
-    "Date": "04.27 - 04.30",
-    "Location": null
+    "Date": "April 27 - April 30",
+    "Location": "Campbell East Wing Gallery"
   },
   {
     "Title": "Painting & Public Art",
@@ -95,7 +46,7 @@
     "Title": "UVA School of Architecture  Final Exercises 2024",
     "Start Time": null,
     "End Time": null,
-    "Date": "05.17 - 05.19",
+    "Date": "May 17 - May 19",
     "Location": "Campbell Hall, Lawn, and John Paul Jones Arena"
   }
 ]

@@ -1,38 +1,235 @@
-Title,Start Time,End Time,Date,Location,Department,Site,Event Topics,Event Sponsors
-Canal Connectivity,,,,Campbell East Wing Gallery,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12,,
-GEOLOGIC METANOIA: MATERIAL DOMESTICATION FROM THE AWESOME TO THE MUNDANE ,,,,Campbell Salon Walls,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12,,
-I Templi del Tempo: The Development and Adaptation of Italian Catholic Architecture Through Time,,,,Campbell Dean's Gallery,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12,,
-Inaugural Virginia Architecture Fellows Showcase,,,,Campbell Elmaleh Gallery & Mezzanine,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12,,
-You Can Move Mountains,6PM,,,,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12,,
-Painting & Public Art,,,,Campbell Corner Gallery + Salon Walls,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12,,
-"W. Jeffrey Elias, MD, Named to Modern Healthcares 2024 Innovators List",,,,,School of Medicine,https://news.med.virginia.edu/,,
-Center for Excellence in Education Scholars Program: Call for Self-Nominations for 2024-2025 Cohort,,,,,School of Medicine,https://news.med.virginia.edu/,,
-Graduate and Medical Students Host Local High Schoolers for Latest Discover Medicine Session,,,,,School of Medicine,https://news.med.virginia.edu/,,
-Class of 2024 Gives Back to Patient-Teachers During Gratitude Celebration,,,,,School of Medicine,https://news.med.virginia.edu/,,
-Paddling Both Canoes: The Journey to Value,1:00 pm,2:00 pm,,,School of Medicine,https://news.med.virginia.edu/,,
-2024 Grad Thesis SLAM,4:00 pm,6:00 pm,,,School of Medicine,https://news.med.virginia.edu/,,
-May the 4th,,,2024-05-03,,Scholars' Lab,https://scholarslab.lib.virginia.edu/events/,,
-Mother's Day,,,2024-05-06,,Scholars' Lab,https://scholarslab.lib.virginia.edu/events/,,
-2024 Undergraduate Research Symposium,,,2024-04-18,Newcomb Hall (Student Center),University of Virginia,https://www.virginia.edu/calendar,,
-Putting Equity-Minded Policy Into Practice,,,2024-04-18,Garrett Hall,University of Virginia,https://www.virginia.edu/calendar,,
-M.S. in the Management of IT Application Strategy Session,,,2024-04-18,mcintire.zoom.us,University of Virginia,https://www.virginia.edu/calendar,,
-Fashion As Art Keynote Speaker,,,2024-04-18,"Hunter Smith Band Building
-180 Culbreth Road",University of Virginia,https://www.virginia.edu/calendar,,
-M.S. in Accounting Information Session,,,2024-04-18,,University of Virginia,https://www.virginia.edu/calendar,,
-,,,2024-04-19,Newcomb Hall (Student Center),University of Virginia,https://www.virginia.edu/calendar,,
-EHD Undergraduate Graduation Celebration,,,2024-05-01,,School of Education and Human Development,https://education.virginia.edu/events,,['Student Affairs']
-UVA Club of Washington DC: UVA Graduate School Fair,,,2024-05-08,,School of Education and Human Development,https://education.virginia.edu/events,,
-Global Futures Symposium,,,2024-04-25,,UVA Global,https://global.virginia.edu/events,,
-2024 People Power Academy,,,2024-04-26,,UVA Global,https://global.virginia.edu/events,,
-ECE Seminar: Speaker: Dr. Charles E. Boyer,,,2024-04-19,THORNTON HALL ROOM C311,School of Engineering and Applied Science,https://engineering.virginia.edu/news-events/events,,
-"BME Seminar: John Platig, Ph.D., University of Virginia",,,2024-04-26,,School of Engineering and Applied Science,https://engineering.virginia.edu/news-events/events,,
-ECE Seminar: Speaker: Dr. Rounak Meyur,,,2024-04-26,THORNTON HALL ROOM E316,School of Engineering and Applied Science,https://engineering.virginia.edu/news-events/events,,
-"Black Alumni Weekend: ""OnBoard"" Screening, Panel & Reception",,,2024-04-19,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
-M.S. in Commerce Information Session,,,2024-04-23,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
-Alternative Investing in a Rapidly Changing Environment  McIntire Alumni Panel,,,2024-04-25,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
-Connaughton Speaker Series: A Founders Conversation,,,2024-04-26,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
-NYC Alumni & Friends Reception,,,2024-05-07,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
-Knowledge Continuum,,,2024-05-10,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
-M.S. in Accounting Information Session,,,2024-05-14,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
-London Pub Night with Carl Zeithaml,,,2024-05-30,London,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
-"Reunions Weekend Lunch: Classes of '94, '89, '84, '79, '74, TJ Society",,,2024-06-01,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/,,
+Title,Start Time,End Time,Date,Location,Department,Site
+"Bipartisan solutions in Congress with William Antholis, Barbara Comstock, L. F. Payne",,,,CODE Building,UVA Global,https://global.virginia.edu/events
+"Bipartisan solutions in Congress with William Antholis, Barbara Comstock, L. F. Payne",,,,CODE Building,UVA Global,https://global.virginia.edu/events
+Seventh Annual Mid-Atlantic Advanced Biomanufacturing Symposium,,,,"Pinn Hall Conference Center, University of Virginia School of Medicine",School of Engineering and Applied Science,https://engineering.virginia.edu/news-events/events
+Painting & Public Art,,,,Campbell Corner Gallery + Salon Walls,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12
+Undergraduate Information Sessions + Campbell Hall Tours  Spring 2024,11:30AM,1PM,,,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12
+Inaugural Virginia Architecture Fellows Showcase,6PM,,,Campbell Elmaleh Gallery & Mezzanine,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12
+100 Days of Making,,,,Campbell East Wing Gallery,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12
+Painting & Public Art,,,,Campbell Corner Gallery + Salon Walls,School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12
+UVA School of Architecture  Final Exercises 2024,,,,"Campbell Hall, Lawn, and John Paul Jones Arena",School of Architecture,https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12
+UVA Mindfulness Center Classes,,,,,School of Medicine,https://news.med.virginia.edu/
+The 44th McLemore Birdsong Pediatric Conference at the Omni,7:00 am,,,Omni,School of Medicine,https://news.med.virginia.edu/
+"Hil MalatinoTrans, Weird, Mad: Lessons from the Reed Erickson Archive",,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+WGS ReadsTRESSIE McMILLAN COTTOM Book Talk and Reception,,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Associate Professor Sa'ed AtshanTalk: Queer Palestine and the Empire of Critique,2:00pm,,,229 Bryan Hall,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Ther PickensIn the wake of Brad Lomax: Paul Beattys Tuff, the Americans with Disabilities Act, and the Promise of Satire",,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Speaker Dr. Karma Chvez Belonging and Borders in Pandemic Times,3:30pm,5:00pm,,Bryan Hall Room 229-230,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Speaker Dr. Mingwei HuangTheorizing in the Chinese Century,12:00pm,1:30pm,,Bryan Hall Room 229-230,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Speaker Dr. Shannon Malone Gonzalez,3:30pm,5:00pm,,Mcleod Hall 1020,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Mikki Kendall in Conversation with the Womens Center,5:00pm,6:30pm,,Zoom Webinar,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Staged Reading of Trans Scripts Part I: The Women at the UVA Arts Grounds,7:00pm,,,Helms theater on the UVA Arts Grounds,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Miraji, lyrical translation, the poetics of theory:  Gender, philosophy, aesthetics, and desireKrupa Shandiliya, University of Massachusetts Amherst",3:30pm,,,Location to be announced,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Spanish Italian and Portuguese Film FestVisual Narratives of Diversity, Displacement, and Inclusion from the Mediterranean and Latin America",,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"E. Patrick Johnson Author, Sweet Tea",6:00pm,,,Minor Hall Room 125,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Ikes Mystery Man, The Secret Lives of Robert CutlerPeter Shinkle, UVA CLAS 83, author",5:00pm,,,Nau Hall Room 342,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Transgender Children - New EvidenceKristina Olson, University of Washington",3:30pm,,,Gilmer Hall Room 190,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Kate Bornstein,7:00pm,,,"Minor Hall, Room 125",Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Classes Begin,,,,University of Virginia,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Symposium on the Music of Judith Shatin,,,,TBD,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Susana Baca in Concert at UVA,7:00pm,,,Old Cabell Hall,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Free Cece,5:15pm,7:30pm,,Newcomb Hall Theater,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Reducing Sexual Harassment at UVAA Day of Discussion,9:00am,5:00pm,,Harrison Institute Auditorium,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Hil MalatinoTrans, Weird, Mad: Lessons from the Reed Erickson Archive",,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+WGS ReadsTRESSIE McMILLAN COTTOM Book Talk and Reception,,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Associate Professor Sa'ed AtshanTalk: Queer Palestine and the Empire of Critique,2:00pm,,,229 Bryan Hall,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Ther PickensIn the wake of Brad Lomax: Paul Beattys Tuff, the Americans with Disabilities Act, and the Promise of Satire",,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Speaker Dr. Karma Chvez Belonging and Borders in Pandemic Times,3:30pm,5:00pm,,Bryan Hall Room 229-230,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Speaker Dr. Mingwei HuangTheorizing in the Chinese Century,12:00pm,1:30pm,,Bryan Hall Room 229-230,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Speaker Dr. Shannon Malone Gonzalez,3:30pm,5:00pm,,Mcleod Hall 1020,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Mikki Kendall in Conversation with the Womens Center,5:00pm,6:30pm,,Zoom Webinar,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+The Edge of SexNavigating a Sexually Confusing Culture From The Margins,12:00pm,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Staged Reading of Trans Scripts Part I: The Women at the UVA Arts Grounds,7:00pm,,,Helms theater on the UVA Arts Grounds,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Miraji, lyrical translation, the poetics of theory:  Gender, philosophy, aesthetics, and desireKrupa Shandiliya, University of Massachusetts Amherst",3:30pm,,,Location to be announced,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Cinema, architecture, are:  Envisioning aesthetics, politics, citizenship, and personal storiesAvijit Mukul Kishore, Indian cinematographer and filmmaker",6:00pm,8:30pm,,"Hotel A, on UVAs historic Grounds",Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Spanish Italian and Portuguese Film FestVisual Narratives of Diversity, Displacement, and Inclusion from the Mediterranean and Latin America",,,,,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"E. Patrick Johnson Author, Sweet Tea",6:00pm,,,Minor Hall Room 125,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Ikes Mystery Man, The Secret Lives of Robert CutlerPeter Shinkle, UVA CLAS 83, author",5:00pm,,,Nau Hall Room 342,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Race, Gender and VulnerabilityCathy Cohen, David and Mary Winton Green Professor of Political Science, University of Chicago",3:30pm,,,Rotunda Dome Room,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Transgender Children - New EvidenceKristina Olson, University of Washington",3:30pm,,,Gilmer Hall Room 190,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Kate Bornstein,7:00pm,,,"Minor Hall, Room 125",Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Classes Begin,,,,University of Virginia,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Symposium on the Music of Judith Shatin,,,,TBD,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Susana Baca in Concert at UVA,7:00pm,,,Old Cabell Hall,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Free Cece,5:15pm,7:30pm,,Newcomb Hall Theater,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+Reducing Sexual Harassment at UVAA Day of Discussion,9:00am,5:00pm,,Harrison Institute Auditorium,Women and Gender Studies,https://wgs.as.virginia.edu/events-page
+"Michael Albertus | Professor, University of Chicago: The Political Price of Authoritarian Control: Evidence from Francoist Land Settlements in Spain",,,,,Politics,https://politics.virginia.edu/lansing-b
+Firat Kimya | Political Repression and Party Institutionalization,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Nicholas Samabanis | Professor, University of Pennsylvania: Misperceiving Nationalism: Beliefs About Others Beliefs and Group Conformism in Foreign Polic",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Denise Walsh | Associate Professor, University of Virginia",,,,,Politics,https://politics.virginia.edu/lansing-b
+Nicola Nonnes | The BRICS Acronym as a Heuristic Device in Sovereign Bond Markets,,,,,Politics,https://politics.virginia.edu/lansing-b
+Jonathan Renshon | University of Wisconsin: The Generalizability of IR Experiments Beyond the U.S.,,,,,Politics,https://politics.virginia.edu/lansing-b
+Isabela Mares | Yale,,,,,Politics,https://politics.virginia.edu/lansing-b
+Fiona Cunningham | University of Pennsylvania,,,,,Politics,https://politics.virginia.edu/lansing-b
+Natlia Bueno | Emory University,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Diana Fu | Associate Professor, University of Toronto",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Emily Ritter | Associate Professor, Vanderbilt University",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Erica Dobbs | Assistant Professor, Pomona College",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Rachel Whitlark | Assistant Professor, Georgia Tech",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Vipin Narang | Professor, MIT",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Lauren MacLean | Professor, Indiana University Bloomington",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Janice Gallagher | Assistant Professor, Rutgers University-Newark",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Benjamin Helms | PhD Candidate, University of Virginia",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Kelebogile Zvobgo | Assistant Professor, College of William & Mary",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Melissa Lee | Assistant Professor, Princeton University",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Joshua Kertzer | Professor, Harvard University",,,,,Politics,https://politics.virginia.edu/lansing-b
+Olyvia Christley,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Volha Charnysh | Assistant Professor, MIT",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Pavi Suryanarayan | Assistant Professor, Johns Hopkins University",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Edmund Malesky | Professor, Duke University: Testing Legislator Responsiveness to Citizens and Firms in Single-Party Regimes: A Field Experiment in the Vietnamese National Assembly",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Sabrina Karim | Assistant Professor, Cornell University: How International Post-Conflict Reforms Improve Public Opinion of State Bureaucracies: Experimental Evidence with the Liberian National Police",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Laia Balcells | Associate Professor, Georgetown University: Secessionist Conflict and Polarization: Evidence from Catalonia",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Jeff Kaplow | Assistant Professor, College of William and Mary: The Changing Face of Nuclear Proliferation",,,,,Politics,https://politics.virginia.edu/lansing-b
+Anne Meng | University of Virginia: Tying the Big Man's Hands: From Personalized Rule to Institutionalized Regimes,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Rory Truex | Assistant Professor of Politics and International Affairs, Princeton University: Repression in the China Field",,,,,Politics,https://politics.virginia.edu/lansing-b
+"John Owen | Professor, University of Virginia: Divide and Conquer: Fifth Columns and Hybrid Welfare",,,,,Politics,https://politics.virginia.edu/lansing-b
+Eric Arias | Patronage by Credit: International Sources of Patronage Politics,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Ariel Dinar | Professor of Environmental Economics and Policy, University of California Riverside: Why are there so Few Basin-wide Treaties?",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Michael Ross | Professor, University of California Los Angeles: The Four Worlds of Carbon Politics",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Kevin Cope | Associate Professor of Law, University of Virginia: Making Treaties",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Shiran Victoria Shen | Assistant Professor of Environmental Politics, University of Virginia: Dirty Politics: Electoral Pollution Cycles in Mexico",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Abby Fanlo and Lauren Sukin | Department of Political Science, Stanford University: The Illogic of Nuclear Superiority: A Review Essay",,,,,Politics,https://politics.virginia.edu/lansing-b
+"John Marshall | Assistant Professor, Columbia University: Information Saturation and Electoral Accountability: Experimental Evidence from Facebook in Mexico",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Valerie Karplus | Assistant Professor of Global Economics and Management, Massachusetts Institute of Technology: Smoke and Mirrors: Did China's Environmental Crackdowns Lead to Persistent Changes in Polluting Firm Behavior?",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Amy Verdun | Professor, University of Victoria",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Paul Avey | Assistant Professor, Virginia Tech",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Debra Thompson | Associate Professor, McGill University: Return: Race, Democracy, and the Boundaries of Belonging in North America",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Chen Wang | Ph.D. Candidate, University of Virginia: Educating the Newcomer: Leadership Turnovers and the Targeting of Militarized Challenges",,,,,Politics,https://politics.virginia.edu/lansing-b
+Yuhua Wang | Elite Kinship Networks and State-Building Preferences in Imperial China,,,,,Politics,https://politics.virginia.edu/lansing-b
+"David Victor | Professor, University of California San Diego: The New International Politics of Climate Change",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Mia Hassan | Assistant Professor, University of Michigan",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Joshua Alley | Post-doctoral Research Associate, University of Virginia: Public Opinion Towards Military Alliances",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Susan Stokes | Tiffany and Margaret Blake Distinguished Service Professor,  University of Chicago: Is 'Direct Democracy' Good for Democracy?",,,,,Politics,https://politics.virginia.edu/lansing-b
+Aycan Katitas | Campaigning for Protectionism: Determinants of Anti-Trade Advertising in Elections,,,,,Politics,https://politics.virginia.edu/lansing-b
+Jason Jackson | Varieties of Economic Nationalism in Post-War Brazil and India,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Megan Stewart | Assistant Professor, American University: Micro-Foundations of the Vanguard: The Origins of Rebel Groups for National Liberation",,,,,Politics,https://politics.virginia.edu/lansing-b
+"George Ofosu | Assistant Professor, the London School of Economics and Political Science: When do Partisans Cross the Party Line?",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Danielle Lupton | Associate Professor, Colgate University: Military Service and Elite Decision-Making: Self-Selection, Socialization, and the Vietnam Draft Lottery",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Gretchen Helmke | Professor, University of Rochester: Upending Impunity: Explaining Post-Tenure Presidential Prosecutions in Latin America",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Reid Pauly | Assistant Professor, Brown University: The Assurance Dilemma in Coercive International Politics",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Michael Albertus | Professor, University of Chicago: The Political Price of Authoritarian Control: Evidence from Francoist Land Settlements in Spain",,,,,Politics,https://politics.virginia.edu/lansing-b
+Firat Kimya | Political Repression and Party Institutionalization,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Nicholas Samabanis | Professor, University of Pennsylvania: Misperceiving Nationalism: Beliefs About Others Beliefs and Group Conformism in Foreign Polic",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Denise Walsh | Associate Professor, University of Virginia",,,,,Politics,https://politics.virginia.edu/lansing-b
+Nicola Nonnes | The BRICS Acronym as a Heuristic Device in Sovereign Bond Markets,,,,,Politics,https://politics.virginia.edu/lansing-b
+Jonathan Renshon | University of Wisconsin: The Generalizability of IR Experiments Beyond the U.S.,,,,,Politics,https://politics.virginia.edu/lansing-b
+Isabela Mares | Yale,,,,,Politics,https://politics.virginia.edu/lansing-b
+Fiona Cunningham | University of Pennsylvania,,,,,Politics,https://politics.virginia.edu/lansing-b
+Natlia Bueno | Emory University,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Diana Fu | Associate Professor, University of Toronto",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Emily Ritter | Associate Professor, Vanderbilt University",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Erica Dobbs | Assistant Professor, Pomona College",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Rachel Whitlark | Assistant Professor, Georgia Tech",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Vipin Narang | Professor, MIT",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Lauren MacLean | Professor, Indiana University Bloomington",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Janice Gallagher | Assistant Professor, Rutgers University-Newark",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Benjamin Helms | PhD Candidate, University of Virginia",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Kelebogile Zvobgo | Assistant Professor, College of William & Mary",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Melissa Lee | Assistant Professor, Princeton University",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Joshua Kertzer | Professor, Harvard University",,,,,Politics,https://politics.virginia.edu/lansing-b
+Olyvia Christley,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Volha Charnysh | Assistant Professor, MIT",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Pavi Suryanarayan | Assistant Professor, Johns Hopkins University",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Edmund Malesky | Professor, Duke University: Testing Legislator Responsiveness to Citizens and Firms in Single-Party Regimes: A Field Experiment in the Vietnamese National Assembly",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Sabrina Karim | Assistant Professor, Cornell University: How International Post-Conflict Reforms Improve Public Opinion of State Bureaucracies: Experimental Evidence with the Liberian National Police",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Laia Balcells | Associate Professor, Georgetown University: Secessionist Conflict and Polarization: Evidence from Catalonia",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Jeff Kaplow | Assistant Professor, College of William and Mary: The Changing Face of Nuclear Proliferation",,,,,Politics,https://politics.virginia.edu/lansing-b
+Anne Meng | University of Virginia: Tying the Big Man's Hands: From Personalized Rule to Institutionalized Regimes,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Rory Truex | Assistant Professor of Politics and International Affairs, Princeton University: Repression in the China Field",,,,,Politics,https://politics.virginia.edu/lansing-b
+"John Owen | Professor, University of Virginia: Divide and Conquer: Fifth Columns and Hybrid Welfare",,,,,Politics,https://politics.virginia.edu/lansing-b
+Eric Arias | Patronage by Credit: International Sources of Patronage Politics,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Ariel Dinar | Professor of Environmental Economics and Policy, University of California Riverside: Why are there so Few Basin-wide Treaties?",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Michael Ross | Professor, University of California Los Angeles: The Four Worlds of Carbon Politics",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Kevin Cope | Associate Professor of Law, University of Virginia: Making Treaties",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Shiran Victoria Shen | Assistant Professor of Environmental Politics, University of Virginia: Dirty Politics: Electoral Pollution Cycles in Mexico",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Abby Fanlo and Lauren Sukin | Department of Political Science, Stanford University: The Illogic of Nuclear Superiority: A Review Essay",,,,,Politics,https://politics.virginia.edu/lansing-b
+"John Marshall | Assistant Professor, Columbia University: Information Saturation and Electoral Accountability: Experimental Evidence from Facebook in Mexico",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Valerie Karplus | Assistant Professor of Global Economics and Management, Massachusetts Institute of Technology: Smoke and Mirrors: Did China's Environmental Crackdowns Lead to Persistent Changes in Polluting Firm Behavior?",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Amy Verdun | Professor, University of Victoria",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Paul Avey | Assistant Professor, Virginia Tech",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Debra Thompson | Associate Professor, McGill University: Return: Race, Democracy, and the Boundaries of Belonging in North America",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Chen Wang | Ph.D. Candidate, University of Virginia: Educating the Newcomer: Leadership Turnovers and the Targeting of Militarized Challenges",,,,,Politics,https://politics.virginia.edu/lansing-b
+Yuhua Wang | Elite Kinship Networks and State-Building Preferences in Imperial China,,,,,Politics,https://politics.virginia.edu/lansing-b
+"David Victor | Professor, University of California San Diego: The New International Politics of Climate Change",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Mia Hassan | Assistant Professor, University of Michigan",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Joshua Alley | Post-doctoral Research Associate, University of Virginia: Public Opinion Towards Military Alliances",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Susan Stokes | Tiffany and Margaret Blake Distinguished Service Professor,  University of Chicago: Is 'Direct Democracy' Good for Democracy?",,,,,Politics,https://politics.virginia.edu/lansing-b
+Aycan Katitas | Campaigning for Protectionism: Determinants of Anti-Trade Advertising in Elections,,,,,Politics,https://politics.virginia.edu/lansing-b
+Jason Jackson | Varieties of Economic Nationalism in Post-War Brazil and India,,,,,Politics,https://politics.virginia.edu/lansing-b
+"Megan Stewart | Assistant Professor, American University: Micro-Foundations of the Vanguard: The Origins of Rebel Groups for National Liberation",,,,,Politics,https://politics.virginia.edu/lansing-b
+"George Ofosu | Assistant Professor, the London School of Economics and Political Science: When do Partisans Cross the Party Line?",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Danielle Lupton | Associate Professor, Colgate University: Military Service and Elite Decision-Making: Self-Selection, Socialization, and the Vietnam Draft Lottery",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Gretchen Helmke | Professor, University of Rochester: Upending Impunity: Explaining Post-Tenure Presidential Prosecutions in Latin America",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Reid Pauly | Assistant Professor, Brown University: The Assurance Dilemma in Coercive International Politics",,,,,Politics,https://politics.virginia.edu/lansing-b
+"Aggregate Shocks, Domestic Trade Collapse and Regional Realignment",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Organizational Capacity and Profit Shifting,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Unshrouding product-specific attributes through financial education,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+From Pluribus to Unum? The Civil War and Imagined Sovereignty in 19th Century America,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Internet, Social Media, and the Behavior of Politicians: Evidence from Facebook in Brazil",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+No Country for Dying Firms: Evidence from India,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Irrigation and the Spatial Pattern of Local Economic Development in India,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Randomized Regulation: The Impact of Minimum Quality Standards on Health Markets,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Hollowing out the State,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Tools for Teaching: Leveraging Technology to Improve Classroom Content Delivery,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Seasonal liquidity, rural labor markets, and agricultural production: Evidence from Zambia",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Pushing crime around the corner? Estimating experimental impacts of large-scale security interventions,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Internal Conflict, Elite Action, and State Failure: Evidence from China, 1000-1911",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Political Leadership and Sovereign Debt Ratings,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Marriage, Commitment and Unbundling Gendered Norms",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Women, Power, and Property: The Paradox of Gender Equality Laws in India",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Building Trust in Government: The Opportunities and Challenges of Adverse Shocks,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Misconduct and Reputation under Imperfect Information,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+In Utero Exposure to Industrial Disasters: A Case Study of the Bhopal Gas Tragedy,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+The Cyclical Electoral Impacts of Programmatic Policies: Evidence From Education Reforms in Tanzania,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+How Do Workers and Firms Search and Match in Low-income Labour Markets? Evidence from a Six-Year Labor Market Experiment in Uganda,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Investing in influence: Investors, portfolio firms, and political giving",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Upcoming Talk by,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Expanding Financial Access Via Credit Cards: Evidence from Mexico,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Citizen Participation and Government Accountability: National-Scale Experimental Evidence from Pollution Appeals in China,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Aggregate Shocks, Domestic Trade Collapse and Regional Realignment",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Organizational Capacity and Profit Shifting,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Unshrouding product-specific attributes through financial education,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+From Pluribus to Unum? The Civil War and Imagined Sovereignty in 19th Century America,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Internet, Social Media, and the Behavior of Politicians: Evidence from Facebook in Brazil",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+No Country for Dying Firms: Evidence from India,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Irrigation and the Spatial Pattern of Local Economic Development in India,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Randomized Regulation: The Impact of Minimum Quality Standards on Health Markets,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Hollowing out the State,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Tools for Teaching: Leveraging Technology to Improve Classroom Content Delivery,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Seasonal liquidity, rural labor markets, and agricultural production: Evidence from Zambia",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Pushing crime around the corner? Estimating experimental impacts of large-scale security interventions,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Internal Conflict, Elite Action, and State Failure: Evidence from China, 1000-1911",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Political Leadership and Sovereign Debt Ratings,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Marriage, Commitment and Unbundling Gendered Norms",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Women, Power, and Property: The Paradox of Gender Equality Laws in India",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Building Trust in Government: The Opportunities and Challenges of Adverse Shocks,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Misconduct and Reputation under Imperfect Information,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+In Utero Exposure to Industrial Disasters: A Case Study of the Bhopal Gas Tragedy,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+The Cyclical Electoral Impacts of Programmatic Policies: Evidence From Education Reforms in Tanzania,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+How Do Workers and Firms Search and Match in Low-income Labour Markets? Evidence from a Six-Year Labor Market Experiment in Uganda,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+"Investing in influence: Investors, portfolio firms, and political giving",,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Upcoming Talk by,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Expanding Financial Access Via Credit Cards: Evidence from Mexico,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+Citizen Participation and Government Accountability: National-Scale Experimental Evidence from Pollution Appeals in China,,,,,Politics,https://politics.virginia.edu/frontiers-global-development
+May the 4th,,,2024-05-03,,Scholars' Lab,https://scholarslab.lib.virginia.edu/events/
+Mother's Day,,,2024-05-06,,Scholars' Lab,https://scholarslab.lib.virginia.edu/events/
+Environmental Justice Documentary Screening,,,2024-04-19,Newcomb Hall (Student Center),University of Virginia,https://www.virginia.edu/calendar
+EHD Undergraduate Graduation Celebration,,,2024-05-01,Student Affairs,School of Education and Human Development,https://education.virginia.edu/events
+UVA Club of Washington DC: UVA Graduate School Fair,,,2024-05-08,,School of Education and Human Development,https://education.virginia.edu/events
+Global Futures Symposium,,,2024-04-25,,UVA Global,https://global.virginia.edu/events
+2024 People Power Academy,,,2024-04-26,,UVA Global,https://global.virginia.edu/events
+"BME Seminar: John Platig, Ph.D., University of Virginia",,,2024-04-26,MR5 1041,School of Engineering and Applied Science,https://engineering.virginia.edu/news-events/events
+ECE Seminar: Speaker: Dr. Rounak Meyur,,,2024-04-26,THORNTON HALL ROOM E316,School of Engineering and Applied Science,https://engineering.virginia.edu/news-events/events
+Celebrating 50 Years of Corrosion and Electrochemistry Research at UVA,,,2024-06-01,Ern Commons,School of Engineering and Applied Science,https://engineering.virginia.edu/news-events/events
+M.S. in Commerce Information Session,,,2024-04-23,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+Alternative Investing in a Rapidly Changing Environment  McIntire Alumni Panel,,,2024-04-25,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+Connaughton Speaker Series: A Founders Conversation,,,2024-04-26,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+NYC Alumni & Friends Reception,,,2024-05-07,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+Knowledge Continuum,,,2024-05-10,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+M.S. in Accounting Information Session,,,2024-05-14,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+London Pub Night with Carl Zeithaml,,,2024-05-30,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+"Reunions Weekend Lunch: Classes of '94, '89, '84, '79, '74, TJ Society",,,2024-06-01,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+"Reunions Weekend Lunch: Classes of '19, '14, '09, '04, '99",,,2024-06-08,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+A Conversation on Capitalism & Democracy,,,2024-06-19,,McIntire School of Commerce,https://commcal.mcintire.virginia.edu/
+Modern & Contemporary Workshop with Marcel Schmid,,,2024-04-20,New Cabell Hall 236,Institue of Humanities and Global Culture,https://ihgc.as.virginia.edu/events
+RED Lecture with J Kameron Carter,,,2024-04-22,,Religious Studies,https://religiousstudies.as.virginia.edu/events

@@ -8,7 +8,7 @@
     "Location": "Ruffin Gallery"
   },
   {
-    "Title": "Sister Revolutions",
+    "Title": "Sister Revolutions Public History Podcast Launch Celebration",
     "Start Time": "12:00 PM",
     "End Time": "2:00 PM",
     "Date": "April 15",
@@ -96,7 +96,7 @@
     "Start Time": null,
     "End Time": null,
     "Date": "April 17",
-    "Location": "cal.lib.virginia.edu"
+    "Location": null
   },
   {
     "Title": "2024 Undergraduate Research Symposium",
@@ -125,6 +125,13 @@
     "End Time": "7:00 PM",
     "Date": "April 18",
     "Location": "Campbell Hall (School of Architecture)"
+  },
+  {
+    "Title": "Co-opting AI: Crime",
+    "Start Time": "5:00 PM",
+    "End Time": "6:15 PM",
+    "Date": "April 18",
+    "Location": "virginia.zoom.us"
   },
   {
     "Title": "M.S. in Business Analytics Application Strategy Session",
@@ -176,6 +183,13 @@
     "Location": "Newcomb Hall (Student Center)"
   },
   {
+    "Title": "The Future of Democracy in Africa with Achille Mbembe and Felwine Sarr",
+    "Start Time": "11:45 AM",
+    "End Time": "1:15 PM",
+    "Date": "April 19",
+    "Location": null
+  },
+  {
     "Title": "4/19 Free Meal Prep Class!",
     "Start Time": "12:00 PM",
     "End Time": "1:30 PM",
@@ -190,6 +204,20 @@
     "Location": "Old Cabell Hall"
   },
   {
+    "Title": "Tom Tom Festival: The Future of Local Journalism",
+    "Start Time": "1:15 PM",
+    "End Time": "2:15 PM",
+    "Date": "April 19",
+    "Location": null
+  },
+  {
+    "Title": "How to be a Hoo-nicorn: A Celebration of Entrepreneurship with UVA Alum Tommy Nicholas (CEO of Alloy) + Student Founders Across Grounds",
+    "Start Time": "3:00 PM",
+    "End Time": "4:30 PM",
+    "Date": "April 19",
+    "Location": "Nau Hall"
+  },
+  {
     "Title": "Japan's Imperial Borderlands: Case Studies from Taiwan and Korea",
     "Start Time": "3:15 PM",
     "End Time": "4:30 PM",
@@ -197,7 +225,7 @@
     "Location": "Monroe Hall"
   },
   {
-    "Title": null,
+    "Title": "Environmental Justice Documentary Screening",
     "Start Time": null,
     "End Time": null,
     "Date": "April 19",
@@ -209,6 +237,13 @@
     "End Time": "3:30 PM",
     "Date": "April 20",
     "Location": "See Event Description"
+  },
+  {
+    "Title": "Dance Fest by First Year Council",
+    "Start Time": "3:00 PM",
+    "End Time": "5:00 PM",
+    "Date": "April 20",
+    "Location": "Newcomb Hall (Student Center)"
   },
   {
     "Title": "Indian Classical Night",
@@ -236,14 +271,6 @@
     "Start Time": "3:00 PM",
     "End Time": "4:00 PM",
     "Date": "April 21",
-    "Location": null
-  },
-  {
-    "Title": null,
-    "Start Time": "3:30 PM",
-    "End Time": "5:30 PM",
-    "Date": "April 21",
-    "Location": null
+    "Location": "Old Cabell Hall"
   }
 ]
- 
