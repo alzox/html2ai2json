@@ -88,9 +88,21 @@ Current Series
  Ana de la O Torres | Associate Professor, Yale University 
  Friday, April 26, 2024 10:00 AM to 11:30 AM |   
 
+ Shelley Liu 
+ Assistant Professor, Duke University 
+   
+ William Spaniel 
+ Associate Professor, University of Pittsburgh 
+ Dan Smith 
+ Assistant Professor, University of Pennsylvania  
+ Alisha Holland 
+ Associate Professor, Harvard University 
+ Christina Davis 
+ Edwin O. Reischauer Professor of Japanese Politics, Harvard University 
+ Ana de la O Torres 
+ Associate Professor, Yale University 
  Melle Scholten 
  Graduate Student, University of Virginia 
-   
  Lindsey O'Rourke 
  Associate Professor, Boston College 
  Rachel Myrick 
@@ -103,23 +115,6 @@ Current Series
  Aronson Associate Professor of International Studies and Political Science, Johns Hopkins University 
  Noah Nathan 
  Associate Professor, Massachusetts Institute of Technology 
- Shelley Liu 
- Assistant Professor, Duke University 
- William Spaniel 
- Associate Professor, University of Pittsburgh 
- Dan Smith 
- Assistant Professor, University of Pennsylvania  
- Alisha Holland 
- Associate Professor, Harvard University 
- Christina Davis 
- Edwin O. Reischauer Professor of Japanese Politics, Harvard University 
- Ana de la O Torres 
- Associate Professor, Yale University 
- Marcus Holmes 
- College of William and Mary 
- Michael Albertus  
- Professor, University of Chicago 
- The Political Price of Authoritarian Control: Evidence from Francoist Land Settlements in Spain  
  Firat Kimya 
  Political Repression and Party Institutionalization  
  Nicholas Samabanis  
@@ -138,20 +133,11 @@ Current Series
  University of Pennsylvania 
  Natlia Bueno  
  Emory University 
- Diana Fu 
- Associate Professor, University of Toronto 
- Emily Ritter 
- Associate Professor, Vanderbilt University 
- Erica Dobbs 
- Assistant Professor, Pomona College 
- Rachel Whitlark 
- Assistant Professor, Georgia Tech 
- Vipin Narang 
- Professor, MIT 
- Lauren MacLean 
- Professor, Indiana University Bloomington 
- Janice Gallagher 
- Assistant Professor, Rutgers University-Newark 
+ Marcus Holmes 
+ College of William and Mary 
+ Michael Albertus  
+ Professor, University of Chicago 
+ The Political Price of Authoritarian Control: Evidence from Francoist Land Settlements in Spain  
  Benjamin Helms 
  PhD Candidate, University of Virginia 
  Kelebogile Zvobgo 
@@ -163,8 +149,43 @@ Current Series
  Olyvia Christley 
  Volha Charnysh 
  Assistant Professor, MIT 
+ Vipin Narang 
+ Professor, MIT 
  Pavi Suryanarayan 
  Assistant Professor, Johns Hopkins University    
+ Diana Fu 
+ Associate Professor, University of Toronto 
+ Emily Ritter 
+ Associate Professor, Vanderbilt University 
+ Erica Dobbs 
+ Assistant Professor, Pomona College 
+ Rachel Whitlark 
+ Assistant Professor, Georgia Tech 
+ Lauren MacLean 
+ Professor, Indiana University Bloomington 
+ Janice Gallagher 
+ Assistant Professor, Rutgers University-Newark 
+ Ariel Dinar 
+ Professor of Environmental Economics and Policy, University of California Riverside 
+ Why are there so Few Basin-wide Treaties?  
+ Michael Ross 
+ Professor, University of California Los Angeles 
+ The Four Worlds of Carbon Politics  
+ Kevin Cope 
+ Associate Professor of Law, University of Virginia 
+ Making Treaties  
+ Shiran Victoria Shen 
+ Assistant Professor of Environmental Politics, University of Virginia 
+ Dirty Politics: Electoral Pollution Cycles in Mexico  
+ Abby Fanlo and Lauren Sukin 
+ Department of Political Science, Stanford University 
+ The Illogic of Nuclear Superiority: A Review Essay  
+ John Marshall 
+ Assistant Professor, Columbia University 
+ Information Saturation and Electoral Accountability: Experimental Evidence from Facebook in Mexico  
+ Valerie Karplus 
+ Assistant Professor of Global Economics and Management, Massachusetts Institute of Technology 
+ Smoke and Mirrors: Did China's Environmental Crackdowns Lead to Persistent Changes in Polluting Firm Behavior?  
  Edmund Malesky 
  Professor, Duke University 
  Testing Legislator Responsiveness to Citizens and Firms in Single-Party Regimes: A Field Experiment in the Vietnamese National Assembly  
@@ -188,47 +209,6 @@ Current Series
  Divide and Conquer: Fifth Columns and Hybrid Welfare  
  Eric Arias 
  Patronage by Credit: International Sources of Patronage Politics  
- Ariel Dinar 
- Professor of Environmental Economics and Policy, University of California Riverside 
- Why are there so Few Basin-wide Treaties?  
- Michael Ross 
- Professor, University of California Los Angeles 
- The Four Worlds of Carbon Politics  
- Kevin Cope 
- Associate Professor of Law, University of Virginia 
- Making Treaties  
- Shiran Victoria Shen 
- Assistant Professor of Environmental Politics, University of Virginia 
- Dirty Politics: Electoral Pollution Cycles in Mexico  
- Abby Fanlo and Lauren Sukin 
- Department of Political Science, Stanford University 
- The Illogic of Nuclear Superiority: A Review Essay  
- John Marshall 
- Assistant Professor, Columbia University 
- Information Saturation and Electoral Accountability: Experimental Evidence from Facebook in Mexico  
- Valerie Karplus 
- Assistant Professor of Global Economics and Management, Massachusetts Institute of Technology 
- Smoke and Mirrors: Did China's Environmental Crackdowns Lead to Persistent Changes in Polluting Firm Behavior?  
- Amy Verdun 
- Professor, University of Victoria 
- Paul Avey 
- Assistant Professor, Virginia Tech 
- Debra Thompson 
- Associate Professor, McGill University 
- Return: Race, Democracy, and the Boundaries of Belonging in North America  
- Chen Wang 
- Ph.D. Candidate, University of Virginia 
- Educating the Newcomer: Leadership Turnovers and the Targeting of Militarized Challenges  
- Yuhua Wang 
- Elite Kinship Networks and State-Building Preferences in Imperial China  
- David Victor 
- Professor, University of California San Diego 
- The New International Politics of Climate Change  
- Mia Hassan 
- Assistant Professor, University of Michigan 
- Joshua Alley 
- Post-doctoral Research Associate, University of Virginia 
- Public Opinion Towards Military Alliances  
  Susan Stokes 
  Tiffany and Margaret Blake Distinguished Service Professor,  University of Chicago 
  Is 'Direct Democracy' Good for Democracy?  
@@ -251,6 +231,26 @@ Current Series
  Reid Pauly 
  Assistant Professor, Brown University 
  The Assurance Dilemma in Coercive International Politics  
+ Amy Verdun 
+ Professor, University of Victoria 
+ Paul Avey 
+ Assistant Professor, Virginia Tech 
+ Debra Thompson 
+ Associate Professor, McGill University 
+ Return: Race, Democracy, and the Boundaries of Belonging in North America  
+ Chen Wang 
+ Ph.D. Candidate, University of Virginia 
+ Educating the Newcomer: Leadership Turnovers and the Targeting of Militarized Challenges  
+ Yuhua Wang 
+ Elite Kinship Networks and State-Building Preferences in Imperial China  
+ David Victor 
+ Professor, University of California San Diego 
+ The New International Politics of Climate Change  
+ Mia Hassan 
+ Assistant Professor, University of Michigan 
+ Joshua Alley 
+ Post-doctoral Research Associate, University of Virginia 
+ Public Opinion Towards Military Alliances  
 New Content Coming Soon!
 Contact Us
 PO Box 400787
@@ -282,6 +282,18 @@ Ana de la O Torres | Associate Professor, Yale University
  Friday, April 26, 2024 10:00 AM to 11:30 AM |  
 Friday, April 26, 2024 10:00 AM to 11:30 AM | 
 Current and Past Series
+Shelley Liu
+Assistant Professor, Duke University
+William Spaniel
+Associate Professor, University of Pittsburgh
+Dan Smith
+Assistant Professor, University of Pennsylvania 
+Alisha Holland
+Associate Professor, Harvard University
+Christina Davis
+Edwin O. Reischauer Professor of Japanese Politics, Harvard University
+Ana de la O Torres
+Associate Professor, Yale University
 Melle Scholten
 Graduate Student, University of Virginia
 Lindsey O'Rourke
@@ -296,24 +308,6 @@ Adria Lawrence
 Aronson Associate Professor of International Studies and Political Science, Johns Hopkins University
 Noah Nathan
 Associate Professor, Massachusetts Institute of Technology
-Shelley Liu
-Assistant Professor, Duke University
-William Spaniel
-Associate Professor, University of Pittsburgh
-Dan Smith
-Assistant Professor, University of Pennsylvania 
-Alisha Holland
-Associate Professor, Harvard University
-Christina Davis
-Edwin O. Reischauer Professor of Japanese Politics, Harvard University
-Ana de la O Torres
-Associate Professor, Yale University
-Marcus Holmes
-College of William and Mary
-Michael Albertus 
-Professor, University of Chicago
- The Political Price of Authoritarian Control: Evidence from Francoist Land Settlements in Spain 
-The Political Price of Authoritarian Control: Evidence from Francoist Land Settlements in Spain
 Firat Kimya
  Political Repression and Party Institutionalization 
 Political Repression and Party Institutionalization
@@ -336,20 +330,12 @@ Fiona Cunningham
 University of Pennsylvania
 Natlia Bueno 
 Emory University
-Diana Fu
-Associate Professor, University of Toronto
-Emily Ritter
-Associate Professor, Vanderbilt University
-Erica Dobbs
-Assistant Professor, Pomona College
-Rachel Whitlark
-Assistant Professor, Georgia Tech
-Vipin Narang
-Professor, MIT
-Lauren MacLean
-Professor, Indiana University Bloomington
-Janice Gallagher
-Assistant Professor, Rutgers University-Newark
+Marcus Holmes
+College of William and Mary
+Michael Albertus 
+Professor, University of Chicago
+ The Political Price of Authoritarian Control: Evidence from Francoist Land Settlements in Spain 
+The Political Price of Authoritarian Control: Evidence from Francoist Land Settlements in Spain
 Benjamin Helms
 PhD Candidate, University of Virginia
 Kelebogile Zvobgo
@@ -361,8 +347,50 @@ Professor, Harvard University
 Olyvia Christley
 Volha Charnysh
 Assistant Professor, MIT
+Vipin Narang
+Professor, MIT
 Pavi Suryanarayan
 Assistant Professor, Johns Hopkins University   
+Diana Fu
+Associate Professor, University of Toronto
+Emily Ritter
+Associate Professor, Vanderbilt University
+Erica Dobbs
+Assistant Professor, Pomona College
+Rachel Whitlark
+Assistant Professor, Georgia Tech
+Lauren MacLean
+Professor, Indiana University Bloomington
+Janice Gallagher
+Assistant Professor, Rutgers University-Newark
+Ariel Dinar
+Professor of Environmental Economics and Policy, University of California Riverside
+ Why are there so Few Basin-wide Treaties? 
+Why are there so Few Basin-wide Treaties?
+Michael Ross
+Professor, University of California Los Angeles
+ The Four Worlds of Carbon Politics 
+The Four Worlds of Carbon Politics
+Kevin Cope
+Associate Professor of Law, University of Virginia
+ Making Treaties 
+Making Treaties
+Shiran Victoria Shen
+Assistant Professor of Environmental Politics, University of Virginia
+ Dirty Politics: Electoral Pollution Cycles in Mexico 
+Dirty Politics: Electoral Pollution Cycles in Mexico
+Abby Fanlo and Lauren Sukin
+Department of Political Science, Stanford University
+ The Illogic of Nuclear Superiority: A Review Essay 
+The Illogic of Nuclear Superiority: A Review Essay
+John Marshall
+Assistant Professor, Columbia University
+ Information Saturation and Electoral Accountability: Experimental Evidence from Facebook in Mexico 
+Information Saturation and Electoral Accountability: Experimental Evidence from Facebook in Mexico
+Valerie Karplus
+Assistant Professor of Global Economics and Management, Massachusetts Institute of Technology
+ Smoke and Mirrors: Did China's Environmental Crackdowns Lead to Persistent Changes in Polluting Firm Behavior? 
+Smoke and Mirrors: Did China's Environmental Crackdowns Lead to Persistent Changes in Polluting Firm Behavior?
 Edmund Malesky
 Professor, Duke University
  Testing Legislator Responsiveness to Citizens and Firms in Single-Party Regimes: A Field Experiment in the Vietnamese National Assembly 
@@ -394,59 +422,6 @@ Divide and Conquer: Fifth Columns and Hybrid Welfare
 Eric Arias
  Patronage by Credit: International Sources of Patronage Politics 
 Patronage by Credit: International Sources of Patronage Politics
-Ariel Dinar
-Professor of Environmental Economics and Policy, University of California Riverside
- Why are there so Few Basin-wide Treaties? 
-Why are there so Few Basin-wide Treaties?
-Michael Ross
-Professor, University of California Los Angeles
- The Four Worlds of Carbon Politics 
-The Four Worlds of Carbon Politics
-Kevin Cope
-Associate Professor of Law, University of Virginia
- Making Treaties 
-Making Treaties
-Shiran Victoria Shen
-Assistant Professor of Environmental Politics, University of Virginia
- Dirty Politics: Electoral Pollution Cycles in Mexico 
-Dirty Politics: Electoral Pollution Cycles in Mexico
-Abby Fanlo and Lauren Sukin
-Department of Political Science, Stanford University
- The Illogic of Nuclear Superiority: A Review Essay 
-The Illogic of Nuclear Superiority: A Review Essay
-John Marshall
-Assistant Professor, Columbia University
- Information Saturation and Electoral Accountability: Experimental Evidence from Facebook in Mexico 
-Information Saturation and Electoral Accountability: Experimental Evidence from Facebook in Mexico
-Valerie Karplus
-Assistant Professor of Global Economics and Management, Massachusetts Institute of Technology
- Smoke and Mirrors: Did China's Environmental Crackdowns Lead to Persistent Changes in Polluting Firm Behavior? 
-Smoke and Mirrors: Did China's Environmental Crackdowns Lead to Persistent Changes in Polluting Firm Behavior?
-Amy Verdun
-Professor, University of Victoria
-Paul Avey
-Assistant Professor, Virginia Tech
-Debra Thompson
-Associate Professor, McGill University
- Return: Race, Democracy, and the Boundaries of Belonging in North America 
-Return: Race, Democracy, and the Boundaries of Belonging in North America
-Chen Wang
-Ph.D. Candidate, University of Virginia
- Educating the Newcomer: Leadership Turnovers and the Targeting of Militarized Challenges 
-Educating the Newcomer: Leadership Turnovers and the Targeting of Militarized Challenges
-Yuhua Wang
- Elite Kinship Networks and State-Building Preferences in Imperial China 
-Elite Kinship Networks and State-Building Preferences in Imperial China
-David Victor
-Professor, University of California San Diego
- The New International Politics of Climate Change 
-The New International Politics of Climate Change
-Mia Hassan
-Assistant Professor, University of Michigan
-Joshua Alley
-Post-doctoral Research Associate, University of Virginia
- Public Opinion Towards Military Alliances 
-Public Opinion Towards Military Alliances
 Susan Stokes
 Tiffany and Margaret Blake Distinguished Service Professor,  University of Chicago
  Is 'Direct Democracy' Good for Democracy? 
@@ -477,3 +452,28 @@ Reid Pauly
 Assistant Professor, Brown University
  The Assurance Dilemma in Coercive International Politics 
 The Assurance Dilemma in Coercive International Politics
+Amy Verdun
+Professor, University of Victoria
+Paul Avey
+Assistant Professor, Virginia Tech
+Debra Thompson
+Associate Professor, McGill University
+ Return: Race, Democracy, and the Boundaries of Belonging in North America 
+Return: Race, Democracy, and the Boundaries of Belonging in North America
+Chen Wang
+Ph.D. Candidate, University of Virginia
+ Educating the Newcomer: Leadership Turnovers and the Targeting of Militarized Challenges 
+Educating the Newcomer: Leadership Turnovers and the Targeting of Militarized Challenges
+Yuhua Wang
+ Elite Kinship Networks and State-Building Preferences in Imperial China 
+Elite Kinship Networks and State-Building Preferences in Imperial China
+David Victor
+Professor, University of California San Diego
+ The New International Politics of Climate Change 
+The New International Politics of Climate Change
+Mia Hassan
+Assistant Professor, University of Michigan
+Joshua Alley
+Post-doctoral Research Associate, University of Virginia
+ Public Opinion Towards Military Alliances 
+Public Opinion Towards Military Alliances

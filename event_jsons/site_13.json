@@ -22,6 +22,13 @@
     "Location": "229 Bryan Hall"
   },
   {
+    "Title": " The Trans Care Lecture Series",
+    "Start Time": null,
+    "End Time": null,
+    "Date": null,
+    "Location": null
+  },
+  {
     "Title": "Ther PickensIn the wake of Brad Lomax: Paul Beattys Tuff, the Americans with Disabilities Act, and the Promise of Satire",
     "Start Time": null,
     "End Time": null,
@@ -156,8 +163,8 @@
   },
   {
     "Title": "Reducing Sexual Harassment at UVAA Day of Discussion",
-    "Start Time": "9:00am",
-    "End Time": "5:00pm",
+    "Start Time": "9am",
+    "End Time": "5pm",
     "Date": null,
     "Location": "Harrison Institute Auditorium"
   }

@@ -1,38 +1,31 @@
 
 [
   {
-    "Title": "Undergraduate Information Sessions + Campbell Hall Tours  Spring 2024",
-    "Start Time": "11:30AM",
-    "End Time": "1PM",
-    "Date": "February 16 - April 19",
-    "Location": null
-  },
-  {
-    "Title": "Inaugural Virginia Architecture Fellows Showcase",
+    "Title": "Exhibition & Gallery Talk",
     "Start Time": "6PM",
     "End Time": null,
-    "Date": "April 15 - April 26",
+    "Date": "04.15 - 04.26",
     "Location": "Campbell Elmaleh Gallery & Mezzanine"
   },
   {
-    "Title": "Particulate Matters",
-    "Start Time": "5PM",
+    "Title": "Stan Winston & Steve Warner Festival of the Moving Creature",
+    "Start Time": "12PM",
     "End Time": null,
-    "Date": "April 18",
-    "Location": "Campbell 153"
+    "Date": "04.15 - 04.26",
+    "Location": "Campbell Elmaleh Gallery & Mezzanine"
   },
   {
-    "Title": "Stan Winston & Steve Warner Festival of the Moving Creature",
+    "Title": "Parade & Dance Party",
     "Start Time": "7PM",
     "End Time": "9PM",
-    "Date": "April 26",
+    "Date": "04.26",
     "Location": "Betsy and John Casteen Arts Grounds"
   },
   {
     "Title": "100 Days of Making",
     "Start Time": null,
     "End Time": null,
-    "Date": "April 27 - April 30",
+    "Date": "04.27 - 04.30",
     "Location": "Campbell East Wing Gallery"
   },
   {
@@ -46,7 +39,8 @@
     "Title": "UVA School of Architecture  Final Exercises 2024",
     "Start Time": null,
     "End Time": null,
-    "Date": "May 17 - May 19",
+    "Date": "05.17 - 05.19",
     "Location": "Campbell Hall, Lawn, and John Paul Jones Arena"
   }
 ]
+ 

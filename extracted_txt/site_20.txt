@@ -69,6 +69,15 @@ Frontiers in Global Development
 The Frontiers in Global Development seminar, co-hosted by the Department of Politics, Department of Economics, and the Batten School, with the generous support of the Bankard Fund.The talks will be variously hosted by Politics, Economics, and Batten  so times and locations (including a mix of virtual and in-person) will vary.For more information please reach out toGabrielle Kruks-Wisner.
 Current and Past Series
   
+ Aaditya Dar 
+ Assistant Professor, ISB Hyderabad 
+ Irrigation and the Spatial Pattern of Local Economic Development in India  
+ Jishnu Das 
+ Professor, Georgetown University 
+ Randomized Regulation: The Impact of Minimum Quality Standards on Health Markets  
+ Pavitra Suryanarayan 
+ Assistant Professor, Johns Hopkins University 
+ Hollowing out the State  
  Kanika Mahajan 
  Assistant Professor, Ashoka University 
  Aggregate Shocks, Domestic Trade Collapse and Regional Realignment  
@@ -86,29 +95,34 @@ Current and Past Series
  Shoumitro Chatterjee 
  Assistant Professor, Penn State 
  No Country for Dying Firms: Evidence from India  
- Aaditya Dar 
- Assistant Professor, ISB Hyderabad 
- Irrigation and the Spatial Pattern of Local Economic Development in India  
- Jishnu Das 
- Professor, Georgetown University 
- Randomized Regulation: The Impact of Minimum Quality Standards on Health Markets  
- Pavitra Suryanarayan 
- Assistant Professor, Johns Hopkins University 
- Hollowing out the State  
- Adrienne Lucas 
- University of Delaware 
- Tools for Teaching: Leveraging Technology to Improve Classroom Content Delivery  
  Kelsey Jack 
  Tufts University 
  Seasonal liquidity, rural labor markets, and agricultural production: Evidence from Zambia  
  Christopher Blattman 
  University of Chicago 
  Pushing crime around the corner? Estimating experimental impacts of large-scale security interventions  
+ Adrienne Lucas 
+ University of Delaware 
+ Tools for Teaching: Leveraging Technology to Improve Classroom Content Delivery  
  Mark Dincecco 
  University of Michigan 
  Internal Conflict, Elite Action, and State Failure: Evidence from China, 1000-1911  
  Irfan Nooruddin 
  Political Leadership and Sovereign Debt Ratings  
+ Ray Fisman 
+ Slater Family Professor in Behavioral Economics, Boston University 
+ Investing in influence: Investors, portfolio firms, and political giving  
+ Seema Jayachandran 
+ Professor of Economics, Northwestern University 
+ Upcoming Talk by  
+ Teresa Molina 
+ Assistant Professor, University of Hawaii 
+ Aprajit Mahajan 
+ Associate Professor, University of California, Berkeley 
+ Expanding Financial Access Via Credit Cards: Evidence from Mexico  
+ Shaoda Wang 
+ Assistant Professor, Harris School of Public Policy, University of Chicago 
+ Citizen Participation and Government Accountability: National-Scale Experimental Evidence from Pollution Appeals in China  
  Siwan Anderson 
  Professor, University of British Columbia 
  Marriage, Commitment and Unbundling Gendered Norms  
@@ -130,20 +144,6 @@ Current and Past Series
  Imran Rasul 
  University College London 
  How Do Workers and Firms Search and Match in Low-income Labour Markets? Evidence from a Six-Year Labor Market Experiment in Uganda  
- Ray Fisman 
- Slater Family Professor in Behavioral Economics, Boston University 
- Investing in influence: Investors, portfolio firms, and political giving  
- Seema Jayachandran 
- Professor of Economics, Northwestern University 
- Upcoming Talk by  
- Teresa Molina 
- Assistant Professor, University of Hawaii 
- Aprajit Mahajan 
- Associate Professor, University of California, Berkeley 
- Expanding Financial Access Via Credit Cards: Evidence from Mexico  
- Shaoda Wang 
- Assistant Professor, Harris School of Public Policy, University of Chicago 
- Citizen Participation and Government Accountability: National-Scale Experimental Evidence from Pollution Appeals in China  
 New Content Coming Soon!
 Contact Us
 PO Box 400787
@@ -157,6 +157,18 @@ Charlottesville, VA 22903
 Make a Gift
 Maintained by: 
 			
+Aaditya Dar
+Assistant Professor, ISB Hyderabad
+ Irrigation and the Spatial Pattern of Local Economic Development in India 
+Irrigation and the Spatial Pattern of Local Economic Development in India
+Jishnu Das
+Professor, Georgetown University
+ Randomized Regulation: The Impact of Minimum Quality Standards on Health Markets 
+Randomized Regulation: The Impact of Minimum Quality Standards on Health Markets
+Pavitra Suryanarayan
+Assistant Professor, Johns Hopkins University
+ Hollowing out the State 
+Hollowing out the State
 Kanika Mahajan
 Assistant Professor, Ashoka University
  Aggregate Shocks, Domestic Trade Collapse and Regional Realignment 
@@ -180,22 +192,6 @@ Shoumitro Chatterjee
 Assistant Professor, Penn State
  No Country for Dying Firms: Evidence from India 
 No Country for Dying Firms: Evidence from India
-Aaditya Dar
-Assistant Professor, ISB Hyderabad
- Irrigation and the Spatial Pattern of Local Economic Development in India 
-Irrigation and the Spatial Pattern of Local Economic Development in India
-Jishnu Das
-Professor, Georgetown University
- Randomized Regulation: The Impact of Minimum Quality Standards on Health Markets 
-Randomized Regulation: The Impact of Minimum Quality Standards on Health Markets
-Pavitra Suryanarayan
-Assistant Professor, Johns Hopkins University
- Hollowing out the State 
-Hollowing out the State
-Adrienne Lucas
-University of Delaware
- Tools for Teaching: Leveraging Technology to Improve Classroom Content Delivery 
-Tools for Teaching: Leveraging Technology to Improve Classroom Content Delivery
 Kelsey Jack
 Tufts University
  Seasonal liquidity, rural labor markets, and agricultural production: Evidence from Zambia 
@@ -204,6 +200,10 @@ Christopher Blattman
 University of Chicago
  Pushing crime around the corner? Estimating experimental impacts of large-scale security interventions 
 Pushing crime around the corner? Estimating experimental impacts of large-scale security interventions
+Adrienne Lucas
+University of Delaware
+ Tools for Teaching: Leveraging Technology to Improve Classroom Content Delivery 
+Tools for Teaching: Leveraging Technology to Improve Classroom Content Delivery
 University of Michigan
  Internal Conflict, Elite Action, and State Failure: Evidence from China, 1000-1911 
 Internal Conflict, Elite Action, and State Failure: Evidence from China, 1000-1911
@@ -212,6 +212,24 @@ Irfan Nooruddin
 Georgetown University
  Political Leadership and Sovereign Debt Ratings 
 Political Leadership and Sovereign Debt Ratings
+Ray Fisman
+Slater Family Professor in Behavioral Economics, Boston University
+ Investing in influence: Investors, portfolio firms, and political giving 
+Investing in influence: Investors, portfolio firms, and political giving
+Seema Jayachandran
+Professor of Economics, Northwestern University
+ Upcoming Talk by 
+Upcoming Talk by
+Teresa Molina
+Assistant Professor, University of Hawaii
+Aprajit Mahajan
+Associate Professor, University of California, Berkeley
+ Expanding Financial Access Via Credit Cards: Evidence from Mexico 
+Expanding Financial Access Via Credit Cards: Evidence from Mexico
+Shaoda Wang
+Assistant Professor, Harris School of Public Policy, University of Chicago
+ Citizen Participation and Government Accountability: National-Scale Experimental Evidence from Pollution Appeals in China 
+Citizen Participation and Government Accountability: National-Scale Experimental Evidence from Pollution Appeals in China
 Siwan Anderson
  Marriage, Commitment and Unbundling Gendered Norms 
 Marriage, Commitment and Unbundling Gendered Norms
@@ -239,21 +257,3 @@ Imran Rasul
 University College London
  How Do Workers and Firms Search and Match in Low-income Labour Markets? Evidence from a Six-Year Labor Market Experiment in Uganda 
 How Do Workers and Firms Search and Match in Low-income Labour Markets? Evidence from a Six-Year Labor Market Experiment in Uganda
-Ray Fisman
-Slater Family Professor in Behavioral Economics, Boston University
- Investing in influence: Investors, portfolio firms, and political giving 
-Investing in influence: Investors, portfolio firms, and political giving
-Seema Jayachandran
-Professor of Economics, Northwestern University
- Upcoming Talk by 
-Upcoming Talk by
-Teresa Molina
-Assistant Professor, University of Hawaii
-Aprajit Mahajan
-Associate Professor, University of California, Berkeley
- Expanding Financial Access Via Credit Cards: Evidence from Mexico 
-Expanding Financial Access Via Credit Cards: Evidence from Mexico
-Shaoda Wang
-Assistant Professor, Harris School of Public Policy, University of Chicago
- Citizen Participation and Government Accountability: National-Scale Experimental Evidence from Pollution Appeals in China 
-Citizen Participation and Government Accountability: National-Scale Experimental Evidence from Pollution Appeals in China

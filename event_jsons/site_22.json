@@ -1,59 +1,52 @@
 
 [
   {
-    "Title": "Tanmay Poddar  (Gravity) Probing new physics from tests of gravity and pulsar kick",
-    "Start Time": "1:00 PM",
-    "End Time": null,
-    "Date": "April 15",
-    "Location": "Online Room Zoom"
-  },
-  {
-    "Title": "Jason Pioquinto (Nuclear) Searching for New Physics with The Neutron Whispering Gallery",
-    "Start Time": "3:30 PM",
-    "End Time": null,
-    "Date": "April 16",
-    "Location": "Gibson Hall Room 211"
-  },
-  {
-    "Title": "Yonatan Kahn (High Energy) Dumb Machine Learning for Physics",
-    "Start Time": "4:00 PM",
-    "End Time": null,
-    "Date": "April 17",
-    "Location": "Dell 2 Room 100"
-  },
-  {
-    "Title": "John Preskill (Colloquium) Quantum Computing and the Entanglement Frontier",
-    "Start Time": "6:30 PM",
-    "End Time": null,
-    "Date": "April 18",
-    "Location": "Chemistry Building Room 402"
-  },
-  {
-    "Title": "Cristian Batista (Colloquium) Skyrmion Textures in Magnetic Materials",
-    "Start Time": "3:30 PM",
-    "End Time": null,
-    "Date": "April 19",
-    "Location": "Clark Hall Room 107"
-  },
-  {
-    "Title": "Tousif Islam (Gravity) Taming eccentricity in binary black hole mergers",
+    "Title": "Taming eccentricity in binary black hole mergers",
     "Start Time": "1:30 PM",
     "End Time": null,
     "Date": "April 22",
     "Location": "Physics Room 031"
   },
   {
-    "Title": "Dayne Coveyou (High Energy) TBA",
+    "Title": "A search for low mass resonances decaying into two jets and produced in association with a photon and development of pattern recognition algorithms for identifying track candidates in the ATLAS ITk detector",
+    "Start Time": "3:30 PM",
+    "End Time": null,
+    "Date": "April 23",
+    "Location": "Gibson Hall Room 211"
+  },
+  {
+    "Title": "Searches for Highly Ionizing, Subluminal Particles in the NOvA Far Detector",
     "Start Time": "4:00 PM",
     "End Time": null,
     "Date": "April 24",
-    "Location": null
+    "Location": "Dell 2 Room 100"
   },
   {
-    "Title": "Craig Dukes (Colloquium) Probing the Structures of Pyramids using Cosmic Ray Muon Tomography",
+    "Title": "Latest Trends and Opportunities in Photoemission Spectroscopy",
+    "Start Time": "2:00 PM",
+    "End Time": null,
+    "Date": "April 25",
+    "Location": "Physics Room 323"
+  },
+  {
+    "Title": "Probing the Structures of Pyramids using Cosmic Ray Muon Tomography",
     "Start Time": "3:30 PM",
     "End Time": null,
     "Date": "April 26",
+    "Location": "Clark Hall Room 107"
+  },
+  {
+    "Title": "TBA",
+    "Start Time": "3:30 PM",
+    "End Time": null,
+    "Date": "April 30",
+    "Location": null
+  },
+  {
+    "Title": "Recent Progress Toward the LDMX Experiment",
+    "Start Time": "4:00 PM",
+    "End Time": null,
+    "Date": "May 1",
     "Location": null
   }
 ]

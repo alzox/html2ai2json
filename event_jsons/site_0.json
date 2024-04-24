@@ -1,38 +1,38 @@
 
 [
   {
-    "Title": "Make a leather book cover",
-    "Start Time": "1:00PM",
-    "End Time": "3:00PM",
-    "Date": "April 17",
-    "Location": "Scholars' Lab Makerspace - Alderman 308i"
-  },
-  {
     "Title": "May the 4th",
     "Start Time": null,
     "End Time": null,
-    "Date": "May 3",
-    "Location": null
+    "Date": "May, 3",
+    "Location": "Scholars' Lab Makerspace - Alderman 308i" 
   },
   {
     "Title": "Mother's Day",
     "Start Time": null,
     "End Time": null,
-    "Date": "May 6",
+    "Date": "May, 6",
+    "Location": null
+  },
+  {
+    "Title": "Make a leather book cover",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "April, 17",
     "Location": null
   },
   {
     "Title": "Make a Website",
     "Start Time": null,
     "End Time": null,
-    "Date": "April 3",
+    "Date": "April, 3",
     "Location": null 
   },
   {
     "Title": "April Fools' Make-a-Prank",
     "Start Time": null,
     "End Time": null,
-    "Date": "April 1",
+    "Date": "April, 1",
     "Location": null
   }
 ]

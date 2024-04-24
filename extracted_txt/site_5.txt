@@ -150,32 +150,19 @@ Home
 Upcoming Events
 The University of Virginia School of Engineering and Applied Science sponsors many events of interest to alumni, friends, faculty, students and the community.
                       Filter Events By
-Apr 18
- UVA Physics Hoxton Lecture: John Preskill
-The quantum laws governing atoms and other tiny objects seem to defy common sense, and information encoded in quantum systems has weird properties that baffle our feeble human minds.
-Time:
-6:30 PM - 7:30 PM
-Location:
-Chemistry Building, Room 402
-Apr 19
-UVA Link Lab 2024 Spring Distinguished Research Award
-Please join us on Friday, April 19th for the DistinguishedResearchAward.
-12:30 PM - 1:30 PM
-UVA Link Lab | Olsson Hall 2nd Floor Arena
-ECE Seminar: Speaker: Dr. Charles E. Boyer
-The talk will discuss the technical advances that are enabling the use of improved products and technologies, including: Building Integrated Photovoltaics; Dynamic Glazing including Thermochromic and
-2:00 PM - 3:00 PM
-THORNTON HALL ROOM C311
 Apr 25
 Civil and Environmental Engineering Distinguished Speaker Series
 Built Environment
+Time:
 2:00 PM - 3:20 PM
 Apr 26
  BME Seminar: John Platig, Ph.D., University of Virginia
 John Platig, Ph.D., University of Virginia - Hosted by Mete Civelek, Ph.D. & Mohammad Fallahi-Sichani, Ph.D.
+2:00 PM - 3:00 PM
+Location:
 MR5 1041
 ECE Seminar: Speaker: Dr. Rounak Meyur
-THORNTON HALL ROOM E316
+Zoom link: https://virginia.zoom.us/j/98314640711?pwd=R3ZYLzBUU0VnMzIvRkx0OW9ta0hXQT09 
 May 19
 BME Diploma Ceremony: Final Exercises 2024
 11:30 AM - 12:30 PM
@@ -194,14 +181,17 @@ Seventh Annual Mid-Atlantic Advanced Biomanufacturing Symposium
 This meeting will bring together experts from industry, government, non-profitsand academia to discuss foundational research, technology developmentand product commercialization.
  - Jul 12
 Pinn Hall Conference Center, University of Virginia School of Medicine
-Next Page
-Page
-1
-2
-of 2
-Go
+Sep 13
+BME Mocktail Mixer
+BME's Annual Mocktail Mixer with mocktails provide by our friends at the The Go Bar.
+5:00 PM - 7:00 PM
+The grassy courtyard between MR4 - MR5 - MR6. Park in the McLeod Hall garage or along Crispell Drive.
+Sep 14
+BME Football Tailgate
+Join your BME friends - alumni, students, faculty, staff and friends - two hours before the kickoff for the UVA versus Maryland game for food, drink and cornhole.
+Rice Hall Courtyard, 85 Engineers Way, Charlottesville.
 UVA Engineers Make the World a Better Place: Pursuing better health care, designing the future of technology and creating sustainable solutions to society's challenges.
-Instagram
+Social
 facebook
 YouTube
 LinkedIn
@@ -216,7 +206,7 @@ Office Directory
 Jobs@UVA
 Current Grads
 Diversity
-Social
+Instagram
 Thornton Hall,
 351 McCormick Road,
 Charlottesville,
@@ -237,6 +227,5 @@ Menu Quick
 Audience
 Menu Audience
 Close
-Previous Page
 Non-Discrimination Policy
 Media

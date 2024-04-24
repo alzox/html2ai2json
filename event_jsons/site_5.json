@@ -1,27 +1,6 @@
 
 [
   {
-    "Title": "UVA Physics Hoxton Lecture: John Preskill",
-    "Start Time": "6:30 PM",
-    "End Time": "7:30 PM",
-    "Date": "April 18",
-    "Location": "Chemistry Building, Room 402"
-  },
-  {
-    "Title": "UVA Link Lab 2024 Spring Distinguished Research Award",
-    "Start Time": "12:30 PM",
-    "End Time": "1:30 PM",
-    "Date": "April 19",
-    "Location": "UVA Link Lab | Olsson Hall 2nd Floor Arena"
-  },
-  {
-    "Title": "ECE Seminar: Speaker: Dr. Charles E. Boyer",
-    "Start Time": "2:00 PM",
-    "End Time": "3:00 PM",
-    "Date": "April 19",
-    "Location": "THORNTON HALL ROOM C311"
-  },
-  {
     "Title": "Civil and Environmental Engineering Distinguished Speaker Series",
     "Start Time": "2:00 PM",
     "End Time": "3:20 PM",
@@ -30,8 +9,8 @@
   },
   {
     "Title": "BME Seminar: John Platig, Ph.D., University of Virginia",
-    "Start Time": null,
-    "End Time": null,
+    "Start Time": "2:00 PM",
+    "End Time": "3:00 PM",
     "Date": "April 26",
     "Location": "MR5 1041"
   },
@@ -40,7 +19,7 @@
     "Start Time": null,
     "End Time": null,
     "Date": "April 26",
-    "Location": "THORNTON HALL ROOM E316"
+    "Location": "Zoom link: https://virginia.zoom.us/j/98314640711?pwd=R3ZYLzBUU0VnMzIvRkx0OW9ta0hXQT09"
   },
   {
     "Title": "BME Diploma Ceremony: Final Exercises 2024",
@@ -69,6 +48,19 @@
     "End Time": null,
     "Date": "Jul 11 - Jul 12",
     "Location": "Pinn Hall Conference Center, University of Virginia School of Medicine"
+  },
+  {
+    "Title": "BME Mocktail Mixer",
+    "Start Time": "5:00 PM",
+    "End Time": "7:00 PM",
+    "Date": "Sep 13",
+    "Location": "The grassy courtyard between MR4 - MR5 - MR6. Park in the McLeod Hall garage or along Crispell Drive."
+  },
+  {
+    "Title": "BME Football Tailgate",
+    "Start Time": null,
+    "End Time": null,
+    "Date": "Sep 14",
+    "Location": "Rice Hall Courtyard, 85 Engineers Way, Charlottesville."
   }
 ]
- 
