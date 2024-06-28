@@ -1,7 +1,0 @@
-Event:
-- Title: The name of the event (String)
-- Description: Detailed information about the event (String)
-- Start Time: The date and time when the event starts (DateTime)
-- End Time: The date and time when the event ends (DateTime)
-- Location: Where the event takes place (String)
-- Department: The department responsible for the event (String)
