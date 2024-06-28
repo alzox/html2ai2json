@@ -7,18 +7,22 @@ The technical motivation of the project was wanting to use LLMs, specifically '*
 
 ### Prerequisites
 
-- Python 3.x
-- pip
-- Selenium WebDriver
+- Python
+- Google Cloud *Free Tier is Fine
+- Google CLI (https://cloud.google.com/sdk/docs/install)
+- Selenium WebDriver (https://googlechromelabs.github.io/chrome-for-testing/)
 
 ### Installation
 
 1. Clone the repository:
-# Status: In-Development
-* Created a .csv file for now before setting up an interactive fun dashboard.
-* Can be imported into Google Calendar as a quick solution.
-* Current problems w/ the scraping, extraction, and processing can be found in reflections.txt.
+```
+git clone https://github.com/You-Gao/UVA-Event-Oracle.git
+pip install -r requirements.txt
+gcloud auth login
+```
 
-# Goals:
-* Setup DB
-* Create a interactive and fun site
+2. Set-up Items:
+* In "scraping notebook.ipynb" replace project_id and location to match your Google Cloud Project
+* Download the Selenium WebDriver and have the PATH env set correctly
+
+With all said and done, the project should run correctly... *Fingers Crossed
