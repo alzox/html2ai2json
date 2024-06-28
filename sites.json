@@ -34,7 +34,7 @@
    {
      "site": "https://commcal.mcintire.virginia.edu/",
      "js": true,
-     "target": "EventCard_event__kHN5V",
+     "target": "em-card_event-text",
      "department": "McIntire School of Commerce"
    },
    {
