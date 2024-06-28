@@ -1,0 +1,9 @@
+bs4
+json
+matplotlib
+os
+pandas
+requests
+selenium
+time
+vertex-ai
