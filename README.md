@@ -26,3 +26,7 @@ gcloud auth login
 * Download the Selenium WebDriver and have the PATH env set correctly
 
 With all said and done, the project should run correctly... *Fingers Crossed
+
+## License
+This project is licensed under the [Creative Commons CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/). See the [LICENSE](LICENSE) file for more details.
+
