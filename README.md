@@ -3,7 +3,7 @@ This project is designed to scrape events from a list of UVA calendar sites with
 
 The technical motivation of the project was wanting to use LLMs, specifically '**VertexAI**' (Google Cloud AI), to extract and create a JSON file from processed HTML files. However, what drove me was a more personal goal to explore what was going on around UVA and the different seminars that were being hosted.
 
-## Getting Started
+## Installation
 
 ### Prerequisites
 
@@ -12,7 +12,7 @@ The technical motivation of the project was wanting to use LLMs, specifically '*
 - Google CLI (https://cloud.google.com/sdk/docs/install)
 - Selenium WebDriver (https://googlechromelabs.github.io/chrome-for-testing/)
 
-### Installation
+### Set-Up
 
 1. Clone the repository:
 ```
@@ -21,10 +21,11 @@ pip install -r requirements.txt
 gcloud auth login
 ```
 
-2. Set-up Items:
+2. Modify Variables:
 * In "scraping notebook.ipynb" replace project_id and location to match your Google Cloud Project
 * Download the Selenium WebDriver and have the PATH env set correctly
 
+## Usage (WIP)
 With all said and done, the project should run correctly... *Fingers Crossed
 
 ## License
