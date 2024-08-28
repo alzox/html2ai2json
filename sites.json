@@ -2,13 +2,14 @@
    {
      "site": "https://scholarslab.lib.virginia.edu/events/",
      "js": false,
+     "class": "events-gallery__item",
      "department": "Scholars' Lab"
    },
    {
      "site": "https://www.virginia.edu/calendar",
      "js": true,
-     "target": "month",
-     "class":"monthWrap",
+     "target": "trumba.spud.5.iframe",
+     "class":"twWeekTbl",
      "department": "University of Virginia"
    },
    {
