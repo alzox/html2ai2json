@@ -7,196 +7,160 @@
    {
      "site": "https://www.virginia.edu/calendar",
      "js": true,
-     "target": "trumba.spud.5.iframe",
+     "target": "month",
+     "class":"monthWrap",
      "department": "University of Virginia"
    },
    {
      "site": "https://education.virginia.edu/events",
      "js": false,
+     "class":"\"views-row\"",
      "department": "School of Education and Human Development"
    },
    {
      "site": "https://global.virginia.edu/events",
      "js": false,
+     "class":"views-row",
      "department": "UVA Global"
    },
    {
      "site": "https://cal.lib.virginia.edu/calendar/events?cid=4299&t=m&d=0000-00-00&cal=4299&ct=69160,33395,66337,31015,30813,51597,58853,58854,58855,58856,70846,45972,31362,27888,30045,27381,57994,54907,26930,29624,56703,66253,66255,66338,46136,70848,33496,70427,27725,29618,63738,28898,33396,38996,50481,70849,51598,29985&inc=0",
      "js": true,
      "target": "s-lc-mc-evt",
+     "class": "s-lc-mc-evt",
      "department": "University of Virginia Library"
    },
    {
      "site": "https://engineering.virginia.edu/news-events/events",
      "js": false,
+     "class": "event_list_row",
      "department": "School of Engineering and Applied Science"
    },
    {
-     "site": "https://commcal.mcintire.virginia.edu/",
-     "js": true,
-     "target": "em-card_event-text",
+     "site": "https://events.mcintire.virginia.edu/calendar",
+     "js": false,
+     "class": "em-card",
      "department": "McIntire School of Commerce"
    },
    {
      "site": "https://www.arch.virginia.edu/events?search=&start=&end=&range=upcoming&events=&pageindex=0&pagesize=12",
      "js": true,
-     "target": "card__detail",
+     "target": "item block-grid__item",
+     "class": "item block-grid__item",
      "department": "School of Architecture"
    },
    {
-     "site": "https://news.med.virginia.edu/",
+     "site": "https://news.med.virginia.edu/category/events/",
      "js": false,
+     "class": "row",
      "department": "School of Medicine"
    },
    {
-     "site": "https://events.batten.virginia.edu/",
-     "js": true,
-     "target": "spud913f6613-59b3-4547-ba85-97693a7c9dbb.iframe",
-     "department": "Frank Batten School of Leadership and Public Policy"
-   },
-   {
-     "site": "https://economics.virginia.edu/calendar/month?date=2024-04",
+     "site": "https://economics.virginia.edu/calendar",
      "js": false,
+     "class": "single-day",
      "department": "Department of Economics"
    },
    {
-     "site": "https://career.virginia.edu/Employers",
+     "site": "https://career.virginia.edu/important-fall-2024-recruiting-dates",
      "js": false,
+     "class":"Table",
      "department": "UVA Career Center"
    },
    {
-      "site": "https://ihgc.as.virginia.edu/events",
+      "site": "https://ihgc.as.virginia.edu/upcoming-events",
       "js": false,
+      "class":"views-row",
       "department": "Institue of Humanities and Global Culture"
    },
    {
       "site": "https://wgs.as.virginia.edu/events-page",
       "js": false,
+      "class":"views-row",
       "department": "Women and Gender Studies"
    },
    {
       "site": "https://sociology.as.virginia.edu/events",
       "js": false,
+      "class":"item-list",
       "department": "Sociology"
    },
    {
       "site": "https://religiousstudies.as.virginia.edu/events",
       "js": false,
+      "class":"item-list",
       "department": "Religious Studies"
    },
    {
       "site": "https://music.virginia.edu/events",
       "js": false,
+      "class":"views-row",
       "department": "Music"
    },
    {
       "site": "https://slavic.as.virginia.edu/events",
       "js": false,
+      "class":"item-list",
       "department": "Slavic Languages and Literatures"
-   },
-   {
-      "site": "https://politics.virginia.edu/political-theory-colloquium",
-      "js": false,
-      "department": "Politics"
-   },
-   {
-      "site": "https://politics.virginia.edu/lansing-b",
-      "js": false,
-      "department": "Politics"
-   },
-   {
-      "site": "https://politics.virginia.edu/frontiers-global-development",
-      "js": false,
-      "department": "Politics"
-   },
-   {
-      "site": "https://politics.virginia.edu/american-politics-seminar",
-      "js": false,
-      "department": "Politics"
-   },
-   {
-      "site": "https://www.phys.virginia.edu/Announcements/",
-      "js": false,
-      "department": "Physics"
-   },
-   {
-      "site": "https://indigenousarts.as.virginia.edu/events-calendar/2024-04",
-      "js": false,
-      "department": "Indigenous Arts"
    },
    {
       "site": "https://mediastudies.as.virginia.edu/events",
       "js": false,
+      "class": "calendar-view-day",
       "department": "Media Studies"
-   },
-   {
-      "site": "https://math.virginia.edu/calendar/",
-      "js": false,
-      "department": "Mathematics"
-   },
-   {
-      "site": "https://linguistics.virginia.edu/events",
-      "js": false,
-      "department": "Linguistics"
-   },
-   {
-      "site": "https://latinamerican.virginia.edu/events",
-      "js": false,
-      "department": "Latin American Studies"
-   },
-   {
-      "site": "https://bioethics.as.virginia.edu/upcoming-events",
-      "js": false,
-      "department": "Bioethics"
    },
    {
       "site": "https://french.as.virginia.edu/events",
       "js": false,
+      "class":"item-list",
       "department": "French"
-   },
-   {
-      "site": "https://evsc.as.virginia.edu/seminars",
-      "js": false,
-      "department": "Environmental Sciences"
    },
    {
       "site": "https://drama.virginia.edu/calendar",
       "js": false,
+      "class": "calendar-view-day",
       "department": "Drama"
    },
    {
       "site":"https://classics.as.virginia.edu/events",
       "js":false,
+      "class":"item-list",
       "department":"Classics"
    },
    {
       "site":"https://bio.as.virginia.edu/calendar",
       "js":false,
+      "class": "calendar-view-day",
       "department":"Biology"
    },
    {
     "site":"https://art.as.virginia.edu/upcoming-events",
     "js":false,
+    "class":"views-row",
     "department":"Art"
    },
    {
     "site":"https://anthropology.as.virginia.edu/events",
     "js":false,
+    "class":"item-list",
     "department":"Anthropology"
    },
    {
     "site":"https://americanstudies.as.virginia.edu/events",
     "js":false,
+    "class":"item-list",
     "department":"American Studies"
    },
    {
     "site":"https://archaeology.virginia.edu/events",
     "js":false,
+    "class":"views-row",
     "department":"Africana Studies"
    },
    {
     "site":"https://woodson.as.virginia.edu/events",
     "js":false,
+    "class":"item-list",
     "department":"Woodson Institute"
    }
 

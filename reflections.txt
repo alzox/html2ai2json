@@ -7,6 +7,12 @@ What works:
 
 What doesn't work:
 * Processing rules for all dates like A-School (M.D) (Will Show up as NAT in nan_df)
+* I axed Politics, site is not updated
+
+Math - need to just take their calendar
+Physics - need to just take their calendar
+Batten - need to just take their calendar
+Career Events - need to update each semester
 
 Site Timeframes Analysis:
 https://scholarslab.lib.virginia.edu/events/ - All Planned
