@@ -3,7 +3,7 @@ This project is designed to scrape events from a list of UVA calendar sites with
 
 The technical motivation of the project was wanting to use LLMs, specifically '**VertexAI**' (Google Cloud AI), to extract and create a JSON file from processed HTML files. However, what drove me was a more personal goal to explore what was going on around UVA and the different seminars that were being hosted.
 
-This project will be completely useless 
+This project will be completely useless if they have all have g calendars set-up.
 
 ## Installation
 
