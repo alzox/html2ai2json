@@ -1,17 +1,20 @@
-## UVA Event Oracle (www.yougao.dev/UVA-Event-Oracle/)
-This project is designed to scrape events from a list of UVA calendar sites within different departments and process them into a structured format (JSON or CSV). It utilizes '**requests**' and '**Selenium**' for web scraping, allowing for interaction with JavaScript-rendered content. 
+## html2ai2json 
 
-The technical motivation of the project was wanting to use LLMs, specifically '**VertexAI**' (Google Cloud AI), to extract and create a JSON file from processed HTML files. However, what drove me was a more personal goal to explore what was going on around UVA and the different seminars that were being hosted.
+Usually for web-scraping you have to manually identify the classes or "structure" of the webpage and then manually code the schema up in order to parse the page into a desired format. Why not let an LLM handle that problem for you? That was the guiding question for this project and just seeing how effective it was.
 
-This project would be completely useless if the departments all had g calendars set-up.
+The key heuristic/insight here is that HTML itself is already a pretty structured language. It becomes even more structured when developers apply classes that are usually repeated when being used to display textual or quantitative information. So the foundation of converting HTML to JSON is seeing if there are repeated classes and only selecting those chunks to pass into the LLM.
+
+An important disclaimer, I think especially when it comes to textual data, is that it's not performing any "coding" or "analysis" on the textual information, it is simply returning a programmatic interface, or in another words its just returning JSON. Sometimes it even just returns the HTML structure in JSON format if there weren't any specific classes that would give a valid result.
+
+The end goal for all of this is that it's easier to load and work with JSON than HTML for analysis, at least for me.
+
 
 ## Installation
 
 ### Prerequisites
 
 - Python
-- Google Cloud *Free Tier is Fine
-- Google CLI (https://cloud.google.com/sdk/docs/install)
+- Mistral Free (https://console.mistral.ai/home)
 - Selenium WebDriver (https://googlechromelabs.github.io/chrome-for-testing/)
 
 ### Set-Up
@@ -20,11 +23,10 @@ This project would be completely useless if the departments all had g calendars 
 ```
 git clone https://github.com/You-Gao/UVA-Event-Oracle.git
 pip install -r requirements.txt
-gcloud auth login
 ```
 
 2. Modify Variables:
-* In "scraping notebook.ipynb" replace project_id and location to match your Google Cloud Project
+* Set the website you want to scrape in the notebook.
 * Download the Selenium WebDriver and have the PATH env set correctly
 
 ## Usage (WIP)

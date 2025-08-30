@@ -1,4 +1,2 @@
-event_jsons/
-extracted_txt/
-test_extractions_txt/
-allevents_csv/
+.ENV
+__pycache__/
