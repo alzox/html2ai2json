@@ -4,7 +4,7 @@ Usually for web-scraping you have to manually identify the classes or "structure
 
 The key heuristic/insight here is that HTML itself is already a pretty structured language. It becomes even more structured when developers apply classes that are usually repeated when being used to display textual or quantitative information. So the foundation of converting HTML to JSON is seeing if there are repeated classes and only selecting those chunks to pass into the LLM.
 
-An important disclaimer, I think especially when it comes to textual data, is that it's not performing any "coding" or "analysis" on the textual information, it is simply returning a programmatic interface, or in another words its just returning JSON. Sometimes it even just returns the HTML structure in JSON format if there weren't any specific classes that would give a valid result.
+An important disclaimer, I think especially when it comes to textual data, is that it's not performing any "coding" or "analysis" on the textual information, it is simply returning a data interface, or in another words its just returning JSON. Sometimes it even just returns the HTML structure in JSON format if there weren't any specific classes that would give a valid result.
 
 The end goal for all of this is that it's easier to load and work with JSON than HTML for analysis, at least for me.
 
